@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title:  "Updated Site"
 date:   2021-12-30 14:44:35 -0500
 categories: updates
