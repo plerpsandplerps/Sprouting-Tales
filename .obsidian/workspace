@@ -24,7 +24,7 @@
           "type": "markdown",
           "state": {
             "file": "Prologue.md",
-            "mode": "preview",
+            "mode": "source",
             "backlinks": true,
             "source": false
           }
@@ -128,14 +128,14 @@
   "active": "889fb3f07219a120",
   "lastOpenFiles": [
     "Prologue.md",
+    "Art_Inferno.png",
+    "Art_Tavern.png",
     "Basics.md",
     "TTRPGBasics.md",
     "_posts/2022-12-30-FirstPath.md",
     "_posts/2021-12-30-Update.md",
-    "Art_Tavern.png",
     "2021-.md",
     "_templates/posts.md",
-    "_templates/pages.md",
-    "_site/assets/minima-social-icons.svg"
+    "_templates/pages.md"
   ]
 }
