@@ -4,17 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "26c5886b3f7350e2",
+        "id": "889fb3f07219a120",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2021-12-30-my-first-blog-post.md",
+            "file": "Prologue.md",
             "mode": "source",
             "backlinks": true,
             "source": false
           }
-        }
+        },
+        "group": "aceec12fda029dfe"
+      },
+      {
+        "id": "723d724cda9b0a8c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Prologue.md",
+            "mode": "preview",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "group": "aceec12fda029dfe"
       }
     ],
     "direction": "vertical"
@@ -70,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2021-12-30-my-first-blog-post.md",
+                "file": "Prologue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2021-12-30-my-first-blog-post.md"
+                "file": "Prologue.md"
               }
             }
           },
@@ -97,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2021-12-30-my-first-blog-post.md",
+                "file": "Prologue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,17 +125,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "26c5886b3f7350e2",
+  "active": "889fb3f07219a120",
   "lastOpenFiles": [
-    "_posts/2021-12-30-my-first-blog-post.md",
-    "_site/assets/minima-social-icons.svg",
-    "index.md",
+    "Prologue.md",
     "Basics.md",
-    "_templates/2021-12-30-Page.md",
-    "_templates/2021-12-30-BlogPost.md",
-    "about.md",
+    "TTRPGBasics.md",
+    "_posts/2022-12-30-FirstPath.md",
+    "_posts/2021-12-30-Update.md",
     "Art_Tavern.png",
-    "_site/Art_Tavern.png",
-    "_drafts/Update/TTRPGBasics.md"
+    "2021-.md",
+    "_templates/posts.md",
+    "_templates/pages.md",
+    "_site/assets/minima-social-icons.svg"
   ]
 }

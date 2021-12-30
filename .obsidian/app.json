@@ -10,5 +10,6 @@
   "autoConvertHtml": false,
   "showUnsupportedFiles": true,
   "defaultViewMode": "source",
-  "showFrontmatter": true
+  "showFrontmatter": true,
+  "fileSortOrder": "byModifiedTime"
 }
