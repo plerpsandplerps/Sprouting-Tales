@@ -1,0 +1,10 @@
+---
+layout: page
+title:  "Updated Site"
+date:   2021-12-30 14:44:35 -0500
+categories: updates
+permalink: /:categories/:day/:year/:month/:title
+author: "Plerps"
+---
+
+The site has been updated to prepare for more consistent hosting of the rules.  Hoping to post more soon. 

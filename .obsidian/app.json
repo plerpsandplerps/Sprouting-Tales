@@ -1,0 +1,14 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "alwaysUpdateLinks": false,
+  "newLinkFormat": "absolute",
+  "useMarkdownLinks": true,
+  "strictLineBreaks": true,
+  "showLineNumber": true,
+  "spellcheck": true,
+  "autoConvertHtml": false,
+  "showUnsupportedFiles": true,
+  "defaultViewMode": "source",
+  "showFrontmatter": true
+}
