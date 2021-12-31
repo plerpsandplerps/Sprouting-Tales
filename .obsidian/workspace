@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Introduction/index.md",
+            "file": "_docs/Introduction/index.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Introduction/index.md",
+                "file": "_docs/Introduction/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Introduction/index.md"
+                "file": "_docs/Introduction/index.md"
               }
             }
           },
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Introduction/index.md",
+                "file": "_docs/Introduction/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,15 +112,15 @@
   },
   "active": "889fb3f07219a120",
   "lastOpenFiles": [
-    "docs/Introduction/index.md",
-    "docs/Introduction/Basics.md",
+    "_docs/Introduction/index.md",
     "index.md",
+    "discord.gg/tJjGUNJAZP.md",
+    "_docs/Introduction/Basics.md",
     "_templates/posts.md",
     "about.md",
     "Art_Inferno.png",
     "_templates/pages.md",
     "_posts/2021-12-30-Update.md",
-    "Prologue.md",
-    "Art_Tavern.png"
+    "Prologue.md"
   ]
 }

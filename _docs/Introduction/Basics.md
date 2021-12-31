@@ -9,7 +9,7 @@ parent: Introduction
 
 ---
 
-<img src="Art_Tavern.png" alt="Adventurers in a Tavern">
+<img src="https://plerpsandplerps.github.io/Sprouting-Tales/Art_Tavern.png" alt="Adventurers in a Tavern">
 
 <details open markdown="block">
   <summary>
