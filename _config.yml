@@ -27,7 +27,6 @@ github_username:  plerpsandplerps
 
 # Build settings
 remote_theme: pmarsceill/just-the-docs
-color_scheme: custom
 plugins:
   - jekyll-feed
 
