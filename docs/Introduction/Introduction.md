@@ -1,10 +1,11 @@
 ---
-layout: page
-title:  "Introduction"
-author: "Plerps"
+layout: default
+title:  Introduction
+author: Plerps
 has_children: true
 nav_order: 1
 has_toc: true
+permalink: /docs/Introduction
 ---
 
 # Introduction

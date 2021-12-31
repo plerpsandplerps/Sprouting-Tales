@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Basics"
+layout: default
+title: Basics
 parent: Introduction
+nav_order: 1
 ---
 
 # Basics
