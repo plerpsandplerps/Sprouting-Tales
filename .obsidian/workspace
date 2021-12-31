@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_docs/Introduction/index.md",
+            "file": "docs/Introduction/index.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_docs/Introduction/index.md",
+                "file": "docs/Introduction/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_docs/Introduction/index.md"
+                "file": "docs/Introduction/index.md"
               }
             }
           },
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_docs/Introduction/index.md",
+                "file": "docs/Introduction/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,10 +112,10 @@
   },
   "active": "889fb3f07219a120",
   "lastOpenFiles": [
-    "_docs/Introduction/index.md",
-    "index.md",
+    "docs/Introduction/index.md",
+    "docs/Introduction/Basics.md",
     "discord.gg/tJjGUNJAZP.md",
-    "_docs/Introduction/Basics.md",
+    "index.md",
     "_templates/posts.md",
     "about.md",
     "Art_Inferno.png",

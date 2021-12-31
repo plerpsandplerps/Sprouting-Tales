@@ -1,8 +1,6 @@
 ---
 layout: page
 title:  "Introduction"
-date:   2021-12-31 07:25:15 -0500
-categories: basics
 author: "Plerps"
 has_children: true
 nav_order: 1

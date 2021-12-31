@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Basics"
-categories: basics
 parent: Introduction
 ---
 
