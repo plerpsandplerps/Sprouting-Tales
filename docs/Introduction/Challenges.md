@@ -38,11 +38,11 @@ To resolve a Challenge the Adventurers are facing:
 2. Any Player whose Adventurer is facing the Challenge may put a [Trait Card](TraitCards) from their Hand on top of their [Branches](CardZones#Branches) or their [Roots](CardZones#Roots).
 2. Any Player whose Adventurer is facing the Challenge may choose to increase the Difficulty of the Challenge by one to [Discover](Challenges#Discover). If they do, that Player adds an additional facedown World Tree Card to the facedown pile for the Challenge.
 3. The Guide turns all World Tree Cards in the facedown pile faceup.
-4. Calculate an [Adventurer's Score](Challenges#Adventurer%20Score). 
+4. Calculate an [Adventurer's Score](Challenges#Adventurer-Score). 
 6. Any Player controlling an Adventurer facing the Challenge may [Kindle](CardZones#Kindling) any number of cards from their Branches. The Player turns one World Tree Card back facedown for each card the Player kindled.
-7. Calculate the [Challenge's Score](Challenges#Challenge%20Score).
+7. Calculate the [Challenge's Score](Challenges#Challenge-Score).
 8. If the Adventurer's Score is greater than or equal to the Challenge Score, the Adventurer is successful in overcoming the Challenge. Otherwise, the Adventurer fails to overcome the Challenge. 
-9. Resolve any remaining [Boons or Bane World Tree Cards](Challenges#Special%20World%20Tree%20Cards). 
+9. Resolve any remaining [Boons or Bane World Tree Cards](Challenges#Special-World-Tree-Cards). 
 
 ## Difficulty
 
@@ -72,7 +72,7 @@ When a **Boon World Tree Card** appears in a Challenge, the Adventurers facing t
 - Lose a [Doubt](ConsequenceCards#Doubt) or [Injury](ConsequenceCards#Injury) card; 
 - The Challenge takes less time to overcome;
 - The cover opponents are hiding behind is destroyed; or
-- The Adventurers gain a [Supply Card](GearandSupplyCards#Supply%20Cards). 
+- The Adventurers gain a [Supply Card](GearandSupplyCards#Supply-Cards). 
 
 ### Banes
 
