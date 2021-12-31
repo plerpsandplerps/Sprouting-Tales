@@ -48,7 +48,7 @@ Challenges have a **Difficulty**, a number chosen by the [Guide](Basics###Guide)
 
 ## Adventurer Score
 
-An **Adventurer's Score** is equal to the value of the top card of their Player's [Branches](CardZones##Branches) plus the top card of their Player's [Roots](CardZones##Roots). 
+An **Adventurer's Score** is equal to the value of the top card of their Player's Branches plus the top card of their Player's Roots. 
 
 ## Challenge Score
 
