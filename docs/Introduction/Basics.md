@@ -7,8 +7,10 @@ nav_order: 1
 
 # Basics
 
-	New Release
-	{: .label .label-purple }
+<div markdown="1">
+New Page
+{: .label .label-purple }
+</div>
 
 ---
 
@@ -16,10 +18,14 @@ nav_order: 1
 
 ---
 
-<div class="code-example" markdown="1">
-New Page
-{: .label .label-purple }
-</div>
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
 
 ---
 
