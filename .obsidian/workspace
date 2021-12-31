@@ -9,10 +9,10 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Introduction/Basics.md",
+            "file": "index.md",
             "mode": "source",
             "backlinks": true,
-            "source": false
+            "source": true
           }
         }
       }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Introduction/Basics.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Introduction/Basics.md"
+                "file": "index.md"
               }
             }
           },
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Introduction/Basics.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,9 +112,9 @@
   },
   "active": "889fb3f07219a120",
   "lastOpenFiles": [
-    "docs/Introduction/Basics.md",
-    "docs/Introduction/Introduction.md",
     "index.md",
+    "docs/Introduction/Introduction.md",
+    "docs/Introduction/Basics.md",
     "Giant Path_10.png",
     "discord.gg/tJjGUNJAZP.md",
     "_templates/posts.md",
