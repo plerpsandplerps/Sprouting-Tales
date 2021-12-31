@@ -16,7 +16,7 @@ New Page
 
 Occasionally [Adventurers](Basics#Adventurer) will face tasks that are difficult for them to complete. These tasks are called **Challenges**.
 
-<img align="right" src="https://plerpsandplerps.github.io/Sprouting-Tales/Art_Challenge.png" alt="Adventurers face a Challenge">
+<img align="right" src="https://plerpsandplerps.github.io/Sprouting-Tales/artwork/Art_Challenge.png" alt="Adventurers face a Challenge">
 
 ---
 

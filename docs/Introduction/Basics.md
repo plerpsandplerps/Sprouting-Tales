@@ -16,7 +16,7 @@ This page details the basics of playing a Tabletop Roleplaying Game and the role
 
 ---
 
-<img src="https://plerpsandplerps.github.io/Sprouting-Tales/Art_Tavern.png" alt="Adventurers in a Tavern">
+<img src="https://plerpsandplerps.github.io/Sprouting-Tales/artwork/Art_Tavern.png" alt="Adventurers in a Tavern">
 
 ---
 

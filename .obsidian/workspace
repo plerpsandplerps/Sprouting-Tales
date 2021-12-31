@@ -54,7 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 202
   },
   "right": {
     "id": "6442dd593bf226f7",
@@ -113,14 +113,14 @@
   "active": "313d8caaa042dc6c",
   "lastOpenFiles": [
     "_drafts/OrderCards.md",
-    "_drafts/ConsequenceCards.md",
-    "_drafts/GearandSupplyCards.md",
-    "_drafts/WorldTreeCards.md",
-    "docs/Introduction/Introduction.md",
-    "docs/Introduction/CardZones.md",
-    "docs/Introduction/Challenges.md",
     "docs/Introduction/Basics.md",
-    "index.md",
-    "Art_Challenge.png"
+    "docs/Introduction/Challenges.md",
+    "docs/Introduction/CardZones.md",
+    "docs/Introduction/Introduction.md",
+    "artwork/Art_Challenge.png",
+    "_drafts/GearandSupplyCards.md",
+    "_drafts/ConsequenceCards.md",
+    "_drafts/WorldTreeCards.md",
+    "index.md"
   ]
 }
