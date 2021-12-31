@@ -7,9 +7,14 @@ nav_order: 1
 
 # Basics
 
+New
+{: .label .label-purple }
+
 ---
 
 <img src="https://plerpsandplerps.github.io/Sprouting-Tales/Art_Tavern.png" alt="Adventurers in a Tavern">
+
+---
 
 <details open markdown="block">
   <summary>
@@ -19,6 +24,8 @@ nav_order: 1
 1. TOC
 {:toc}
 </details>
+
+---
 
 ## Roles
 
