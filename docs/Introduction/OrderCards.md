@@ -14,7 +14,7 @@ New Page
 
 ---
 
-**Order Cards** are used to decide who goes first when the order actions occur is important. This rules document includes several instances where it calls for the use of Order Cards. Outside of those instances, the [Guide](Introduction#Guide) decides when the order actions occur is important enough to warrant the use of the Order cards. 
+**Order Cards** are used to decide who goes first when the order actions occur is important. This rules document includes several instances where it calls for the use of Order Cards. Outside of those instances, the [Guide](Basics#Guide) decides when the order actions occur is important enough to warrant the use of the Order cards. 
 
 ## Using Order Cards
 
@@ -37,7 +37,7 @@ There is one Order Card with Wild written on it, this is the **Wild Order Card**
 
 The person with the Wild Order Card must make this decision before the other person says what they are going to do when they act.
 
-
+<!--
 
 ### Order Cards Gallery
 
@@ -58,3 +58,5 @@ The person with the Wild Order Card must make this decision before the other per
 <img src="https://plerpsandplerps.github.io/Sprouting-Tales/artwork/Order8.png" alt="Eighth Order Card">
 
 <img src="https://plerpsandplerps.github.io/Sprouting-Tales/artwork/Order9.png" alt="Ninth Order Card">
+
+-->
