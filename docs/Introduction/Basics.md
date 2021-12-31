@@ -7,8 +7,10 @@ nav_order: 1
 
 # Basics
 
-New
-{: .label .label-purple }
+<details open markdown="block">
+	New Release
+	{: .label .label-purple }
+</details>
 
 ---
 

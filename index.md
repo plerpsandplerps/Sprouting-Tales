@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Home
 nav_order: 1
 description: Sprouting Tales is a card based tabletop roleplaying game about how characters grow, change, and decay.
 permalink: /
@@ -15,8 +14,11 @@ Welcome!
 
 Sprouting Tales is a card based tabletop roleplaying game about how characters grow, change, and decay.
 
-More Coming soon
-{: .label .label-yellow }
+<details open markdown="block">
+	More Coming soon
+	{: .label .label-yellow }
+</details>
+
 
 ---
 
