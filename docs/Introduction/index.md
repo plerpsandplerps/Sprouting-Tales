@@ -5,8 +5,9 @@ date:   2021-12-31 07:25:15 -0500
 categories: basics
 permalink: /:title
 author: "Plerps"
-has_children:true
+has_children: true
 nav_order: 1
+has_toc: true
 ---
 
 # Introduction
