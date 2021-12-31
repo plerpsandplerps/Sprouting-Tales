@@ -41,9 +41,9 @@ The **Guide** describes the environments and the characters the Party interacts 
 
 Additionally, if there is a dispute about the rules or the rules do not cover something, the Guide serves as an arbitrator and makes rulings.
 
-### Adventurer
+### Player and Adventurer
 
-The participants other than the Guide take on the role of a **Player** controlling an **Adventurer**. An Adventurer is a main character in the story. Together the Adventurers form a **Party**, a group of allies journeying together through the fictional narrative.
+The participants other than the Guide take on the role of a **Player** controlling an **Adventurer**. An Adventurer is a main character in the fictional story. Together the Adventurers form a **Party**, a group of allies journeying together through the fictional narrative.
 
 ## How to Play a Tabletop Roleplaying Game
 

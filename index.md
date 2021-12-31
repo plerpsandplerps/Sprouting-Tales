@@ -7,7 +7,7 @@ permalink: /
 nav_exclude: true 
 ---
 
-# Introduction
+# Welcome
 
 ---
 
