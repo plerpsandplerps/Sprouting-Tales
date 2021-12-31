@@ -2,7 +2,6 @@
 layout: page
 title: "Basics"
 categories: basics
-nav_order: 2
 parent: Introduction
 ---
 

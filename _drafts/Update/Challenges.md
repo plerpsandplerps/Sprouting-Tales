@@ -2,7 +2,7 @@
 
 ---
 
-Occasionally [Adventurers](Basics##Adventurer) will face tasks that are difficult for them to complete. These tasks are called **Challenges**.
+Occasionally [Adventurers](docs/Introduction/Basics.md##Adventurer) will face tasks that are difficult for them to complete. These tasks are called **Challenges**.
 
 <img align="right" src="Challenge.png" alt="Adventurers face a Challenge">
 
@@ -19,7 +19,7 @@ To resolve a Challenge the Adventurers are facing:
 
 ## Difficulty
 
-Challenges have a **Difficulty**, a number chosen by the [Guide](Basics###Guide) between one and ten. Once the Difficulty is chosen by the Guide, the Guide places that many [World Tree Cards](WorldTreeCards) in a facedown pile. 
+Challenges have a **Difficulty**, a number chosen by the [Guide](docs/Introduction/Basics.md###Guide) between one and ten. Once the Difficulty is chosen by the Guide, the Guide places that many [World Tree Cards](WorldTreeCards) in a facedown pile. 
 
 ## Adventurer Score
 

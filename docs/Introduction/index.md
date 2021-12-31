@@ -1,8 +1,8 @@
 ---
 layout: page
-title:  "Title"
+title:  "Introduction"
 date:   2021-12-31 07:25:15 -0500
-categories: updates
+categories: basics
 permalink: /:title
 author: "Plerps"
 has_children:true
