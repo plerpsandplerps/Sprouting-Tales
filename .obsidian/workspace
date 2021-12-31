@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_drafts/OrderCards.md",
+            "file": "docs/Introduction/OrderCards.md",
             "mode": "source",
             "backlinks": true,
             "source": true
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_drafts/OrderCards.md",
+                "file": "docs/Introduction/OrderCards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_drafts/OrderCards.md"
+                "file": "docs/Introduction/OrderCards.md"
               }
             }
           },
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_drafts/OrderCards.md",
+                "file": "docs/Introduction/OrderCards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,7 +112,7 @@
   },
   "active": "313d8caaa042dc6c",
   "lastOpenFiles": [
-    "_drafts/OrderCards.md",
+    "docs/Introduction/OrderCards.md",
     "docs/Introduction/Basics.md",
     "docs/Introduction/Challenges.md",
     "docs/Introduction/CardZones.md",

@@ -62,7 +62,7 @@ When a Player whose Adventurer is facing a Challenge decides to **Discover,** th
 
 After completing the eight steps above, any Player who decided to Discover may choose one World Tree Card from the World Tree Cards in the Challenge. That Player places the chosen World Tree Card faceup on top of their Branches. 
 
-If multiple Players decided to Discover, then deal [Order Cards](_drafts/OrderCards.md) to decide the order in which Players pick World Tree Cards to add to their Branches. 
+If multiple Players decided to Discover, then deal [Order Cards](docs/Introduction/OrderCards.md) to decide the order in which Players pick World Tree Cards to add to their Branches. 
 
 ## Special World Tree Cards
 
