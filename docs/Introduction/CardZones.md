@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Card Zones
-has_children: true
 nav_order: 1
 has_toc: true
+parent: Introduction
 ---
 
 <div markdown="1">

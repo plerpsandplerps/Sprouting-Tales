@@ -3,7 +3,6 @@ layout: default
 title: Challenges
 parent: Introduction
 nav_order: 1
-nav_exclude: true
 ---
 
 <div markdown="1">
