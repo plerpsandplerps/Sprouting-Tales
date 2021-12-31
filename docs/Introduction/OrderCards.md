@@ -31,7 +31,11 @@ If there are not enough Order Cards for the Guide to draw one for each character
 
 ## Wild Order Card
 
+<!-- 
+
 <img align="right" src="https://plerpsandplerps.github.io/Sprouting-Tales/artwork/OrderWild.png" alt="Wild Order Card">
+
+-->
 
 There is one Order Card with Wild written on it, this is the **Wild Order Card**. The person with the Wild Order Card can decide to have their character(s) act before any other person's character(s) acts. 
 
