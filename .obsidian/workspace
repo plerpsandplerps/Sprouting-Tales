@@ -7,8 +7,13 @@
         "id": "313d8caaa042dc6c",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "_drafts/OrderCards.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": true
+          }
         }
       }
     ],
@@ -65,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_drafts/OrderCards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,7 +86,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_drafts/OrderCards.md"
+              }
             }
           },
           {
@@ -89,6 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_drafts/OrderCards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -103,15 +112,15 @@
   },
   "active": "313d8caaa042dc6c",
   "lastOpenFiles": [
-    "GearandSupplyCards.md",
-    "ConsequenceCards.md",
+    "_drafts/OrderCards.md",
+    "_drafts/ConsequenceCards.md",
+    "_drafts/GearandSupplyCards.md",
+    "_drafts/WorldTreeCards.md",
     "docs/Introduction/Introduction.md",
     "docs/Introduction/CardZones.md",
     "docs/Introduction/Challenges.md",
     "docs/Introduction/Basics.md",
     "index.md",
-    "Art_Challenge.png",
-    "_posts/2021-12-30-Update.md",
-    "docs/CardZones/Hand.md"
+    "Art_Challenge.png"
   ]
 }

@@ -46,7 +46,7 @@ To resolve a Challenge the Adventurers are facing:
 
 ## Difficulty
 
-Challenges have a **Difficulty**, a number chosen by the [Guide](Basics#Guide) between one and ten. Once the Difficulty is chosen by the Guide, the Guide places that many [World Tree Cards](WorldTreeCards) in a facedown pile. 
+Challenges have a **Difficulty**, a number chosen by the [Guide](Basics#Guide) between one and ten. Once the Difficulty is chosen by the Guide, the Guide places that many [World Tree Cards](_drafts/WorldTreeCards.md) in a facedown pile. 
 
 ## Adventurer Score
 
@@ -62,17 +62,17 @@ When a Player whose Adventurer is facing a Challenge decides to **Discover,** th
 
 After completing the eight steps above, any Player who decided to Discover may choose one World Tree Card from the World Tree Cards in the Challenge. That Player places the chosen World Tree Card faceup on top of their Branches. 
 
-If multiple Players decided to Discover, then deal [Order Cards](OrderCards) to decide the order in which Players pick World Tree Cards to add to their Branches. 
+If multiple Players decided to Discover, then deal [Order Cards](_drafts/OrderCards.md) to decide the order in which Players pick World Tree Cards to add to their Branches. 
 
 ## Special World Tree Cards
 
 ### Boons
 
 When a **Boon World Tree Card** appears in a Challenge, the Adventurers facing the Challenge gain a minor benefit. Anybody in the group can suggest a minor benefit; however, the Guide has final say in what minor benefit the group receives. Some example minor benefits include:
-- Lose a [Doubt](ConsequenceCards#Doubt) or [Injury](ConsequenceCards#Injury) card; 
+- Lose a [Doubt](_drafts/ConsequenceCards.md#Doubt) or [Injury](_drafts/ConsequenceCards.md#Injury) card; 
 - The Challenge takes less time to overcome;
 - The cover opponents are hiding behind is destroyed; or
-- The Adventurers gain a [Supply Card](GearandSupplyCards#Supply-Cards). 
+- The Adventurers gain a [Supply Card](_drafts/GearandSupplyCards.md#Supply-Cards). 
 
 ### Banes
 
