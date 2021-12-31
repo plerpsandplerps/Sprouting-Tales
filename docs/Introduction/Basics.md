@@ -5,12 +5,14 @@ parent: Introduction
 nav_order: 1
 ---
 
-# Basics
-
 <div markdown="1">
 New Page
 {: .label .label-purple }
 </div>
+
+# Basics
+
+This page details the basics of playing a Tabletop Roleplaying Game and the roles participants will take on. 
 
 ---
 
@@ -50,6 +52,8 @@ The participants other than the Guide take on the role of a **Player** controlli
 ## How to Play a Tabletop Roleplaying Game
 
 When you are playing any Tabletop Roleplaying Game, including Sprouting Tales, you are having a conversation. You are listening intently on the fictional story other players are creating and contributing your thoughts to this shared fiction.
+
+As a participant, you build on the contributions of others and share in an experience where the ultimate goal is entertainment. Therefore, each participant serves as a steward of each other participant's fun. This responsibility begins and ends with respect and communication.
 
 ### Core Loop
 

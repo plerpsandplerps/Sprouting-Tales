@@ -1,8 +1,34 @@
+---
+layout: default
+title: Card Zones
+has_children: true
+nav_order: 1
+has_toc: true
+---
+
+<div markdown="1">
+New Page
+{: .label .label-purple }
+</div>
+
 # Card Zones
 
 ---
 
 Cards always exist in a **Zone**, a space with defined characteristics.
+
+---
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
+---
 
 ### Hand
 
@@ -52,4 +78,4 @@ When there are no more cards in a Player's Roots and Branches, that Player shuff
 
 A Player can freely look through the cards in their Kindling and rearrange the order of these cards.
 
----
+

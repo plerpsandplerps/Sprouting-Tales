@@ -1,10 +1,36 @@
+---
+layout: default
+title: Challenges
+parent: Introduction
+nav_order: 1
+nav_exclude: true
+---
+
+<div markdown="1">
+New Page
+{: .label .label-purple }
+</div>
+
 # Challenges
+
+<img align="right" src="https://plerpsandplerps.github.io/Sprouting-Tales/Art_Challenge.png" alt="Adventurers face a Challenge">
+
+Occasionally [Adventurers](Basics##Adventurer) will face tasks that are difficult for them to complete. These tasks are called **Challenges**.
 
 ---
 
-Occasionally [Adventurers](docs/Introduction/Basics.md##Adventurer) will face tasks that are difficult for them to complete. These tasks are called **Challenges**.
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
 
-<img align="right" src="Challenge.png" alt="Adventurers face a Challenge">
+---
+
+## Resolving a Challenge
 
 To resolve a Challenge the Adventurers are facing:
 1. The Guide chooses the [Difficulty](Challenges##Difficulty) and sets that many World Tree Cards in a facedown pile for the Challenge. 
@@ -19,7 +45,7 @@ To resolve a Challenge the Adventurers are facing:
 
 ## Difficulty
 
-Challenges have a **Difficulty**, a number chosen by the [Guide](docs/Introduction/Basics.md###Guide) between one and ten. Once the Difficulty is chosen by the Guide, the Guide places that many [World Tree Cards](WorldTreeCards) in a facedown pile. 
+Challenges have a **Difficulty**, a number chosen by the [Guide](Basics###Guide) between one and ten. Once the Difficulty is chosen by the Guide, the Guide places that many [World Tree Cards](WorldTreeCards) in a facedown pile. 
 
 ## Adventurer Score
 
@@ -57,12 +83,7 @@ When a **Bane World Tree Card** appears in a Challenge, the Adventurers facing t
 
 ## Example Challenge Resolution
 
-to be added.
-
-<!-- 
-
-Insert example Challenge Resolution
-
--->
-
----
+<div markdown="1">
+More Coming soon
+{: .label .label-yellow }
+</div>
