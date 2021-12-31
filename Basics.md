@@ -2,11 +2,24 @@
 layout: page
 title: "Basics"
 categories: basics
+nav_order: 2
+parent: Introduction
+---
+
+# Basics
 
 ---
 
 <img src="Art_Tavern.png" alt="Adventurers in a Tavern">
 
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
 
 ## Roles
 
@@ -28,7 +41,7 @@ The participants other than the Guide take on the role of a **Player** controlli
 
 ## How to Play a Tabletop Roleplaying Game
 
-When you are playing Sprouting Tales, you are having a conversation. You are listening intently on the fictional story other players are creating and contributing your thoughts to this shared fiction.
+When you are playing any Tabletop Roleplaying Game, including Sprouting Tales, you are having a conversation. You are listening intently on the fictional story other players are creating and contributing your thoughts to this shared fiction.
 
 ### Core Loop
 

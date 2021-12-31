@@ -7,8 +7,13 @@
         "id": "889fb3f07219a120",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Introduction.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         },
         "group": "aceec12fda029dfe"
       },
@@ -16,8 +21,13 @@
         "id": "723d724cda9b0a8c",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Introduction.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         },
         "group": "aceec12fda029dfe"
       }
@@ -75,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,7 +101,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Introduction.md"
+              }
             }
           },
           {
@@ -99,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,15 +127,15 @@
   },
   "active": "889fb3f07219a120",
   "lastOpenFiles": [
-    "Prologue.md",
-    "Art_Inferno.png",
-    "Art_Tavern.png",
-    "Basics.md",
-    "TTRPGBasics.md",
-    "_posts/2022-12-30-FirstPath.md",
-    "_posts/2021-12-30-Update.md",
-    "2021-.md",
+    "Introduction.md",
     "_templates/posts.md",
-    "_templates/pages.md"
+    "Basics.md",
+    "about.md",
+    "Art_Inferno.png",
+    "_templates/pages.md",
+    "_posts/2021-12-30-Update.md",
+    "Prologue.md",
+    "Art_Tavern.png",
+    "TTRPGBasics.md"
   ]
 }
