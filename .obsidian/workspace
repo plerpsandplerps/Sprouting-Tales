@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "889fb3f07219a120",
+        "id": "313d8caaa042dc6c",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "docs/Introduction/Challenges.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": true
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -70,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Introduction/Challenges.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,9 +80,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "docs/Introduction/Challenges.md"
-              }
+              "state": {}
             }
           },
           {
@@ -97,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Introduction/Challenges.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,17 +101,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "889fb3f07219a120",
+  "active": "313d8caaa042dc6c",
   "lastOpenFiles": [
+    "GearandSupplyCards.md",
+    "ConsequenceCards.md",
+    "docs/Introduction/Introduction.md",
+    "docs/Introduction/CardZones.md",
     "docs/Introduction/Challenges.md",
     "docs/Introduction/Basics.md",
-    "docs/Introduction/CardZones.md",
-    "docs/Introduction/Introduction.md",
     "index.md",
     "Art_Challenge.png",
     "_posts/2021-12-30-Update.md",
-    "docs/CardZones/Hand.md",
-    "Giant Path_10.png",
-    "discord.gg/tJjGUNJAZP.md"
+    "docs/CardZones/Hand.md"
   ]
 }

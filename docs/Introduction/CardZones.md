@@ -50,7 +50,7 @@ Players can freely change the order of cards in their Hand and discuss the cards
 
 When an Adventurer begins a [Rest](Rest), they return all cards in their Hand, Kindling, and Branches to their Roots.
 
-When there are no more cards in a Player's Roots, that Player shuffles their Branches into their Roots. Then that Player chooses to draw an [Injury](Injury) or a [Doubt](Doubt).
+When there are no more cards in a Player's Roots, that Player shuffles their Branches into their Roots. Then that Player chooses to draw an [Injury](ConsequenceCards#Injury) or a [Doubt](ConsequenceCards#Doubt).
 
 A Player cannot look through the cards in their Roots nor change the order of the cards in their Roots.
 
@@ -74,7 +74,7 @@ When a Player Kindles a card they place it in their Kindling.
 
 <!-- insert example here -->
 
-When there are no more cards in a Player's Roots and Branches, that Player shuffles their Kindling into their Roots. Then that Player chooses to draw an [Injury](Injury) or a [Doubt](Doubt). 
+When there are no more cards in a Player's Roots and Branches, that Player shuffles their Kindling into their Roots. Then that Player chooses to draw an [Injury](ConsequenceCards#Injury) or a [Doubt](ConsequenceCards#Doubt). 
 
 A Player can freely look through the cards in their Kindling and rearrange the order of these cards.
 
