@@ -26,7 +26,7 @@ twitter_username: plerpsandplerps
 github_username:  plerpsandplerps
 
 # Build settings
-theme: minima
+remote_theme: lightster/jekyll-theme-scrawl
 plugins:
   - jekyll-feed
 
