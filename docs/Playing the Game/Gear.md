@@ -5,6 +5,11 @@ parent: Playing Adventurers
 nav_order: 2
 ---
 
+<div markdown="1">
+New Page
+{: .label .label-purple }
+</div>
+
 ## Gear
 
 A Player's **Gear** is a faceup pile where they keep their [Component](Items#component). 

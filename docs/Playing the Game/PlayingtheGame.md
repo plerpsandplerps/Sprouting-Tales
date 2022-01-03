@@ -11,6 +11,8 @@ permalink: /docs/Playing-the-Game
 <div markdown="1">
 More Coming soon
 {: .label .label-yellow }
+New Page
+{: .label .label-purple }
 </div>
 
 # Playing the Game

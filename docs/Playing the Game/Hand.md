@@ -5,6 +5,12 @@ parent: Playing Adventurers
 nav_order: 2
 ---
 
+<div markdown="1">
+New Page
+{: .label .label-purple }
+</div>
+
+
 ### Hand
 
 A **Hand** refers to the cards a Player holds in their hands and keeps hidden from the rest of the group. Each Player has their own Hand.

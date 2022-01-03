@@ -6,6 +6,12 @@ has_children: true
 nav_order: 2
 ---
 
+<div markdown="1">
+New Page
+{: .label .label-purple }
+</div>
+
+
 # Playing and Creating Adventurers
 
 [Players](Basics#player-and-adventurer) begin the game as sleeping Adventurers who already have some experience adventuring under their belts. The Adventurers are dreaming of the burning World Tree.

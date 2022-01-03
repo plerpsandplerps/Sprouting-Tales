@@ -5,6 +5,11 @@ parent: Playing Adventurers
 nav_order: 2
 ---
 
+<div markdown="1">
+New Page
+{: .label .label-purple }
+</div>
+
 ## Roots
 
 **Roots** are a pile of facedown cards. Each Player has their own Roots. 

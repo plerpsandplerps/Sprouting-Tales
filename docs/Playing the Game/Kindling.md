@@ -5,6 +5,11 @@ parent: Playing Adventurers
 nav_order: 2
 ---
 
+<div markdown="1">
+New Page
+{: .label .label-purple }
+</div>
+
 ## Kindling
 
 The **Kindling** is a pile of face down cards. Each Player has their own Kindling. 
