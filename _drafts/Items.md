@@ -11,7 +11,7 @@ More Coming soon
 {: .label .label-yellow }
 </div>
 
-# Gear, Supply, and Components
+# Items
 
 ## Supply Cards
 

@@ -2,9 +2,9 @@
 
 Players begin the game as Adventurers who already have some experience adventuring under their belts. 
 
-## Adventurer Mechanics
+## Player Mechanics
 
-The set of cards a Player has represents their Adventurer. These cards always exist in a **Zone**, a space with defined characteristics. 
+The set of cards a Player has are a physical representation of their fictional Adventurer. These cards always exist in a **Zone**, a space with defined characteristics. 
 
 ### Hand
 
@@ -56,9 +56,9 @@ Each Player has their own **Play** zone which is just the space in front of them
 
 A Player's **Gear Deck** is where they keep their Component Cards. 
 
-Players can only have one negative load card for their pack and body, but can have two negative load cards for their hands.
+Players can only have one negative load card with the **Pack** type and one negative load card with the **Body** type in their Gear Deck. Players can have two negative load cards with the **One-Hand** type or one negative load card with the **Two-Hand** type in their Gear Deck. 
 
-Each Component Card has an effect and a trigger. The effect is continuous while the Component Card is on top of a Gear Deck. When a Player completes the specified trigger, move that card to the bottom of the Gear Deck. 
+Each Component Card has an effect and a trigger. The effect is continuous while the Component Card is on top of a Gear Deck. When a Player completes the specified trigger, move that card to the bottom of the Gear Deck.
 
 ## Supply
 

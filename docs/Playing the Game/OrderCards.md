@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Order Cards
-parent: Introduction
-nav_order: 1
+parent: Playing the Game
+nav_order: 2
 ---
 
 <div markdown="1">
@@ -14,7 +14,7 @@ New Page
 
 ---
 
-**Order Cards** are used to decide who goes first when the order actions occur is important. This rules document includes several instances where it calls for the use of Order Cards. Outside of those instances, the [Guide](Basics#Guide) decides when the order actions occur is important enough to warrant the use of the Order cards. 
+**Order Cards** are used to decide who goes first when the order actions occur is important. This rules document includes several instances where it calls for the use of Order Cards. Outside of those instances, the [Guide](Basics#guide) decides when the order actions occur is important enough to warrant the use of the Order cards. 
 
 ## Using Order Cards
 
@@ -34,3 +34,46 @@ If there are not enough Order Cards for the Guide to draw one for each character
 There is one Order Card with Wild written on it, this is the **Wild Order Card**. The person with the Wild Order Card can decide to have their character(s) act before any other person's character(s) acts. 
 
 The person with the Wild Order Card must make this decision before the other person says what they are going to do when they act.
+
+## Order Card Gallery
+
+<table align="center">
+		<tr>
+			<td>
+				<img src="/artwork/Order1.png" height="250" width="175"/>
+			</td>
+			<td>
+				<img src="/artwork/Order2.png" height="250" width="175"/>
+			</td>
+			<td>
+				<img src="/artwork/Order3.png" height="250" width="175"/>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<img src="/artwork/Order4.png" height="250" width="175"/>
+			</td>
+			<td>
+				<img src="/artwork/Order5.png" height="250" width="175"/>
+			</td>
+			<td>
+				<img src="/artwork/Order6.png" height="250" width="175"/>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<img src="/artwork/Order7.png" height="250" width="175"/>
+			</td>
+			<td>
+				<img src="/artwork/Order8.png" height="250" width="175"/>
+			</td>
+			<td>
+				<img src="/artwork/Order9.png" height="250" width="175"/>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<img src="/artwork/OrderWild.png" height="250" width="175"/>
+			</td>
+		</tr>
+	</table>
