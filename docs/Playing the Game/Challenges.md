@@ -34,7 +34,7 @@ Occasionally [Adventurers](Basics#adventurer) will face tasks that are difficult
 ## Resolving a Challenge
 
 To resolve a Challenge the Adventurers are facing:
-1. The Guide chooses the [Difficulty](Challenges#difficulty) and sets that many [Discoveries](Discoveries) in a facedown pile for the Challenge. 
+1. The Guide chooses the [Difficulty](Challenges#difficulty) and sets that many [Discoveries](_drafts/Discoveries/Discoveries.md) in a facedown pile for the Challenge. 
 2. Any Player whose Adventurer is facing the Challenge may put a [Trait](Trait) from their Hand on top of their [Branches](CardZones#branches) or their [Roots](CardZones#roots).
 2. Any Player whose Adventurer is facing the Challenge may choose to increase the Difficulty of the Challenge by one to [Discover](Challenges#discover). If they do, that Player adds an additional facedown Discovery to the facedown pile for the Challenge.
 3. The Guide turns all Discoveries in the facedown pile faceup.
@@ -46,7 +46,7 @@ To resolve a Challenge the Adventurers are facing:
 
 ## Difficulty
 
-Challenges have a **Difficulty**, a number chosen by the [Guide](Basics#Guide) between one and ten. Once the Difficulty is chosen by the Guide, the Guide places that many [Discoveries](_drafts/Discoveries) in a facedown pile. 
+Challenges have a **Difficulty**, a number chosen by the [Guide](Basics#Guide) between one and ten. Once the Difficulty is chosen by the Guide, the Guide places that many [Discoveries](_drafts/Discoveries/Discoveries.md) in a facedown pile. 
 
 ## Adventurer Score
 
