@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Roots
+grand_parent: Playing the Game
 parent: Playing Adventurers
 nav_order: 2
 ---

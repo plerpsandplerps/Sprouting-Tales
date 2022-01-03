@@ -18,7 +18,7 @@ New Page
 
 ## Creating and Advancing Adventurers
 
-As experienced Adventurers, the Players begin with five Discoveries in their [Roots](Roots). 
+As experienced Adventurers, the Players begin with five Discoveries in their [Roots](docs/Playing%20the%20Game/Playing%20Adventurers/Roots.md). 
 
 Whenever a Player has a [Discovery](Discoveries) in their Roots while [Resting](Rest), they [share discoveries](Share-Discoveries).
 

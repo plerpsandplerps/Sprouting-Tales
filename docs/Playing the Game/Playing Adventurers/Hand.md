@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Hand
+grand_parent: Playing the Game
 parent: Playing Adventurers
 nav_order: 2
 ---
