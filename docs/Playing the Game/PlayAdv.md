@@ -1,3 +1,10 @@
+---
+layout: default
+title: Order Cards
+parent: Playing Adventurers
+nav_order: 2
+---
+
 # Playing Adventurers
 
 Players begin the game as Adventurers who already have some experience adventuring under their belts. 
@@ -26,7 +33,7 @@ Players can discuss the cards in their Hand and freely change the order of the c
 
 When an Adventurer begins a [Rest](Rest), their Player returns all cards in their Play, Hand, Kindling, and Branches to their Roots.
 
-When there are no more cards in a Player's Roots, that Player shuffles their Branches into their Roots. Then they gain [Exhausted](fixlink).  
+When there are no more cards in a Player's Roots, that Player shuffles their Branches into their Roots. Then they gain [Exhausted](Consequences#exhausted).  
 
 A Player cannot look through the cards in their Roots nor change the order of the cards in their Roots.
 
@@ -44,22 +51,24 @@ When a Player Kindles a card they place it in their Kindling.
 
 <!-- insert example here -->
 
-When there are no more cards in a Player's Roots and Branches, that Player shuffles their Kindling into their Roots. Then that Player gains [Exhausted](fixlink)
+When there are no more cards in a Player's Roots and Branches, that Player shuffles their Kindling into their Roots. Then that Player gains [Exhausted](Consequences#exhausted)
 
 A Player can freely look through the cards in their Kindling and rearrange the order of these cards.
 
-## Play
-
-Each Player has their own **Play** zone which is just the space in front of them. Cards in this zone have various effects while they are in Play. 
-
 ## Gear Deck
 
-A Player's **Gear Deck** is where they keep their Component Cards. 
+A Player's **Gear Deck** is where they keep their [Component Cards](Items#component-cards). 
 
 Players can only have one negative load card with the **Pack** type and one negative load card with the **Body** type in their Gear Deck. Players can have two negative load cards with the **One-Hand** type or one negative load card with the **Two-Hand** type in their Gear Deck. 
 
 Each Component Card has an effect and a trigger. The effect is continuous while the Component Card is on top of a Gear Deck. When a Player completes the specified trigger, move that card to the bottom of the Gear Deck.
 
+## Play
+
+The **Play** zone is a space in front of a Player where they keep certain cards. Each player has their own Play zone. Typically the Play zone will hold [Path Cards](Paths#path-cards) or [Consequences](Consequences).
+
 ## Supply
 
-A Player's **Supply** is where they keep their [Supply Cards](SupplyCards). 
+A Player's **Supply** is where they keep their [Supply Cards](Items#supply-cards). 
+
+## Example Player Layout

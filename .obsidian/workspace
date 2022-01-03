@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Playing the Game/OrderCards.md",
+            "file": "docs/Playing the Game/PlayAdv.md",
             "mode": "source",
             "backlinks": true,
             "source": true
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Playing the Game/OrderCards.md",
+                "file": "docs/Playing the Game/PlayAdv.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Playing the Game/OrderCards.md"
+                "file": "docs/Playing the Game/PlayAdv.md"
               }
             }
           },
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Playing the Game/OrderCards.md",
+                "file": "docs/Playing the Game/PlayAdv.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,15 +112,15 @@
   },
   "active": "313d8caaa042dc6c",
   "lastOpenFiles": [
+    "docs/Playing the Game/PlayAdv.md",
     "docs/Playing the Game/OrderCards.md",
-    "docs/Playing the Game/Challenges.md",
     "docs/Playing the Game/PlayingtheGame.md",
+    "_drafts/CardZones.md",
+    "_drafts/Conflicts.md",
+    "docs/Playing the Game/Challenges.md",
     "docs/Introduction/Basics.md",
     "docs/Introduction/Introduction.md",
     "artwork/Order9.png",
-    "artwork/Order1.png",
-    "artwork/OrderWild.png",
-    "artwork/OrderWild 1.png",
-    "_drafts/PlayAdv.md"
+    "artwork/Order1.png"
   ]
 }
