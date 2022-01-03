@@ -14,7 +14,7 @@ New Page
 
 ---
 
-**Order Cards** are used to decide who goes first when the order actions occur is important. This rules document includes several instances where it calls for the use of Order Cards. Outside of those instances, the [Guide](Basics#guide) decides when the order actions occur is important enough to warrant the use of the Order cards. 
+**Order Cards** are used to decide who goes first when the order actions occur is important. This rules document includes several instances where it calls for the use of Order Cards. Outside of those instances, the [Guide](/docs/Introduction/Basics#guide) decides when the order actions occur is important enough to warrant the use of the Order cards. 
 
 ## Using Order Cards
 

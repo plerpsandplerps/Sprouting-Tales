@@ -34,15 +34,15 @@ Occasionally [Adventurers](Basics#adventurer) will face tasks that are difficult
 ## Resolving a Challenge
 
 To resolve a Challenge the Adventurers are facing:
-1. The Guide chooses the [Difficulty](docs/Playing-the-Game/Challenges#difficulty) and sets that many [Discoveries](Discoveries) in a facedown pile for the Challenge. 
+1. The Guide chooses the [Difficulty](Challenges#difficulty) and sets that many [Discoveries](Discoveries) in a facedown pile for the Challenge. 
 2. Any Player whose Adventurer is facing the Challenge may put a [Trait](Trait) from their Hand on top of their [Branches](CardZones#branches) or their [Roots](CardZones#roots).
-2. Any Player whose Adventurer is facing the Challenge may choose to increase the Difficulty of the Challenge by one to [Discover](docs/Playing-the-Game/Challenges#discover). If they do, that Player adds an additional facedown Discovery to the facedown pile for the Challenge.
+2. Any Player whose Adventurer is facing the Challenge may choose to increase the Difficulty of the Challenge by one to [Discover](Challenges#discover). If they do, that Player adds an additional facedown Discovery to the facedown pile for the Challenge.
 3. The Guide turns all Discoveries in the facedown pile faceup.
-4. Calculate an [Adventurer's Score](docs/Playing-the-Game/Challenges#adventurer-score). 
+4. Calculate an [Adventurer's Score](Challenges#adventurer-score). 
 6. Any Player controlling an Adventurer facing the Challenge may [Kindle](CardZones#kindling) any number of cards from their Branches. The Player turns one Discovery back facedown for each card the Player kindled.
-7. Calculate the [Challenge's Score](docs/Playing-the-Game/Challenges#challenge-score).
+7. Calculate the [Challenge's Score](Challenges#challenge-score).
 8. If the Adventurer's Score is greater than or equal to the Challenge Score, the Adventurer is successful in overcoming the Challenge. Otherwise, the Adventurer fails to overcome the Challenge. 
-9. Resolve any remaining [Boons or Bane Discoveries](docs/Playing-the-Game/Challenges#special-discoveries). 
+9. Resolve any remaining [Boons or Bane Discoveries](Challenges#special-discoveries). 
 
 ## Difficulty
 
@@ -62,7 +62,7 @@ When a Player whose Adventurer is facing a Challenge decides to **Discover,** th
 
 After completing the eight steps above, any Player who decided to Discover may choose one Discovery from the Discoveries in the Challenge. That Player places the chosen Discovery faceup on top of their Branches. 
 
-If multiple Players decided to Discover, then deal [Order Cards](docs/Playing-the-Game/Order) to decide the order in which Players pick Discoveries to add to their Branches. 
+If multiple Players decided to Discover, then deal [Order Cards](Order) to decide the order in which Players pick Discoveries to add to their Branches. 
 
 ## Special Discoveries
 
