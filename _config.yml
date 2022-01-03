@@ -25,6 +25,14 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: plerpsandplerps
 github_username:  plerpsandplerps
 
+# Aux links for the upper right navigation
+aux_links:
+  "Discord":
+    - "https://discord.com/invite/tJjGUNJAZP"
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: true
+
 # Build settings
 remote_theme: pmarsceill/just-the-docs
 plugins:

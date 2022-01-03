@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Order Cards
+title: Order
 parent: Playing the Game
 nav_order: 2
 ---
@@ -10,7 +10,7 @@ New Page
 {: .label .label-purple }
 </div>
 
-# Order Cards
+# Order
 
 ---
 

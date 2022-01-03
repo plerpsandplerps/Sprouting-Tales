@@ -1,8 +1,8 @@
 ---
 layout: default
-title: World Tree Cards
-parent: Introduction
-nav_order: 1
+title: Discoveries
+parent: Playing the Game
+nav_order: 2
 nav_exclude: true
 ---
 
@@ -11,4 +11,4 @@ More Coming soon
 {: .label .label-yellow }
 </div>
 
-# World Tree Cards
+# Discoveries
