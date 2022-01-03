@@ -36,6 +36,25 @@ There is one Order Card with Wild written on it, this is the **Wild Order Card**
 The person with the Wild Order Card must make this decision before the other person says what they are going to do when they act.
 
 ## Order Card Gallery
+<style>
+        img {
+            cursor: pointer;
+        transition: -webkit-transform 0.1s ease
+        }
+    img:focus {
+        -webkit-transform: scale(2);
+        -ms-transform: scale(2);
+    }
+</style>
+<script>
+    document.addEventListener('DOMContentLoaded', function(){
+        var imgs = document.querySelectorAll('img');
+        Array.prototype.forEach.call(imgs, function(el, i) {
+            if (el.tabIndex <= 0) el.tabIndex = 10000;
+        });
+    });
+</script>
+
 
 <table align="center">
 		<tr>
