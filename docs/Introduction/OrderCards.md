@@ -31,36 +31,6 @@ If there are not enough Order Cards for the Guide to draw one for each character
 
 ## Wild Order Card
 
-<!-- 
-
-<img align="right" src="https://plerpsandplerps.github.io/Sprouting-Tales/artwork/OrderWild.png" alt="Wild Order Card">
-
--->
-
 There is one Order Card with Wild written on it, this is the **Wild Order Card**. The person with the Wild Order Card can decide to have their character(s) act before any other person's character(s) acts. 
 
 The person with the Wild Order Card must make this decision before the other person says what they are going to do when they act.
-
-<!--
-
-### Order Cards Gallery
-
-<img src="https://plerpsandplerps.github.io/Sprouting-Tales/artwork/Order1.png" alt="First Order Card">
-
-<img src="https://plerpsandplerps.github.io/Sprouting-Tales/artwork/Order2.png" alt="Second Order Card">
-
-<img src="https://plerpsandplerps.github.io/Sprouting-Tales/artwork/Order3.png" alt="Third Order Card">
-
-<img src="https://plerpsandplerps.github.io/Sprouting-Tales/artwork/Order4.png" alt="Fourth Order Card">
-
-<img src="https://plerpsandplerps.github.io/Sprouting-Tales/artwork/Order5.png" alt="Fifth Order Card">
-
-<img src="https://plerpsandplerps.github.io/Sprouting-Tales/artwork/Order6.png" alt="Sixth Order Card">
-
-<img src="https://plerpsandplerps.github.io/Sprouting-Tales/artwork/Order7.png" alt="Seventh Order Card">
-
-<img src="https://plerpsandplerps.github.io/Sprouting-Tales/artwork/Order8.png" alt="Eighth Order Card">
-
-<img src="https://plerpsandplerps.github.io/Sprouting-Tales/artwork/Order9.png" alt="Ninth Order Card">
-
--->

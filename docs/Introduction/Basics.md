@@ -47,7 +47,7 @@ Additionally, if there is a dispute about the rules or the rules do not cover so
 
 ### Player and Adventurer
 
-The participants other than the Guide take on the role of a **Player** controlling an **Adventurer**. An Adventurer is a main character in the fictional story. Together the Adventurers form a **Party**, a group of allies journeying together through the fictional narrative.
+The participants other than the Guide are **Players** taking on the role of **Adventurers**. An Adventurer is a main character in the fictional story. Together the Adventurers form a **Party**, a group of allies journeying together through the fictional narrative.
 
 ## How to Play a Tabletop Roleplaying Game
 
@@ -68,5 +68,3 @@ The Guide describes what happens as a result of the adventurers' actions and the
 The rules presented exist only as tools to facilitate the fun of the participants.
 
 If you feel certain rules are a barrier to your fun, discuss these issues with your group. Work in tandem with one another to create possible solutions and then enact those agreed upon changes. 
-
-

@@ -21,11 +21,12 @@ More Coming soon
 
 ## Despair
 
-<!-- 
+## Conditions
 
-# Conditions
+**Conditions** are ongoing negative effects an [Adventurer](introduction#Adventurer) <!-- fix --> may suffer from.
 
-The first time you gain a condition nothing happens, you are an Adventurer and are used to dealing with mild difficulties. Any time you gain a condition after the first, you immediately resolve the effect listed below:
+
+The first time an Adventurer gains a condition their Player places the related card faceup infront of themselves. An Adventurer is used  to dealing with mild difficulties and <!-- fix -->. Any time you gain a condition, suffer that conditions effect. 
 
 1. **AFRAID**: Draw a Doubt.
 2.  **COLD**: Turn your Order Card facedown.
@@ -42,5 +43,3 @@ When an Adventurer has one of the following pairs of conditions, they immediatel
 1. **COLD and WARM**
 2. **ILLUMINATED and OBSCURED**
 3. **EXHAUSTED and REFRESHED**
-
---> 

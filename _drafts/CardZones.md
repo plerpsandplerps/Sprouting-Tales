@@ -11,11 +11,11 @@ New Page
 {: .label .label-purple }
 </div>
 
-# Card Zones
+# Player Card Zones
 
 ---
 
-Cards always exist in a **Zone**, a space with defined characteristics.
+Player Cards always exist in one of **Zone**, a space with defined characteristics.
 
 ---
 
@@ -32,7 +32,7 @@ Cards always exist in a **Zone**, a space with defined characteristics.
 
 ### Hand
 
-A **Hand** refers to the cards the Player holds in their hands and keeps hidden from the rest of the group. Each Player has their own Hand.  
+A **Hand** refers to the cards a Player holds in their hands and keeps hidden from the rest of the group. Each Player has their own Hand.  
 
 When a Player has fewer than two cards in their Hand, they draw cards from the top of their Roots until they have two cards in Hand.
 
@@ -50,7 +50,7 @@ Players can freely change the order of cards in their Hand and discuss the cards
 
 When an Adventurer begins a [Rest](Rest), they return all cards in their Hand, Kindling, and Branches to their Roots.
 
-When there are no more cards in a Player's Roots, that Player shuffles their Branches into their Roots. Then that Player chooses to draw an [Injury](_drafts/ConsequenceCards.md#Injury) or a [Doubt](_drafts/ConsequenceCards.md#Doubt).
+When there are no more cards in a Player's Roots, that Player shuffles their Branches into their Roots. Then that Player becomes [Exhausted](fixlink)
 
 A Player cannot look through the cards in their Roots nor change the order of the cards in their Roots.
 
@@ -77,5 +77,9 @@ When a Player Kindles a card they place it in their Kindling.
 When there are no more cards in a Player's Roots and Branches, that Player shuffles their Kindling into their Roots. Then that Player chooses to draw an [Injury](_drafts/ConsequenceCards.md#Injury) or a [Doubt](_drafts/ConsequenceCards.md#Doubt). 
 
 A Player can freely look through the cards in their Kindling and rearrange the order of these cards.
+
+## Play
+
+Each Player has their own **Play** zone which is just the space in front of them. Cards in this zone have various effects while they are in Play. 
 
 
