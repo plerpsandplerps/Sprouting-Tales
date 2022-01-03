@@ -40,40 +40,40 @@ The person with the Wild Order Card must make this decision before the other per
 <table align="center">
 		<tr>
 			<td>
-				<img src="/artwork/Order1.png" height="250" width="175"/>
+				<img src="https://plerpsandplerps.github.io/Sprouting-Tales/artwork/Order1.png" height="250" width="175"/>
 			</td>
 			<td>
-				<img src="/artwork/Order2.png" height="250" width="175"/>
+				<img src="https://plerpsandplerps.github.io/Sprouting-Tales/artwork/Order2.png" height="250" width="175"/>
 			</td>
 			<td>
-				<img src="/artwork/Order3.png" height="250" width="175"/>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<img src="/artwork/Order4.png" height="250" width="175"/>
-			</td>
-			<td>
-				<img src="/artwork/Order5.png" height="250" width="175"/>
-			</td>
-			<td>
-				<img src="/artwork/Order6.png" height="250" width="175"/>
+				<img src="https://plerpsandplerps.github.io/Sprouting-Tales/artwork/Order3.png" height="250" width="175"/>
 			</td>
 		</tr>
 		<tr>
 			<td>
-				<img src="/artwork/Order7.png" height="250" width="175"/>
+				<img src="https://plerpsandplerps.github.io/Sprouting-Tales/artwork/Order4.png" height="250" width="175"/>
 			</td>
 			<td>
-				<img src="/artwork/Order8.png" height="250" width="175"/>
+				<img src="https://plerpsandplerps.github.io/Sprouting-Tales/artwork/Order5.png" height="250" width="175"/>
 			</td>
 			<td>
-				<img src="/artwork/Order9.png" height="250" width="175"/>
+				<img src="https://plerpsandplerps.github.io/Sprouting-Tales/artwork/Order6.png" height="250" width="175"/>
 			</td>
 		</tr>
 		<tr>
 			<td>
-				<img src="/artwork/OrderWild.png" height="250" width="175"/>
+				<img src="https://plerpsandplerps.github.io/Sprouting-Tales/artwork/Order7.png" height="250" width="175"/>
+			</td>
+			<td>
+				<img src="https://plerpsandplerps.github.io/Sprouting-Tales/artwork/Order8.png" height="250" width="175"/>
+			</td>
+			<td>
+				<img src="https://plerpsandplerps.github.io/Sprouting-Tales/artwork/Order9.png" height="250" width="175"/>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<img src="https://plerpsandplerps.github.io/Sprouting-Tales/artwork/OrderWild.png" height="250" width="175"/>
 			</td>
 		</tr>
 	</table>
