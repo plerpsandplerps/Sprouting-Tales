@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Playing Adventurers
+title: Playing and Creating Adventurers
 parent: Playing the Game
 has_children: true
 nav_order: 2
@@ -18,13 +18,13 @@ New Page
 
 ## Creating and Advancing Adventurers
 
-As experienced Adventurers, the Players begin with five Discoveries in their [Roots](docs/Playing%20the%20Game/Playing%20Adventurers/Roots.md). 
+As experienced Adventurers, the Players begin with five Discoveries in their [Roots](docs/Playing%20the%20Game/Playing%20and%20Creating%20Adventurers/Roots.md). 
 
 Whenever a Player has a [Discovery](Discoveries) in their Roots while [Resting](Rest), they [share discoveries](Share-Discoveries).
 
 ## Player Card Zones
 
-Players' cards always exist in a zone. Learn more about [Player Card Zones here](PlayerCardZones).
+Players' cards always exist in a zone. Learn more about [Player Card Zones here](docs/Playing%20the%20Game/Playing%20and%20Creating%20Adventurers/PlayerCardZones.md).
 
 <!--
 

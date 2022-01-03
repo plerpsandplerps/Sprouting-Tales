@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Playing the Game/Playing Adventurers/PlayingAdventurers.md",
+            "file": "docs/Playing the Game/Playing and Creating Adventurers/PlayingAdventurers.md",
             "mode": "source",
             "backlinks": true,
             "source": true
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Playing the Game/Playing Adventurers/PlayingAdventurers.md",
+                "file": "docs/Playing the Game/Playing and Creating Adventurers/PlayingAdventurers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Playing the Game/Playing Adventurers/PlayingAdventurers.md"
+                "file": "docs/Playing the Game/Playing and Creating Adventurers/PlayingAdventurers.md"
               }
             }
           },
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Playing the Game/Playing Adventurers/PlayingAdventurers.md",
+                "file": "docs/Playing the Game/Playing and Creating Adventurers/PlayingAdventurers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,14 +112,14 @@
   },
   "active": "313d8caaa042dc6c",
   "lastOpenFiles": [
-    "docs/Playing the Game/Playing Adventurers/PlayingAdventurers.md",
-    "docs/Playing the Game/Playing Adventurers/Branches.md",
-    "docs/Playing the Game/Playing Adventurers/Roots.md",
-    "docs/Playing the Game/Playing Adventurers/Hand.md",
-    "docs/Playing the Game/Playing Adventurers/Kindling.md",
-    "docs/Playing the Game/Playing Adventurers/Play.md",
-    "docs/Playing the Game/Playing Adventurers/Gear.md",
-    "docs/Playing the Game/Playing Adventurers/PlayerCardZones.md",
+    "docs/Playing the Game/Playing and Creating Adventurers/PlayingAdventurers.md",
+    "docs/Playing the Game/Playing and Creating Adventurers/Branches.md",
+    "docs/Playing the Game/Playing and Creating Adventurers/Roots.md",
+    "docs/Playing the Game/Playing and Creating Adventurers/Hand.md",
+    "docs/Playing the Game/Playing and Creating Adventurers/Kindling.md",
+    "docs/Playing the Game/Playing and Creating Adventurers/Play.md",
+    "docs/Playing the Game/Playing and Creating Adventurers/Gear.md",
+    "docs/Playing the Game/Playing and Creating Adventurers/PlayerCardZones.md",
     "docs/Playing the Game/PlayingtheGame.md",
     "docs/Playing the Game/Tales.md"
   ]
