@@ -2,7 +2,7 @@
 layout: default
 title: Kindling
 grand_parent: Playing the Game
-parent: Playing Adventurers
+parent: Player Card Zones
 nav_order: 2
 ---
 

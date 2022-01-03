@@ -22,9 +22,9 @@ As experienced Adventurers, the Players begin with five Discoveries in their [Ro
 
 Whenever a Player has a [Discovery](Discoveries) in their Roots while [Resting](Rest), they [share discoveries](Share-Discoveries).
 
-## Player Cards
+## Player Card Zones
 
-The set of cards a Player has are a physical representation of their fictional Adventurer. These cards always exist in a **Zone**, a space with defined characteristics. The zones and their various characteristics are listed below:
+Players' cards always exist in a zone. Learn more about [Player Card Zones here](PlayerCardZones).
 
 <!--
 
