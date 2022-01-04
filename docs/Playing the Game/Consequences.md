@@ -2,8 +2,7 @@
 layout: default
 title: Consequences
 parent: Playing the Game
-nav_order: 1
-nav_exclude: true
+nav_order: 2
 ---
 
 <div markdown="1">
@@ -43,8 +42,8 @@ A Player has an Obscured Condition in Play (see below). This Player was also goi
 
 <img src="https://plerpsandplerps.github.io/Sprouting-Tales/artwork/ConditionsExp.png" alt="Obscured Condition Card Explanation">
 
-### Condition Gallery
+<!--
 
+## Consequence Gallery
 
-
-
+-->

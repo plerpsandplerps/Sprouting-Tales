@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Playing the Game/Consequence.md",
+            "file": "docs/Playing the Game/Consequences.md",
             "mode": "source",
             "backlinks": true,
             "source": true
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Playing the Game/Consequence.md",
+                "file": "docs/Playing the Game/Consequences.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Playing the Game/Consequence.md"
+                "file": "docs/Playing the Game/Consequences.md"
               }
             }
           },
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Playing the Game/Consequence.md",
+                "file": "docs/Playing the Game/Consequences.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,12 +112,12 @@
   },
   "active": "313d8caaa042dc6c",
   "lastOpenFiles": [
-    "docs/Playing the Game/Consequence.md",
+    "docs/Playing the Game/Consequences.md",
+    "docs/Playing the Game/Consequences.md",
     "docs/Playing the Game/Player Card Zones/PlayerCardZones.md",
     "_drafts/Ending.md",
     "docs/Playing the Game/Challenges.md",
     "docs/Playing the Game/Order.md",
-    "docs/Playing the Game/Consequences.md",
     "artwork/Art_Challenge.png",
     "artwork/ConditionsExp.png",
     "artwork/Order8.png",
