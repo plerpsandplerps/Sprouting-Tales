@@ -43,6 +43,7 @@ Discoveries can be connected by the black lines on their cards. Connected Discov
 At the start of a Campaign, the Guide draws nine Discoveries and picks three to place into the World Tree connected to one another. The Guide then returns the remaining Discoveries. The Guide tells a Tale for each of the placed Discoveries.
 
  ### Traversing the World Tree
+ 
  Adventurers always exist in one of the Discoveries in the World Tree. When they travel by foot they can move from one Discovery to an adjacent connected Discovery in one full day's travel. 
 
  Any Discoveries that are disconnected from the Adventurers are assumed to be separated from the current region by the Inferno.
