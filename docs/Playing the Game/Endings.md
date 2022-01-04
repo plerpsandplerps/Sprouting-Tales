@@ -5,7 +5,7 @@ parent: Playing the Game
 nav_order: 2
 ---
 
-# Ending
+# Endings
 
 ---
 
