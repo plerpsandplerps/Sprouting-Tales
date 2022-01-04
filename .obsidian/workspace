@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Playing the Game/Endings.md",
+            "file": "docs/Playing the Game/Card Types/Card Types.md",
             "mode": "source",
             "backlinks": true,
             "source": true
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "value",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Playing the Game/Endings.md",
+                "file": "docs/Playing the Game/Card Types/Card Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Playing the Game/Endings.md"
+                "file": "docs/Playing the Game/Card Types/Card Types.md"
               }
             }
           },
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Playing the Game/Endings.md",
+                "file": "docs/Playing the Game/Card Types/Card Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,15 +112,15 @@
   },
   "active": "313d8caaa042dc6c",
   "lastOpenFiles": [
+    "docs/Playing the Game/Card Types/Card Types.md",
+    "docs/Playing the Game/Card Types/Consequences.md",
+    "docs/Playing the Game/Card Types/Order.md",
+    "docs/Playing the Game/Card Types/Discoveries.md",
+    "docs/Playing the Game/Player Card Zones/PlayerCardZones.md",
+    "_drafts/Traits.md",
     "docs/Playing the Game/Endings.md",
     "docs/Introduction/Basics.md",
     "artwork/Art_Ending.png",
-    "_drafts/upload.md",
-    "docs/Playing the Game/Consequences.md",
-    "docs/Playing the Game/Player Card Zones/PlayerCardZones.md",
-    "docs/Playing the Game/Challenges.md",
-    "docs/Playing the Game/Order.md",
-    "artwork/Art_Challenge.png",
-    "artwork/ConditionsExp.png"
+    "_drafts/upload.md"
   ]
 }

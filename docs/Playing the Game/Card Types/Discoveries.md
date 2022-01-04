@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Discoveries
-parent: Playing the Game
+grand_parent: Playing the Game
+parent: Card Types
 nav_order: 2
 ---
 
