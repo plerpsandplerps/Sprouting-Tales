@@ -3,7 +3,6 @@ layout: default
 title: Consequences
 parent: Playing the Game
 nav_order: 1
-nav_exclude: true
 ---
 
 <div markdown="1">
