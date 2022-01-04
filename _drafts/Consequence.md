@@ -13,7 +13,7 @@ More Coming soon
 
 # Consequences
 
-As an Adventurer adventures, they may suffer Consequences. When an Adventurer gains a Consequence their Player puts it into their Play. 
+As an Adventurer adventures, they may suffer Consequences. **Consequences** are effects an Adventurer is under the influence of. Consequences are not necessarily beneficial or hurtful. When an Adventurer gains a Consequence their Player puts it into their Play. 
 
 Every Consequence belongs to one of two categories:  
 1. **Ongoing**; or,
@@ -21,36 +21,44 @@ Every Consequence belongs to one of two categories:
 
 ## Ongoing
 
+**Ongoing** are just that, ongoing. They are not returned when a Player Rests. If a Player's Ongoing Consequences aren't returned by an effect, a Player will have them forever.
+
 ### Injury
+
+
 
 ### Wound
 
+
+
 ### Ghost
+
+
 
 ### Doubt
 
+
+
 ### Despair
+
+
 
 ### Husk
 
-### Conditions
-
-Conditions
 
 
-1. **AFRAID**: Draw a Doubt.
-2.  **COLD**: Turn your Order facedown.
-3. **EXHAUSTED**: Choose Doubt or Injury, then draw the chosen card.
-4. **ILLUMINATED**: Draw a card. 
-6. **OBSURED**: Put a card from your Hand on the bottom of your Branches.
-7. **POISONED**: Draw a Wound.
-8. **REFRESHED**: Move any card from your Branches to the bottom of your Roots. 
-9. **SATED**: Remove an Injury or Doubt from Play.
-10. **TERRIFIED**: Draw a Despair.
-11. **WARM**: Draw an Injury.
+## Conditions
 
-When an Adventurer has one of the following pairs of conditions, they immediately lose both conditions:
-1. **COLD and WARM**
-2. **ILLUMINATED and OBSCURED**
-3. **EXHAUSTED and REFRESHED**
+**Conditions** are temporary Consequences, when a Player Rests they return all of their Conditions from Play. 
+
+The first Condition an Adventurer gains has no effect outside of its score. When a Player would put a copy beyond the first of a Condition into play, they instead resolve the effect listed on the card.
+
+Some Conditions have an opposite. When a Player would put a Condition into Play that is the opposite of one of the Conditions the Player already has in Play, the Player instead returns both Conditions.  
+
+### Condition Example
+
+![](Obscured.png)
+
+### Condition Gallery
+
 

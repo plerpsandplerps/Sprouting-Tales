@@ -11,5 +11,6 @@
   "showUnsupportedFiles": true,
   "defaultViewMode": "source",
   "showFrontmatter": true,
-  "fileSortOrder": "byModifiedTime"
+  "fileSortOrder": "byModifiedTime",
+  "promptDelete": false
 }
