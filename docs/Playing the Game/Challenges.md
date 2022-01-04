@@ -50,11 +50,11 @@ Challenges have a **Difficulty**, a number chosen by the Guide between one and t
 
 ## Adventurer Score
 
-An **Adventurer's Score** is equal to the value of the top card of their Player's Branches plus the top card of their Player's Roots plus the value of all other cards they have in Play. 
+An **Adventurer's Score** is equal to the score of the top card of their Player's Branches plus the top card of their Player's Roots plus the score of all other cards they have in Play. 
 
 ## Challenge Score
 
-A **Challenge's Score** is equal to the sum of the values of all faceup Discoveries.
+A **Challenge's Score** is equal to the sum of the score of all faceup Discoveries.
 
 ## Discover
 

@@ -24,3 +24,5 @@ When a Player Kindles a card they place it in their Kindling.
 When there are no more cards in a Player's Roots and Branches, that Player shuffles their Kindling into their Roots. Then that Player gains Exhausted.
 
 A Player can freely look through the cards in their Kindling and rearrange the order of these cards.
+
+*Note: Some players may find similarities between Kindling and the Removed From Game zones used in other games.*
