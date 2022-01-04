@@ -12,9 +12,20 @@ New Page
 
 # Order
 
+**Order Cards** are used to decide who goes first when the order actions occur is important. This rules document includes several instances where it calls for the use of Order Cards. Outside of those instances, the Guide decides when the order actions occur is important enough to warrant the use of the Order cards. 
+
 ---
 
-**Order Cards** are used to decide who goes first when the order actions occur is important. This rules document includes several instances where it calls for the use of Order Cards. Outside of those instances, the Guide decides when the order actions occur is important enough to warrant the use of the Order cards. 
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
+---
 
 ## Using Order Cards
 

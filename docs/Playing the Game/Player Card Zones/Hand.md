@@ -11,8 +11,9 @@ New Page
 {: .label .label-purple }
 </div>
 
-
 ### Hand
+
+---
 
 A **Hand** refers to the cards a Player holds in their hands and keeps hidden from the rest of the group. Each Player has their own Hand.
 

@@ -13,6 +13,8 @@ New Page
 
 ## Roots
 
+---
+
 **Roots** are a pile of facedown cards. Each Player has their own Roots. 
 
 <!-- insert example here -->

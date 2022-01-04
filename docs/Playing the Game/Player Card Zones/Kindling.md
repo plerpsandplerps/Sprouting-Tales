@@ -13,6 +13,8 @@ New Page
 
 ## Kindling
 
+---
+
 The **Kindling** is a pile of face down cards. Each Player has their own Kindling. 
 
 When a Player Kindles a card they place it in their Kindling. 

@@ -14,6 +14,6 @@ New Page
 
 # Advancing and Creating Adventurers
 
-[Players](docs/Introduction/Basics#player-and-adventurer) begin the game as sleeping Adventurers who already have some experience adventuring under their belts. The Adventurers are dreaming of the burning World Tree. As experienced Adventurers, the Players begin with five Discoveries in their [Roots](docs/Playing%20the%20Game/Roots). 
+Players begin the game as sleeping Adventurers who already have some experience adventuring under their belts. The Adventurers are dreaming of the burning World Tree. As experienced Adventurers, the Players begin with five Discoveries in their Roots. 
 
-Whenever a Player has a [Discovery](_drafts/Discoveries/Discoveries.md) in their Roots while [Resting](Rest), they [share discoveries](Share-Discoveries).
+When a Player has a Discovery in their Roots when their Adventurer Rests, the Player Shares Discoveries and their Adventurer dreams of the burning World Tree.
