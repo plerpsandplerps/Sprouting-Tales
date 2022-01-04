@@ -36,7 +36,7 @@ A **Discovery** is a card type used to create Challenges, advance Adventurers, a
 ---
 ## World Tree
 
-**The World Tree** is a card zone that represents the World the Adventurers are exploring. The World Tree can only have Discoveries in it. 
+**The World Tree** is a card zone that represents the World the Adventurers are exploring. The World Tree can only have faceup Discoveries in it. 
 
 Discoveries can be connected by the black lines on their cards. Connected Discoveries are considered to be in the same region of the World. Disconnected Discoveries are in different regions of the World.
 
