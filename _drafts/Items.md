@@ -25,5 +25,8 @@ If they choose to find an item, they gain faceup Supply Card.
 
 If they choose to find a supply, they gain a facedown Supply Card. 
 
-## Gear Cards
+## Components
+
+Each Component has an effect and a trigger. The effect is continuous while the Component is on top of the Player's  Gear. When a Player completes the specified trigger, move that Component to the bottom of their Gear.
+
 
