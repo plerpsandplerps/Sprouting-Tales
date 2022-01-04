@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_drafts/Consequence.md",
+            "file": "docs/Playing the Game/Consequence.md",
             "mode": "source",
             "backlinks": true,
             "source": true
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_drafts/Consequence.md",
+                "file": "docs/Playing the Game/Consequence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_drafts/Consequence.md"
+                "file": "docs/Playing the Game/Consequence.md"
               }
             }
           },
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_drafts/Consequence.md",
+                "file": "docs/Playing the Game/Consequence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,15 +112,15 @@
   },
   "active": "313d8caaa042dc6c",
   "lastOpenFiles": [
-    "_drafts/Consequence.md",
+    "docs/Playing the Game/Consequence.md",
+    "docs/Playing the Game/Challenges.md",
+    "docs/Playing the Game/Order.md",
+    "docs/Playing the Game/Consequences.md",
+    "artwork/Art_Challenge.png",
+    "artwork/ConditionsExp.png",
+    "artwork/Order8.png",
     "artwork/Obscured Condition.png",
     "docs/Playing the Game/Discoveries.md",
-    "docs/Playing the Game/Challenges.md",
-    "_drafts/Ending.md",
-    "_drafts/Conflicts.md",
-    "_drafts/Paths.md",
-    "_drafts/Items.md",
-    "docs/Playing the Game/Player Card Zones/Gear.md",
-    "docs/Playing the Game/Player Card Zones/Play.md"
+    "_drafts/Ending.md"
   ]
 }
