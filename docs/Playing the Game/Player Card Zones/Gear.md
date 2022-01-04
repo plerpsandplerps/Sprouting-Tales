@@ -15,7 +15,7 @@ New Page
 
 ---
 
-A Player's **Gear** is a faceup pile where they keep their Component. 
+A Player's **Gear** is a faceup pile of cards where Components are kept. 
 
 Players can only have one negative Load card with the **Pack** card type and one negative Load card with the **Body** card type in their Gear. Players can have two negative Load cards with the **One-Hand** card type or one negative Load card with the **Two-Hand** card type in their Gear. 
 

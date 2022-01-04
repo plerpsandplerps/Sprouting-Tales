@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_drafts/Discoveries/Discoveries.md",
+            "file": "docs/Playing the Game/Player Card Zones/Gear.md",
             "mode": "source",
             "backlinks": true,
             "source": true
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_drafts/Discoveries/Discoveries.md",
+                "file": "docs/Playing the Game/Player Card Zones/Gear.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_drafts/Discoveries/Discoveries.md"
+                "file": "docs/Playing the Game/Player Card Zones/Gear.md"
               }
             }
           },
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_drafts/Discoveries/Discoveries.md",
+                "file": "docs/Playing the Game/Player Card Zones/Gear.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,10 +112,10 @@
   },
   "active": "313d8caaa042dc6c",
   "lastOpenFiles": [
+    "docs/Playing the Game/Player Card Zones/Gear.md",
     "_drafts/Discoveries/Discoveries.md",
     "docs/Introduction/Basics.md",
     "docs/Playing the Game/Player Card Zones/Hand.md",
-    "docs/Playing the Game/Player Card Zones/Gear.md",
     "docs/Playing the Game/Player Card Zones/Play.md",
     "docs/Playing the Game/Player Card Zones/Kindling.md",
     "docs/Playing the Game/Player Card Zones/Roots.md",
