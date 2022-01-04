@@ -13,20 +13,30 @@ More Coming soon
 
 # Consequences
 
-## Injury
+As an Adventurer adventures, they may suffer Consequences. When an Adventurer gains a Consequence their Player puts it into their Play. 
 
-## Wound
+Every Consequence belongs to one of two categories:  
+1. **Ongoing**; or,
+2. **Conditions**.
 
-## Doubt
+## Ongoing
 
-## Despair
+### Injury
 
-## Conditions
+### Wound
 
-**Conditions** are ongoing negative effects an [Adventurer](introduction#Adventurer) <!-- fix --> may suffer from.
+### Ghost
 
+### Doubt
 
-The first time an Adventurer gains a condition their Player places the related card faceup infront of themselves. An Adventurer is used  to dealing with mild difficulties and <!-- fix -->. Any time you gain a condition, suffer that conditions effect. 
+### Despair
+
+### Husk
+
+### Conditions
+
+Conditions
+
 
 1. **AFRAID**: Draw a Doubt.
 2.  **COLD**: Turn your Order facedown.
@@ -43,3 +53,4 @@ When an Adventurer has one of the following pairs of conditions, they immediatel
 1. **COLD and WARM**
 2. **ILLUMINATED and OBSCURED**
 3. **EXHAUSTED and REFRESHED**
+
