@@ -7,8 +7,11 @@ nav_order: 2
 
 # Ending
 
-<img align="left" src="https://plerpsandplerps.github.io/Sprouting-Tales/artwork/Art_Ending.png" alt="Adventurer leaves by boat.">
+---
 
+<img src="https://plerpsandplerps.github.io/Sprouting-Tales/artwork/Art_Ending.png" alt="Adventurer leaves by boat.">
+
+---
 
 At any point a Player may choose to have their Adventurer's Ending. 
 
