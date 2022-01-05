@@ -26,3 +26,5 @@ Join us on Social Media:
 [Discord](https://discord.com/invite/tJjGUNJAZP){: .btn .btn-purple }
 
 [Twitter](https://twitter.com/plerpsandplerps){: .btn .btn-blue }
+
+<iframe src="https://discord.com/widget?id=784109644573966407&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
