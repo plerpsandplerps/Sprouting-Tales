@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "index.md",
+            "file": "docs/Playing the Game/Player Card Zones/Gear.md",
             "mode": "source",
             "backlinks": true,
             "source": true
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "docs/Playing the Game/Player Card Zones/Gear.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "docs/Playing the Game/Player Card Zones/Gear.md"
               }
             }
           },
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "docs/Playing the Game/Player Card Zones/Gear.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,6 +112,7 @@
   },
   "active": "313d8caaa042dc6c",
   "lastOpenFiles": [
+    "docs/Playing the Game/Player Card Zones/Gear.md",
     "index.md",
     "docs/Introduction/Introduction.md",
     "_drafts/upload.md",
@@ -120,7 +121,6 @@
     "docs/Playing the Game/Card Types/Order.md",
     "docs/Playing the Game/Card Types/Discoveries.md",
     "docs/Playing the Game/Player Card Zones/PlayerCardZones.md",
-    "_drafts/Traits.md",
-    "docs/Playing the Game/Endings.md"
+    "_drafts/Traits.md"
   ]
 }
