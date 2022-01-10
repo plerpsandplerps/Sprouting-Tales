@@ -113,6 +113,7 @@
   "active": "313d8caaa042dc6c",
   "lastOpenFiles": [
     "docs/Playing the Game/Card Types/Traits.md",
+    "docs/Playing the Game/Challenges/AssistingChallenge.md",
     "docs/Playing the Game/Card Types/Consequences.md",
     "docs/Playing the Game/Card Types/Order.md",
     "docs/Playing the Game/Card Types/Card Types.md",
@@ -120,7 +121,6 @@
     "artwork/TraitEx.png",
     "docs/Playing the Game/Challenges/Challenges.md",
     "docs/Playing the Game/Player Card Zones/Roots.md",
-    "docs/Playing the Game/Player Card Zones/Play.md",
-    "docs/Playing the Game/Player Card Zones/Branches.md"
+    "docs/Playing the Game/Player Card Zones/Play.md"
   ]
 }

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Discoveries
+title: Traits
 grand_parent: Playing the Game
 parent: Card Types
 nav_order: 2
