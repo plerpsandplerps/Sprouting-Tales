@@ -3,6 +3,7 @@ layout: default
 title: Challenges
 parent: Playing the Game
 nav_order: 2
+has_children: true
 ---
 
 <div markdown="1">
@@ -12,9 +13,9 @@ New Page
 
 # Challenges
 
-
-
 Occasionally Adventurers will face tasks that are difficult for them to complete. These tasks are called **Challenges**.
+
+---
 
 <img align="right" src="https://plerpsandplerps.github.io/Sprouting-Tales/artwork/Art_Challenge.png" alt="Adventurers face a Challenge">
 

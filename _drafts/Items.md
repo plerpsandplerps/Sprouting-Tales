@@ -64,13 +64,9 @@ If they chose to find an Item, they gain a Supply facedown. Then turn that Suppl
 
 ## Components
 
-When an Adventurer equips an Item, the Player returns all Components from the related Gear. Then adds the new Item's listed Components to that Gear. 
+When an Adventurer equips an Item, the Player returns all Components from the related Gear. Then adds the new Item's listed Components to their Gear. 
 
-Each Component has an effect and a trigger. The effect is continuous while the Component is on top of one of the Player's Gears. When a Player completes the specified trigger, move that Component to the bottom of its Gear.
+Each Component has an effect and a trigger. The effect is continuous while the Component is on top of one of the Player's Gear. When a Player completes the specified trigger, move that Component to the bottom of the Player's Gear.
 
 ## Crafting
 
-When an Adventurer Rests, they may decide to **Craft**. To Craft the Player takes the following steps in order:
-1. Return one Supply;
-2. Choose a Component listed on an Item you own;
-3. Add that Component to its Gear. 
