@@ -67,9 +67,10 @@ If multiple Players are Sharing Discoveries during one Rest, then use Order.
 ### Close
 
 When a Player declares a Discovery as **Close**, they take the following steps in order: 
+
 1. Connect the Discovery faceup to an existing branch of the World Tree;
 2. Tell a Tale about this Discovery;
-3. Draw six Traits with a score of plus one on their back;
+3. Draw six Level one Traits;
 4. Pick two of the drawn Traits to add to their Roots; 
 5. Tell a Tale about how their Adventurer gained the chosen Traits; and, 
 5. Return the remaining Traits in their Hand. 
@@ -79,11 +80,12 @@ If a Player is unable to take one of these steps, they cannot declare their Disc
 ### Far
 
 When a Player declares a Discovery as **Far**, they take the following steps in order:
+
 1. Place the Discovery faceup in the Far zone;
-2. Return two Traits with the same score on the back from their Roots;
-3. Draw three Traits with a score one higher than the returned cards on the back;
+2. Return two Traits of the same Level from their Roots;
+3. Draw three Traits one level higher than the returned cards;
 4. Pick one of the drawn Traits to add to their Roots;
-5. Tell a Tale about how their Adventurer lost their Traits and gained this new chosen Trait; and,
+5. Tell a Tale about how their Adventurer lost their Traits and gained the new chosen Trait; and,
 6. Return the remaining Traits in their Hand.
 
 If a Player is unable to take one of these steps, they cannot declare their Discovery as Far. 
@@ -91,9 +93,10 @@ If a Player is unable to take one of these steps, they cannot declare their Disc
 ### Burning
 
 When a Player declares a Discovery as **Burning**, they take the following steps in order: 
+
 1. Return the Discovery;
-2. Return two Traits with the same score on the back from their Roots; 
-3. Choose an available Path with the same score on the back to add to their Roots; and,
+2. Return two Traits of the same Level from their Roots; 
+3. Choose an available Path of the same Level to add to their Roots; and,
 4. Tell a Tale about how their Adventurer lost their Traits and gained this new chosen Path. 
 
 If a Player is unable to take one of these steps, they cannot declare their Discovery as Burning. 
