@@ -4,7 +4,6 @@ title: Assisting in a Challenge
 grand_parent: Playing the Game
 parent: Challenges
 nav_order: 2
-has_children: true
 ---
 
 # Assisting in a Challenge

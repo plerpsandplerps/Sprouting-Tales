@@ -5,11 +5,6 @@ parent: Introduction
 nav_order: 1
 ---
 
-<div markdown="1">
-New Page
-{: .label .label-purple }
-</div>
-
 # Basics
 
 This page details the basics of playing a Tabletop Roleplaying Game and the roles participants will take on. 

@@ -1,56 +1,13 @@
 ---
 layout: default
-title: Equipment
+title: Items
 parent: Playing the Game
 nav_order: 2
 ---
 
-<div markdown="1">
-More Coming soon
-{: .label .label-yellow }
-</div>
+# Items
 
-# Equipment
-
-## Supplies
-
-**Supplies** are the ordinary adventuring tools and simple items found while exploring. The common nature of these items lends them to be used as currency in the barter economy. 
-
-Players  keep their Supplies in a space infront of themselves
-
-Newly created Adventurers begin with # Supplies. 
-
-### Declaring Supplies
-
-Supplies cannot be used until they are Declared.
-
-A player can Declare a Supply by turning a facedown Supply ninety degrees clockwise, and announcing out loud to the group what the Supply is.
-
-The Player can only announce the Supply as an object that costs one Supply. The Guide ultimately decides whether the object costs one Supply, but at a minimum this would include:
-- Torch
-- Rope
-- Empty Vial
-- Long pole
-- Fishing rod
-- Bell
-- Bedroll
-- Candle
-- Crowbar
-- Trap
-- Flint and tinder
-- One day's rations for the Party
-- Some Oil
-- Tent
-- Common Clothes
-- Chalk
-
-The Player returns the Declared Supply if the object is lost, consumed, or significantly damaged.
-
-### Refresh Supplies
-
-When the Party spends some time at a well-supplied town, they **Refresh Supplies**. The Players may turn all of their Declared Supplies back upright. This represents the Adventurers bartering and exchanging their existing supplies for new ones. 
-
-## Items
+---
 
 On the faceup side of every Supply is an **Item**. 
 
@@ -70,3 +27,4 @@ Each Component has an effect and a trigger. The effect is continuous while the C
 
 ## Crafting
 
+A player can add Components from an Item they have to their existing Gear by **Crafting**. 

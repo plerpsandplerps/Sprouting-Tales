@@ -5,10 +5,6 @@ parent: Playing the Game
 nav_order: 2
 ---
 
-<div markdown="1">
-New Page
-{: .label .label-purple }
-</div>
 
 # Tales
 

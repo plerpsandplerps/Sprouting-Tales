@@ -6,11 +6,6 @@ parent: Card Types
 nav_order: 2
 ---
 
-<div markdown="1">
-More Coming soon
-{: .label .label-yellow }
-</div>
-
 # Consequences
 
 As an Adventurer adventures, they may suffer Consequences. **Consequences** are effects an Adventurer is under the influence of. Consequences are not necessarily beneficial or hurtful. When an Adventurer gains a Consequence their Player puts it into their Play. 

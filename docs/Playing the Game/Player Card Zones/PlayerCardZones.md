@@ -6,11 +6,6 @@ has_children: true
 nav_order: 2
 ---
 
-<div markdown="1">
-New Page
-{: .label .label-purple }
-</div>
-
 
 ## Player Card Zones
 

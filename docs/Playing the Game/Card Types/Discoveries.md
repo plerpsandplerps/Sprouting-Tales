@@ -6,11 +6,6 @@ parent: Card Types
 nav_order: 2
 ---
 
-<div markdown="1">
-More Coming soon
-{: .label .label-yellow }
-</div>
-
 # Discoveries
 
 ---

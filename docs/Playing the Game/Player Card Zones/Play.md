@@ -6,10 +6,6 @@ parent: Player Card Zones
 nav_order: 2
 ---
 
-<div markdown="1">
-New Page
-{: .label .label-purple }
-</div>
 
 ## Play
 

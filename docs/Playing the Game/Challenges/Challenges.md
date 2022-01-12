@@ -6,10 +6,6 @@ nav_order: 2
 has_children: true
 ---
 
-<div markdown="1">
-New Page
-{: .label .label-purple }
-</div>
 
 # Challenges
 
@@ -91,7 +87,5 @@ More Coming soon
 <!-- 
 
 ## Example Challenge Resolution
-
-
 
 -->
