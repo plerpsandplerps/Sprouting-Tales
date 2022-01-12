@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Supplies
-parent: Playing the Game
+parent: Card Types
 nav_order: 2
 ---
 
