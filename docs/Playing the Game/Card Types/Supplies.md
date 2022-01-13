@@ -38,6 +38,7 @@ The Player can only announce the Supply as an object that costs one Supply. The 
 - Tent
 - Common Clothes
 - Chalk
+- Crafting Tools
 
 The Player returns the Declared Supply if the object is lost, consumed, or significantly damaged in the fiction. 
 
@@ -45,6 +46,6 @@ The Player returns the Declared Supply if the object is lost, consumed, or signi
 
 When the Party spends some time at a well-supplied town, they **Refresh Supplies**. The Players may turn all of their Declared Supplies back upright. This represents the Adventurers bartering and exchanging their existing supplies for new ones. 
 
-### Load and Weight
+### Weight
 
-Supplies have a Weight of one for the purpose of Load. A Player cannot have more Supplies than they have available Load.
+Supplies have a Weight of one.
