@@ -49,3 +49,5 @@ When the Party spends some time at a well-supplied town, they **Refresh Supplies
 ### Weight
 
 Supplies have a Weight of one.
+
+<img src="https://plerpsandplerps.github.io/Sprouting-Tales/artwork/Supply.png" alt="Supply Card">

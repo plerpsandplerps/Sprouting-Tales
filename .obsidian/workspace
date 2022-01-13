@@ -9,12 +9,27 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Playing the Game/Card Types/Items.md",
+            "file": "docs/Playing the Game/Card Types/Supplies.md",
             "mode": "source",
             "backlinks": true,
             "source": true
           }
-        }
+        },
+        "group": "8c8d67f8befda773"
+      },
+      {
+        "id": "fa037ef9b47c8d67",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "docs/Playing the Game/Card Types/Supplies.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": true
+          }
+        },
+        "group": "8c8d67f8befda773"
       }
     ],
     "direction": "vertical"
@@ -41,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "load",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -50,8 +65,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -71,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Playing the Game/Card Types/Items.md",
+                "file": "docs/Playing the Game/Card Types/Supplies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Playing the Game/Card Types/Items.md"
+                "file": "docs/Playing the Game/Card Types/Supplies.md"
               }
             }
           },
@@ -98,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Playing the Game/Card Types/Items.md",
+                "file": "docs/Playing the Game/Card Types/Supplies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,15 +127,15 @@
   },
   "active": "313d8caaa042dc6c",
   "lastOpenFiles": [
-    "docs/Playing the Game/Card Types/Items.md",
     "docs/Playing the Game/Card Types/Supplies.md",
+    "docs/Introduction/Basics.md",
+    "artwork/Supply.png",
+    "docs/Playing the Game/Card Types/Items.md",
     "_drafts/Components.md",
     "docs/Playing the Game/Player Card Zones/Gear.md",
-    "docs/Introduction/Basics.md",
     "docs/Playing the Game/Card Types/Order.md",
     "_drafts/Crafting.md",
     "_drafts/GroupChallenges.md",
-    "docs/Playing the Game/Tales.md",
-    "docs/Playing the Game/Player Card Zones/Roots.md"
+    "docs/Playing the Game/Tales.md"
   ]
 }
