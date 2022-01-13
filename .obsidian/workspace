@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Playing the Game/Card Types/Supplies.md",
+            "file": "_drafts/Gear.md",
             "mode": "source",
             "backlinks": true,
             "source": true
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Playing the Game/Card Types/Supplies.md",
+            "file": "_drafts/Gear.md",
             "mode": "source",
             "backlinks": true,
             "source": true
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Playing the Game/Card Types/Supplies.md",
+                "file": "_drafts/Gear.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Playing the Game/Card Types/Supplies.md"
+                "file": "_drafts/Gear.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Playing the Game/Card Types/Supplies.md",
+                "file": "_drafts/Gear.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,15 +127,15 @@
   },
   "active": "313d8caaa042dc6c",
   "lastOpenFiles": [
+    "_drafts/Gear.md",
+    "docs/Playing the Game/Challenges/Challenges.md",
+    "docs/Playing the Game/Card Types/Discoveries.md",
     "docs/Playing the Game/Card Types/Supplies.md",
     "docs/Introduction/Basics.md",
     "artwork/Supply.png",
-    "docs/Playing the Game/Card Types/Items.md",
+    "_drafts/Items.md",
     "_drafts/Components.md",
-    "docs/Playing the Game/Player Card Zones/Gear.md",
     "docs/Playing the Game/Card Types/Order.md",
-    "_drafts/Crafting.md",
-    "_drafts/GroupChallenges.md",
-    "docs/Playing the Game/Tales.md"
+    "_drafts/Crafting.md"
   ]
 }
