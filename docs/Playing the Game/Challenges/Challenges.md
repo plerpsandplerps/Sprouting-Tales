@@ -65,7 +65,9 @@ If multiple Players decided to Discover, then deal Order Cards to decide the ord
 
 ### Boons
 
-When a **Boon Discovery** appears in a Challenge, the Adventurers facing the Challenge gain a minor benefit. Anybody in the group can suggest a minor benefit; however, the Guide has final say in what minor benefit the group receives. Some example minor benefits include:
+When a **Boon Discovery** appears in a Challenge, the Adventurers facing the Challenge gain a minor benefit. Anybody in the group can suggest a minor benefit; however, the Guide has final say in what minor benefit the group receives. This card cannot be added to a Player's Branches during a Discovery. 
+
+Some example minor benefits include:
 - Lose a Doubt or Injury; 
 - The Challenge takes less time to overcome;
 - The cover opponents are hiding behind is destroyed; or
@@ -73,7 +75,9 @@ When a **Boon Discovery** appears in a Challenge, the Adventurers facing the Cha
 
 ### Banes
 
-When a **Bane Discovery** appears in a Challenge, the Adventurers facing the Challenge encounter a minor complication. Anybody in the group can suggest a minor complication; however, the Guide has final say in what minor complication the group receives. Some example minor complications include: 
+When a **Bane Discovery** appears in a Challenge, the Adventurers facing the Challenge encounter a minor complication. Anybody in the group can suggest a minor complication; however, the Guide has final say in what minor complication the group receives. This card cannot be added to a Player's Branches during a Discovery. 
+
+Some example minor complications include: 
 - Drawing a Doubt or Injury;
 - Nearby characters are alerted to your presence;
 - The cover the Adventurers are hiding behind is destroyed; or

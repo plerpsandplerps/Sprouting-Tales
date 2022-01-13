@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_drafts/Gear.md",
+            "file": "docs/Playing the Game/Challenges/Challenges.md",
             "mode": "source",
             "backlinks": true,
             "source": true
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_drafts/Gear.md",
+            "file": "docs/Playing the Game/Challenges/Challenges.md",
             "mode": "source",
             "backlinks": true,
             "source": true
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_drafts/Gear.md",
+                "file": "docs/Playing the Game/Challenges/Challenges.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_drafts/Gear.md"
+                "file": "docs/Playing the Game/Challenges/Challenges.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_drafts/Gear.md",
+                "file": "docs/Playing the Game/Challenges/Challenges.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,9 +127,9 @@
   },
   "active": "313d8caaa042dc6c",
   "lastOpenFiles": [
-    "_drafts/Gear.md",
     "docs/Playing the Game/Challenges/Challenges.md",
     "docs/Playing the Game/Card Types/Discoveries.md",
+    "_drafts/Gear.md",
     "docs/Playing the Game/Card Types/Supplies.md",
     "docs/Introduction/Basics.md",
     "artwork/Supply.png",
