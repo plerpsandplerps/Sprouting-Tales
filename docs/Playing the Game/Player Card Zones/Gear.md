@@ -11,4 +11,4 @@ nav_order: 2
 
 ---
 
-A Player's **Gear** is a faceup piles of cards where Components are kept. This pile represents the equipment the Adventurer has in their Pack, Body, and Hands. 
+A Player's **Gear** is a faceup pile of cards where Components are kept. This pile represents the equipment the Adventurer has in their Pack, Body, and Hands. 

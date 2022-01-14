@@ -11,9 +11,9 @@ nav_order: 2
 
 **Supplies** are the ordinary adventuring tools and simple items found while exploring. The common nature of these items lends them to be used as currency in the barter economy. 
 
-Players  keep their Supplies in a space infront of themselves
+Players keep their Supplies in their Play zone.
 
-Newly created Adventurers begin with # Supplies. 
+Newly created Adventurers begin with seven Supplies. 
 
 ## Declaring Supplies
 
