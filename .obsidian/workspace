@@ -7,12 +7,9 @@
         "id": "313d8caaa042dc6c",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "docs/Playing the Game/Challenges/Challenges.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": true
+            "file": "artwork/Discoveryback.png"
           }
         },
         "group": "8c8d67f8befda773"
@@ -21,12 +18,9 @@
         "id": "fa037ef9b47c8d67",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "docs/Playing the Game/Challenges/Challenges.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": true
+            "file": "artwork/Discoveryback.png"
           }
         },
         "group": "8c8d67f8befda773"
@@ -85,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Playing the Game/Challenges/Challenges.md",
+                "file": "artwork/Discoveryback.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Playing the Game/Challenges/Challenges.md"
+                "file": "artwork/Discoveryback.png"
               }
             }
           },
@@ -112,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Playing the Game/Challenges/Challenges.md",
+                "file": "artwork/Discoveryback.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,15 +121,15 @@
   },
   "active": "313d8caaa042dc6c",
   "lastOpenFiles": [
+    "artwork/Discoveryback.png",
+    "docs/Playing the Game/Card Types/Discoveries.md",
+    "docs/Introduction/Basics.md",
+    "docs/Playing the Game/Card Types/Traits.md",
     "docs/Playing the Game/Challenges/Challenges.md",
     "docs/Playing the Game/Crafting.md",
     "docs/Playing the Game/Card Types/Items.md",
     "docs/Playing the Game/Card Types/Components.md",
     "docs/Playing the Game/Player Card Zones/Gear.md",
-    "docs/Playing the Game/Card Types/Supplies.md",
-    "docs/Playing the Game/Card Types/Traits.md",
-    "_drafts/BaseComp Draft.md",
-    "_drafts/Paths.md",
-    "docs/Playing the Game/Challenges/AssistingChallenge.md"
+    "docs/Playing the Game/Card Types/Supplies.md"
   ]
 }

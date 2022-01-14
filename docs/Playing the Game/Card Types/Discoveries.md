@@ -104,13 +104,6 @@ After all Players finish Sharing Discoveries, the Guide **Spreads the Inferno**.
 
 After spreading the Inferno, the Guide **Grows the World Tree**. The Guide may connect any number of Discoveries in the Far pile to Discoveries in the World Tree, or they may place any number of Discoveries disconnected in the World Tree. For each placed Discovery the Guide tells a tale.  
 
-<div markdown="1">
-More Coming soon
-{: .label .label-yellow }
-</div>
+<img src="https://plerpsandplerps.github.io/Sprouting-Tales/artwork/Discovery_1.png" alt="River Discovery Card">
 
-<!--
-
-Example 
-
--->
+<img src="https://plerpsandplerps.github.io/Sprouting-Tales/artwork/Discoveryback.png" alt="Back of Discovery Card">
