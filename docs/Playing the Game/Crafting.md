@@ -18,4 +18,6 @@ To Craft a Player takes the following steps in order:
 3. Return one Supply for each Component they added to their Gear.
 4. Return the Item(s) they added Components from. 
 
+If a Player cannot complete any of the above steps, then they cannot Craft. 
+
 When calculating Weight, Players use the positive Weight for any Base Components they have added to their Gear through Crafting. 
