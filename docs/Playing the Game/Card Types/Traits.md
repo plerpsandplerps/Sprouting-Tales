@@ -10,7 +10,7 @@ nav_order: 2
 
 --- 
 
-The core of an Adventurer in Sprouting Tales is not defined by their Ancestry or Path, but by who they are. **Traits** are cards that define what an Adventurer is like. Are they funny? Smart? Kind? or something else entirely? 
+The core of an Adventurer in Sprouting Tales is not defined by their Path, but by who they are. **Traits** are cards that define what an Adventurer is like. Are they funny? Smart? Kind? or something else entirely? 
 
 ## Playing Traits
 

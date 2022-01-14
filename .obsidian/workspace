@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Playing the Game/Card Types/Traits.md",
+            "file": "_drafts/Paths.md",
             "mode": "source",
             "backlinks": true,
             "source": true
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Playing the Game/Card Types/Traits.md",
+            "file": "_drafts/Paths.md",
             "mode": "source",
             "backlinks": true,
             "source": true
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Playing the Game/Card Types/Traits.md",
+                "file": "_drafts/Paths.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Playing the Game/Card Types/Traits.md"
+                "file": "_drafts/Paths.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Playing the Game/Card Types/Traits.md",
+                "file": "_drafts/Paths.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,6 +127,8 @@
   },
   "active": "313d8caaa042dc6c",
   "lastOpenFiles": [
+    "_drafts/Paths.md",
+    "docs/Playing the Game/Challenges/AssistingChallenge.md",
     "docs/Playing the Game/Card Types/Traits.md",
     "docs/Playing the Game/Card Types/Discoveries.md",
     "docs/Playing the Game/Challenges/Challenges.md",
@@ -134,8 +136,6 @@
     "docs/Playing the Game/Card Types/Supplies.md",
     "docs/Introduction/Basics.md",
     "artwork/Supply.png",
-    "_drafts/Items.md",
-    "_drafts/Components.md",
-    "docs/Playing the Game/Card Types/Order.md"
+    "_drafts/Items.md"
   ]
 }

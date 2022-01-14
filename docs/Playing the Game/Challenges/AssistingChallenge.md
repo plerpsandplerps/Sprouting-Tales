@@ -11,7 +11,7 @@ nav_order: 2
 To assist in a Challenge a Player must meet the following criteria: 
 
 
-1. a trait on top of their Roots;
+1. a Trait on top of their Roots;
 2. their Adventurer cannot be facing the same Challenge;
 3. their Adventurer is in the same area as the Adventurer facing the Challenge.
 
