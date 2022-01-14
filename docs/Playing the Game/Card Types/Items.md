@@ -19,9 +19,11 @@ If they chose to find a Supply, they gain a Supply facedown.
 
 If they chose to find an Item, they gain a Supply facedown. Then turn that Supply faceup.
 
+An Adventurer cannot carry an Item or Supply if it would make their total Weight go over zero.
+
 ## Equipping Items
 
-When an Adventurer equips an Item, they remove all Components of their currently equipped Item from their Gear. Then they add all components of the new Item to their Gear. 
+When an Adventurer equips an Item, they remove all Components of their currently equipped Item from their Gear. Then they add all components of the new Item to their Gear.
 
 ## Missing Components
 

@@ -48,6 +48,6 @@ When the Party spends some time at a well-supplied town, they **Refresh Supplies
 
 ### Weight
 
-Supplies have a Weight of one.
+Supplies have a Weight of one. Players cannot gain new Supplies if these Supplies would make their total Weight go over zero. 
 
 <img src="https://plerpsandplerps.github.io/Sprouting-Tales/artwork/Supply.png" alt="Supply Card">

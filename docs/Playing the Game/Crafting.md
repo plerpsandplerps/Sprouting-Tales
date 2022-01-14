@@ -7,6 +7,8 @@ nav_order: 2
 
 # Crafting
 
+---
+
 A Player can **Craft** to add Components to their existing Gear.
 
 To Craft a Player takes the following steps in order: 
