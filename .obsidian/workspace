@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_drafts/Paths.md",
+            "file": "docs/Playing the Game/Card Types/Components.md",
             "mode": "source",
             "backlinks": true,
             "source": true
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_drafts/Paths.md",
+            "file": "docs/Playing the Game/Card Types/Components.md",
             "mode": "source",
             "backlinks": true,
             "source": true
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_drafts/Paths.md",
+                "file": "docs/Playing the Game/Card Types/Components.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_drafts/Paths.md"
+                "file": "docs/Playing the Game/Card Types/Components.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_drafts/Paths.md",
+                "file": "docs/Playing the Game/Card Types/Components.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,15 +127,15 @@
   },
   "active": "313d8caaa042dc6c",
   "lastOpenFiles": [
+    "docs/Playing the Game/Card Types/Components.md",
+    "docs/Playing the Game/Card Types/Traits.md",
+    "_drafts/BaseComp Draft.md",
+    "docs/Playing the Game/Player Card Zones/Gear.md",
     "_drafts/Paths.md",
     "docs/Playing the Game/Challenges/AssistingChallenge.md",
-    "docs/Playing the Game/Card Types/Traits.md",
     "docs/Playing the Game/Card Types/Discoveries.md",
     "docs/Playing the Game/Challenges/Challenges.md",
-    "_drafts/Gear.md",
     "docs/Playing the Game/Card Types/Supplies.md",
-    "docs/Introduction/Basics.md",
-    "artwork/Supply.png",
-    "_drafts/Items.md"
+    "docs/Introduction/Basics.md"
   ]
 }
