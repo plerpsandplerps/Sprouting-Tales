@@ -7,9 +7,12 @@
         "id": "313d8caaa042dc6c",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "artwork/Discoveryback.png"
+            "file": "docs/Playing the Game/Crafting.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": true
           }
         },
         "group": "8c8d67f8befda773"
@@ -18,9 +21,12 @@
         "id": "fa037ef9b47c8d67",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "artwork/Discoveryback.png"
+            "file": "docs/Playing the Game/Crafting.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": true
           }
         },
         "group": "8c8d67f8befda773"
@@ -79,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "artwork/Discoveryback.png",
+                "file": "docs/Playing the Game/Crafting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "artwork/Discoveryback.png"
+                "file": "docs/Playing the Game/Crafting.md"
               }
             }
           },
@@ -106,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "artwork/Discoveryback.png",
+                "file": "docs/Playing the Game/Crafting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,12 +127,12 @@
   },
   "active": "313d8caaa042dc6c",
   "lastOpenFiles": [
+    "docs/Playing the Game/Crafting.md",
     "artwork/Discoveryback.png",
     "docs/Playing the Game/Card Types/Discoveries.md",
     "docs/Introduction/Basics.md",
     "docs/Playing the Game/Card Types/Traits.md",
     "docs/Playing the Game/Challenges/Challenges.md",
-    "docs/Playing the Game/Crafting.md",
     "docs/Playing the Game/Card Types/Items.md",
     "docs/Playing the Game/Card Types/Components.md",
     "docs/Playing the Game/Player Card Zones/Gear.md",
