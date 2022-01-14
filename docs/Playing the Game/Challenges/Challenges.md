@@ -13,7 +13,7 @@ Occasionally Adventurers will face tasks that are difficult for them to complete
 
 ---
 
-<img align="right" src="https://plerpsandplerps.github.io/Sprouting-Tales/artwork/Art_Challenge.png" alt="Adventurers face a Challenge">
+<img src="https://plerpsandplerps.github.io/Sprouting-Tales/artwork/Art_Challenge.png" alt="Adventurers face a Challenge">
 
 ---
 
