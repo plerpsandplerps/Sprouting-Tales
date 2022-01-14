@@ -39,8 +39,8 @@ When the Component is on top of your Gear and the Trigger requirements are met, 
 
 ## Weight
 
-This is the **Weight** of the Component. You cannot add a Component to your Gear if it will make your Weight positive.
+This is the **Weight** of the Component. You cannot add a Component to your Gear if it will make your total Weight greater than zero.
 
 ## Base Components
 
-Some Components have the Base Component type. This is particularly important for Crafting. To find out more information on
+Some Components have the Base Component type. This is particularly important for Crafting and equipping Items. 

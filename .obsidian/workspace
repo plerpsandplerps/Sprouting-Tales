@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "player",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -128,9 +128,9 @@
   "active": "313d8caaa042dc6c",
   "lastOpenFiles": [
     "docs/Playing the Game/Card Types/Items.md",
-    "docs/Playing the Game/Player Card Zones/Gear.md",
     "docs/Playing the Game/Card Types/Components.md",
     "docs/Playing the Game/Crafting.md",
+    "docs/Playing the Game/Player Card Zones/Gear.md",
     "docs/Playing the Game/Card Types/Supplies.md",
     "docs/Playing the Game/Card Types/Traits.md",
     "_drafts/BaseComp Draft.md",
