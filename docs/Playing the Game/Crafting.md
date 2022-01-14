@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Items
+title: Crafting
 parent: Playing the Game
 nav_order: 2
 ---
