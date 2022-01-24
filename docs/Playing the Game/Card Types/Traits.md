@@ -29,4 +29,3 @@ Traits have the following characteristics:
 5. **Trigger:** The Trigger on the front of a Trait states when the Effect will occur. Most Traits are triggered when the Trait becomes the top of a Player's branches.
 6. **Effect:** The Effect of a Trait is resolved when the Trigger condition becomes true.
 
-<img src="https://plerpsandplerps.github.io/Sprouting-Tales/artwork/TraitEx.png" alt="Trait Card Explanation">
