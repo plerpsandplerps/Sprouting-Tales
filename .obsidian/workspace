@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Playing the Game/Card Types/Traits.md",
+            "file": "docs/Playing the Game/Card Types/Discoveries.md",
             "mode": "source",
             "backlinks": true,
             "source": true
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Playing the Game/Card Types/Traits.md",
+            "file": "docs/Playing the Game/Card Types/Discoveries.md",
             "mode": "source",
             "backlinks": true,
             "source": true
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Playing the Game/Card Types/Traits.md",
+                "file": "docs/Playing the Game/Card Types/Discoveries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Playing the Game/Card Types/Traits.md"
+                "file": "docs/Playing the Game/Card Types/Discoveries.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Playing the Game/Card Types/Traits.md",
+                "file": "docs/Playing the Game/Card Types/Discoveries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,15 +127,15 @@
   },
   "active": "313d8caaa042dc6c",
   "lastOpenFiles": [
+    "docs/Playing the Game/Card Types/Discoveries.md",
+    "docs/Playing the Game/Crafting.md",
+    "docs/Playing the Game/Card Types/Components.md",
+    "docs/Playing the Game/Card Types/Items.md",
+    "docs/Playing the Game/Card Types/Supplies.md",
     "docs/Playing the Game/Card Types/Traits.md",
     "_drafts/Conflicts.md",
     "_drafts/upload.md",
     "_drafts/GroupChallenges.md",
-    "docs/Playing the Game/Card Types/Paths.md",
-    "docs/Playing the Game/Card Types/Items.md",
-    "docs/Playing the Game/Card Types/Discoveries.md",
-    "docs/Playing the Game/Player Card Zones/Kindling.md",
-    "docs/Playing the Game/Crafting.md",
-    "artwork/Discoveryback.png"
+    "docs/Playing the Game/Card Types/Paths.md"
   ]
 }
