@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Playing the Game/Challenges/Challenges.md",
+            "file": "docs/Playing the Game/PlayingtheGame.md",
             "mode": "source",
             "backlinks": true,
             "source": true
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Playing the Game/Challenges/Challenges.md",
+            "file": "docs/Playing the Game/PlayingtheGame.md",
             "mode": "source",
             "backlinks": true,
             "source": true
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Playing the Game/Challenges/Challenges.md",
+                "file": "docs/Playing the Game/PlayingtheGame.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Playing the Game/Challenges/Challenges.md"
+                "file": "docs/Playing the Game/PlayingtheGame.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Playing the Game/Challenges/Challenges.md",
+                "file": "docs/Playing the Game/PlayingtheGame.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,8 +125,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fa037ef9b47c8d67",
+  "active": "313d8caaa042dc6c",
   "lastOpenFiles": [
+    "docs/Playing the Game/PlayingtheGame.md",
     "docs/Playing the Game/Challenges/Challenges.md",
     "docs/Playing the Game/Player Card Zones/Roots.md",
     "docs/Playing the Game/Player Card Zones/Kindling.md",
@@ -135,7 +136,6 @@
     "docs/Playing the Game/Card Types/Discoveries.md",
     "docs/Playing the Game/Crafting.md",
     "docs/Playing the Game/Card Types/Components.md",
-    "docs/Playing the Game/Card Types/Items.md",
-    "docs/Playing the Game/Card Types/Supplies.md"
+    "docs/Playing the Game/Card Types/Items.md"
   ]
 }

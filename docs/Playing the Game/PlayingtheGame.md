@@ -11,5 +11,5 @@ has_toc: true
 
 ---
 
-This section will teach you about how to play the game.
+This section will teach you how to play the game.
 
