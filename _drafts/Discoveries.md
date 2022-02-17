@@ -10,7 +10,7 @@ nav_order: 2
 
 ---
 
-Fires burn across the World Tree and leave the World in disarray. The World rearranges itself as its branches crumble to ash and the Inferno creates new divides. Adventurers are continuously discovering and exploring this world. 
+Fires spread throughout the World Tree and leave the World in disarray. Adventurers are continuously discovering and exploring this world. 
 
 A **Discovery** is a card type used to create Challenges, advance Adventurers, and shape the World Tree.
 
@@ -34,19 +34,7 @@ A **Discovery** is a card type used to create Challenges, advance Adventurers, a
 
 **The World Tree** is a card zone that represents the World the Adventurers are exploring. The World Tree can only have faceup Discoveries in it. 
 
-Discoveries can be connected by the black lines on their cards. Connected Discoveries are considered to be in the same region of the World. Disconnected Discoveries are in different regions of the World.
-
-At the start of a Campaign, the Guide draws nine Discoveries and picks three to place into the World Tree connected to one another. The Guide then returns the remaining Discoveries. The Guide tells a Tale for each of the placed Discoveries.
-
-### Traversing the World Tree
- 
- Adventurers always exist in one of the Discoveries in the World Tree. When they travel by foot they can move from one Discovery to an adjacent connected Discovery in one full day's travel. 
-
- Any Discoveries that are disconnected from the Adventurers are assumed to be separated from the current region by the Inferno.
-
-## Gaining Discoveries
-
-Players start with five Discoveries in their Roots when they create their Adventurer. After that point, the only way Players gain Discoveries is by Discovering during a Challenge.
+Discoveries are connected to other Discoveries by the black lines on their card faces. Connected Discoveries are in the same region of the World, while disconnected Discoveries represent different regions of the World.
 
 ## Sharing Discoveries
 
@@ -104,6 +92,6 @@ After all Players finish Sharing Discoveries, the Guide **Spreads the Inferno**.
 
 After spreading the Inferno, the Guide **Grows the World Tree**. The Guide may connect any number of Discoveries in the Far pile to Discoveries in the World Tree, or they may place any number of Discoveries disconnected in the World Tree. For each placed Discovery the Guide tells a tale.  
 
-<img src="https://plerpsandplerps.github.io/Sprouting-Tales/artwork/Discovery_1.png" alt="River Discovery Card">
-
-<img src="https://plerpsandplerps.github.io/Sprouting-Tales/artwork/Discoveryback.png" alt="Back of Discovery Card">
+### Traversing the World Tree
+ 
+Adventurers always exist in one of the Discoveries in the World Tree. When they travel by foot they can move from one Discovery to an adjacent connected Discovery in one full day's travel. 
