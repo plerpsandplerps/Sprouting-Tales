@@ -24,7 +24,7 @@
           "type": "markdown",
           "state": {
             "file": "docs/Playing the Game/Card Types/Discoveries.md",
-            "mode": "source",
+            "mode": "preview",
             "backlinks": true,
             "source": true
           }
@@ -128,14 +128,14 @@
   "active": "313d8caaa042dc6c",
   "lastOpenFiles": [
     "docs/Playing the Game/Card Types/Discoveries.md",
+    "docs/Playing the Game/Card Types/Supplies.md",
+    "docs/Playing the Game/Card Types/Components.md",
+    "docs/Playing the Game/Card Types/Order.md",
+    "_drafts/ConflictsandGoals.md",
     "docs/Playing the Game/PlayingtheGame.md",
     "docs/Playing the Game/Challenges/Challenges.md",
     "docs/Playing the Game/Player Card Zones/Roots.md",
     "docs/Playing the Game/Player Card Zones/Kindling.md",
-    "_drafts/Conflicts.md",
-    "_drafts/GroupChallenges.md",
-    "docs/Playing the Game/Crafting.md",
-    "docs/Playing the Game/Card Types/Components.md",
-    "docs/Playing the Game/Card Types/Items.md"
+    "_drafts/GroupChallenges.md"
   ]
 }
