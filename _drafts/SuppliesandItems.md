@@ -63,18 +63,38 @@ The Guide decides what the Rumor is and where the Item is located.
 
 ---
 
-On the faceup side of every Supply is an **Item**. 
+**Items** are the weapons, trinkets, and armor that Adventurers rely upon regularly. 
 
-## Finding Items 
+## Rarity
 
-When an Adventurer finds loot while exploring, the Guide asks the Player if their Adventurer found an Item or a Supply.
+Every Item has one of three rarities: 
+1. Common;
+2. Uncommon; or,
+3. Rare;
 
-If they choose to find a Supply, they gain a Supply facedown. 
+Common and Uncommon Items located are on the back of Supplies, while Rare Items are on Rare Item cards with their own face and back. There are three copies of every Common Item, two copies of every Uncommon Item, and one copy of every Rare Item.
 
-If they choose to find an Item, they gain a Supply facedown. Then turn that Supply faceup, making it an Item.
+## Slots
+
+Each Adventurer has four **Slots**, zones where they keep Supplies and Items. Each Slot can hold up to one Item or up to four Supplies. If an Adventurer does not have any Slots available to hold an Item or Supply, they cannot pick up that Item or Supply.
 
 ## Starting Items
 
 Newly created Adventurers begin with seven Supplies. 
 
+The Party then uses Order to take turns exchanging their Supplies for any number of Common Items they can afford and up to one Uncommon Item they can afford.  
 
+## Finding Items 
+
+When an Adventurer finds loot while exploring, the Guide asks the Player if their Adventurer found an Item or a Supply.
+
+1. If they choose to find a Supply, they gain a Supply facedown. 
+2. If they choose to find an Item, they gain a Supply facedown. Then turn that Supply faceup, making it an Item.
+
+## Rumors
+
+To be added
+
+## Crafting
+
+To be added

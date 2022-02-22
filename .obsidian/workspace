@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_drafts/Order.md",
+            "file": "_drafts/SuppliesandItems.md",
             "mode": "source",
             "backlinks": true,
             "source": true
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_drafts/Order.md",
+                "file": "_drafts/SuppliesandItems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_drafts/Order.md"
+                "file": "_drafts/SuppliesandItems.md"
               }
             }
           },
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_drafts/Order.md",
+                "file": "_drafts/SuppliesandItems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,6 +112,7 @@
   },
   "active": "53740c691fbf4af8",
   "lastOpenFiles": [
+    "_drafts/SuppliesandItems.md",
     "_drafts/Order.md",
     "_drafts/Items.md",
     "docs/Playing the Game/Card Types/Discoveries.md",
@@ -120,7 +121,6 @@
     "_drafts/ConflictsandGoals.md",
     "_drafts/upload.md",
     "_drafts/GroupChallenges.md",
-    "docs/Playing the Game/Card Types/Card Types.md",
-    "docs/Playing the Game/Card Types/Consequences.md"
+    "docs/Playing the Game/Card Types/Card Types.md"
   ]
 }
