@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Supplies and Items
+title: Items and Supplies
 grand_parent: Playing the Game
 parent: Card Types
 nav_order: 2
