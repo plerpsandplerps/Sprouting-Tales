@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_drafts/SuppliesandItems.md",
+            "file": "docs/Playing the Game/Card Types/SuppliesandItems.md",
             "mode": "source",
             "backlinks": true,
             "source": true
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_drafts/SuppliesandItems.md",
+                "file": "docs/Playing the Game/Card Types/SuppliesandItems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_drafts/SuppliesandItems.md"
+                "file": "docs/Playing the Game/Card Types/SuppliesandItems.md"
               }
             }
           },
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_drafts/SuppliesandItems.md",
+                "file": "docs/Playing the Game/Card Types/SuppliesandItems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,7 +112,7 @@
   },
   "active": "53740c691fbf4af8",
   "lastOpenFiles": [
-    "_drafts/SuppliesandItems.md",
+    "docs/Playing the Game/Card Types/SuppliesandItems.md",
     "_drafts/Order.md",
     "_drafts/Items.md",
     "docs/Playing the Game/Card Types/Discoveries.md",

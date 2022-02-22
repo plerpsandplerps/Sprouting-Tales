@@ -91,6 +91,8 @@ When an Adventurer finds loot while exploring, the Guide asks the Player if thei
 1. If they choose to find a Supply, they gain a Supply facedown. 
 2. If they choose to find an Item, they gain a Supply facedown. Then turn that Supply faceup, making it an Item.
 
+<!-- 
+
 ## Rumors
 
 To be added
@@ -98,3 +100,5 @@ To be added
 ## Crafting
 
 To be added
+
+-->
