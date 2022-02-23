@@ -32,15 +32,15 @@ A **Discovery** is a card type used to create Challenges, advance Adventurers, a
 ---
 ## The World Tree
 
-**The World Tree** is a card zone that represents the World the Adventurers are exploring. The World Tree can only have faceup Discoveries in it. 
+**The World Tree** is a card zone that represents the World the Adventurers are exploring. The World Tree can only have face up Discoveries in it. 
 
 Discoveries are connected to other Discoveries by the black lines on their card faces. Connected Discoveries are in the same region of the World, while disconnected Discoveries represent different regions of the World.
 
 ### Sharing Discoveries
 
-When an Adventurer Rests and their Player has Discoveries in their Roots, then that Player **Shares Discoveries**. When any Player Shares Discoveries use Order.
+When an Adventurer Rests and their Player has Discoveries in their Roots, then that Player **Shares Discoveries**. When any Player Shares Discoveries use Order to determine who acts when.
 
-To Share Discoveries all Players move all Discoveries from their Roots into their Hand. Whenever it is a Player's turn in the Order, they declare a Discovery from their hand as:
+To Share Discoveries, all Players move all Discoveries from their Roots into their Hand. Whenever it is a Player's turn in the Order, they declare a Discovery from their hand as:
 
 1. **Close;**
 2. **Far;** or,
@@ -50,7 +50,7 @@ To Share Discoveries all Players move all Discoveries from their Roots into thei
 
 When a Player declares a Discovery as **Close**, they take the following steps in order: 
 
-1. Connect the Discovery faceup to the World Tree;
+1. Connect the Discovery face up to the World Tree;
 2. Advance the Player's Order one;
 3. Tell a Tale about this Discovery;
 4. Draw six Level one Traits;
@@ -64,7 +64,7 @@ If a Player is unable to take one of these steps, they cannot declare their Disc
 
 When a Player declares a Discovery as **Far**, they take the following steps in order:
 
-1. Place the Discovery faceup in the Far zone;
+1. Place the Discovery face up in the Far zone;
 2. Advance the Player's Order two;
 3. Return two Traits of the same Level from their Roots;
 4. Draw three Traits one level higher than the returned cards;
@@ -78,7 +78,7 @@ If a Player is unable to take one of these steps, they cannot declare their Disc
 
 When a Player declares a Discovery as **Kindling**, they take the following steps in order: 
 
-1. Place the Discovery faceup in the Guide's Kindling zone;
+1. Place the Discovery face up in the Guide's Kindling zone;
 2. Advance the Player's Order three;
 3. Return two Traits of the same Level from their Roots; 
 4. Choose an available Path of the same Level to add to their Roots; and,
@@ -98,9 +98,9 @@ If the Guide is unable to take any of these steps, then the Guide takes none of 
 
 #### **The Inferno Spreads**
 
-After everyone finishes Sharing Discoveries, the Guide **Spreads the Inferno**. To Spread the Inferno the Guide places one Kindling on one Discovery in the World Tree for each Discovery in their Kindling zone. Then returns all Discoveries in their Kindling zone.  
+After everyone finishes Sharing Discoveries, the Guide **Spreads the Inferno**. To Spread the Inferno, the Guide turns one Discovery on the World Tree horizontal for each Discovery in their Kindling zone. Then returns all Discoveries in their Kindling zone.  
 
-Whenever a Discovery in the World Tree has two Kindlings on it, return that Discovery. 
+When the Guide would turn a Discovery horizontal, but that Discovery is already horizontal, the Guide returns that Discovery instead.
 
 ### Creating Adventurers
 
@@ -111,4 +111,10 @@ If any Player is creating an Adventurer, they place seven random Discoveries int
 
 ### Traversing the World Tree
  
-Adventurers always exist in one of the Discoveries in the World Tree. When they travel by foot they can move from one Discovery to an adjacent connected Discovery in one full day's travel. 
+Adventurers always exist in one of the Discoveries in the World Tree. When Adventurers travel by foot, they can move from one Discovery to an adjacent connected Discovery in one full day's travel. 
+
+<!-- 
+
+## Discovery Gallery
+
+-->

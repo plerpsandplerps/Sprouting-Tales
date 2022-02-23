@@ -8,7 +8,7 @@ nav_order: 2
 
 # Consequences
 
-As an Adventurer adventures, they may suffer Consequences. **Consequences** are effects an Adventurer is under the influence of. Consequences are not necessarily beneficial or hurtful. When an Adventurer gains a Consequence their Player puts it into their Play. 
+As an Adventurer adventures, they may suffer Consequences. **Consequences** are a type of card that affects an Adventurer while it is in Play. Consequences can be beneficial or harmful. When an Adventurer gains a Consequence, that Player puts it into their Play. 
 
 Every Consequence belongs to one of two categories:  
 1. **Ongoing**; or,
@@ -16,11 +16,11 @@ Every Consequence belongs to one of two categories:
 
 ## Ongoing
 
-**Ongoing** are just that, ongoing. They are not returned when a Player Rests. If a Player's Ongoing Consequences aren't returned by an effect, a Player will have them forever.
+**Ongoing** Consequences are just that, ongoing. They are not returned when a Player Rests, and instead must be returned by a different effect. 
 
 <img src="https://plerpsandplerps.github.io/Sprouting-Tales/artwork/InjuryExp.png" alt="Injury Ongoing Consequence Card Explanation">
 
-Most Ongoing Consequences offer the Player the opportunity to return them, for a worse Consequence. For example, an Injury allows a Player to return all Injuries to put a Wound into Play. Players must be wary,  Wounds have a more detrimental score. 
+Most Ongoing Consequences offer the Player the opportunity to return them, for a worse Consequence. For example, an Injury allows a Player to return all Injuries to put a Wound into Play.
 
 <img src="https://plerpsandplerps.github.io/Sprouting-Tales/artwork/WoundEx.png" alt="Wound Ongoing Consequence Card Explanation">
 
@@ -28,15 +28,9 @@ Most Ongoing Consequences offer the Player the opportunity to return them, for a
 
 **Conditions** are temporary Consequences, when a Player Rests they return all of their Conditions from Play. 
 
-The first Condition an Adventurer gains has no effect outside of its score. When a Player would put a copy beyond the first of a Condition into play, the Player instead resolves the effect listed on the card.
+The first Condition an Adventurer gains has no effect outside its Score. When a Player would put a copy beyond the first of a Condition into play, the Player instead resolves the effect listed on the card.
 
-Some Conditions have an opposite. When a Player would put a Condition into Play that is the opposite of one of the Conditions the Player already has in Play, the Player instead returns both Conditions.  
-
-# Example Condition 
-
-A Player has an Obscured Condition in Play (see below). This Player was also going to put an Illuminated Condition into Play. The Player would return their Obscured Condition and not put their Illuminated Condition into Play. 
-
-<img src="https://plerpsandplerps.github.io/Sprouting-Tales/artwork/ConditionsExp.png" alt="Obscured Condition Card Explanation">
+Some Conditions have an opposite. When a Player would put a Condition into Play that is the opposite of one of the Conditions the Player already has in Play, the Player returns both Conditions instead.  
 
 <!--
 

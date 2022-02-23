@@ -9,7 +9,7 @@ has_children: true
 
 # Challenges
 
-Occasionally Adventurers will face tasks that are difficult for them to complete. These tasks are called **Challenges**.
+Occasionally, Adventurers face tasks that are difficult for them to complete. These tasks are called **Challenges**.
 
 ---
 

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Playing the Game/Card Types/Discoveries.md",
+            "file": "docs/Playing the Game/Card Types/SuppliesandItems.md",
             "mode": "source",
             "backlinks": true,
             "source": true
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Playing the Game/Card Types/Discoveries.md",
+                "file": "docs/Playing the Game/Card Types/SuppliesandItems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Playing the Game/Card Types/Discoveries.md"
+                "file": "docs/Playing the Game/Card Types/SuppliesandItems.md"
               }
             }
           },
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Playing the Game/Card Types/Discoveries.md",
+                "file": "docs/Playing the Game/Card Types/SuppliesandItems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,15 +112,15 @@
   },
   "active": "53740c691fbf4af8",
   "lastOpenFiles": [
-    "docs/Playing the Game/Card Types/Discoveries.md",
-    "docs/Playing the Game/Card Types/Card Types.md",
-    "docs/Playing the Game/Player Card Zones/Kindling.md",
     "docs/Playing the Game/Card Types/SuppliesandItems.md",
-    "_drafts/Order.md",
-    "_drafts/Items.md",
+    "docs/Playing the Game/Card Types/Consequences.md",
+    "docs/Playing the Game/Card Types/Discoveries.md",
+    "docs/Playing the Game/Card Types/Traits.md",
     "docs/Introduction/Basics.md",
-    "_drafts/Supplies.md",
-    "_drafts/ConflictsandGoals.md",
-    "_drafts/upload.md"
+    "docs/Introduction/Introduction.md",
+    "docs/Playing the Game/Tales.md",
+    "docs/Playing the Game/PlayingtheGame.md",
+    "docs/Playing the Game/Player Card Zones/Play.md",
+    "docs/Playing the Game/Challenges/Challenges.md"
   ]
 }
