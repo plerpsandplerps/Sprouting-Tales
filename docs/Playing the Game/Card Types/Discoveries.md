@@ -106,8 +106,8 @@ Whenever a Discovery in the World Tree has two Kindlings on it, return that Disc
 
 If any Player is creating an Adventurer, they place seven random Discoveries into their Roots. The Player Shares Discoveries as usual, except for two things: 
 
-1. They draw two random Discoveries whenever they advance their Order; and
-2. They return two Discoveries of their choice from their hand at the start of their turn in the Order. 
+1. Players draw two random Discoveries whenever they advance their Order; and
+2. Players return two Discoveries of their choice from their hand at the start of their turn in the Order. 
 
 ### Traversing the World Tree
  
