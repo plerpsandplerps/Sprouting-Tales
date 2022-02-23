@@ -10,11 +10,11 @@ nav_order: 2
 
 ---
 
-The **Kindling** is a pile of faceup cards. Each Player has their own Kindling. 
+The **Kindling** is a pile of face up cards. Each Player has their own Kindling. 
 
 Kindling does not contribute to a Player's Score. 
 
-When a Player Kindles a card they place it in their Kindling. 
+When a Player Kindles a card, they place it in their Kindling. 
 
 <!-- insert example here -->
 

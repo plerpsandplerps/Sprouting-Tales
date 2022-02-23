@@ -6,7 +6,7 @@
   "useMarkdownLinks": true,
   "strictLineBreaks": true,
   "showLineNumber": true,
-  "spellcheck": true,
+  "spellcheck": false,
   "autoConvertHtml": false,
   "showUnsupportedFiles": true,
   "defaultViewMode": "source",

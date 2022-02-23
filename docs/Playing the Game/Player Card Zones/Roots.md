@@ -10,7 +10,7 @@ nav_order: 2
 
 ---
 
-**Roots** are a pile of facedown cards. Each Player has their own Roots. 
+**Roots** are a pile of face down cards. Each Player has their own Roots. 
 
 <!-- insert example here -->
 

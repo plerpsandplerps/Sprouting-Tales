@@ -31,19 +31,19 @@ Occasionally, Adventurers face tasks that are difficult for them to complete. Th
 ## Resolving a Challenge
 
 To resolve a Challenge the Adventurers are facing:
-1. The Guide chooses the Difficulty and sets that many Discoveries in a facedown pile for the Challenge. 
+1. The Guide chooses the Difficulty and sets that many Discoveries in a face down pile for the Challenge. 
 2. Any Player whose Adventurer is facing the Challenge may put a Trait from their Hand on top of their Branches or their Roots.
-2. Any Player whose Adventurer is facing the Challenge may choose to increase the Difficulty of the Challenge by one to Discover. If they do, that Player adds an additional facedown Discovery to the facedown pile for the Challenge.
-3. The Guide turns all Discoveries in the facedown pile faceup.
+2. Any Player whose Adventurer is facing the Challenge may decide to increase the Difficulty of the Challenge by one to Discover. If they do, that Player adds another face down Discovery to the face down pile for the Challenge.
+3. The Guide turns all Discoveries in the face down pile face up.
 4. Calculate an Adventurer's Score. 
-6. Any Player controlling an Adventurer facing the Challenge may Kindle any number of cards from their Branches. The Player turns one Discovery back facedown for each card the Player kindled.
+6. Any Player controlling an Adventurer facing the Challenge may Kindle any number of cards from their Branches. The Player turns one Discovery back face down for each card the Player kindled.
 7. Calculate the Challenge's Score.
 8. If the Adventurer's Score is greater than or equal to the Challenge Score, the Adventurer is successful in overcoming the Challenge. Otherwise, the Adventurer fails to overcome the Challenge. 
 9. Resolve any remaining Boons or Bane Discoveries. 
 
 ## Difficulty
 
-Challenges have a **Difficulty**, a number chosen by the Guide between one and ten. Once the Difficulty is chosen by the Guide, the Guide places that many Discoveries in a facedown pile. 
+Challenges have a **Difficulty**, a number picked by the Guide between one and ten. Once the Guide chooses the Difficulty, the Guide places that many Discoveries in a face down pile. 
 
 ## Adventurer Score
 
@@ -51,13 +51,13 @@ An **Adventurer's Score** is equal to the score of the top card of their Player'
 
 ## Challenge Score
 
-A **Challenge's Score** is equal to the sum of the score of all faceup Discoveries.
+A **Challenge's Score** is equal to the sum of the score of all face up Discoveries.
 
 ## Discover
 
 When a Player whose Adventurer is facing a Challenge decides to **Discover,** they increase the Difficulty of the Challenge to gain the opportunity to learn something about the environment. 
 
-After completing the eight steps above, any Player who decided to Discover may choose one Discovery from the Discoveries in the Challenge. That Player places the chosen Discovery faceup on top of their Branches. 
+After completing the eight steps above, any Player who decided to Discover may choose one Discovery from the Discoveries in the Challenge. That Player places the chosen Discovery face up on top of their Branches. 
 
 If multiple Players decided to Discover, then deal Order Cards to decide the order in which Players pick Discoveries to add to their Branches. 
 
@@ -75,7 +75,7 @@ Some example minor benefits include:
 
 ### Banes
 
-When a **Bane Discovery** appears in a Challenge, the Adventurers facing the Challenge encounter a minor complication. Anybody in the group can suggest a minor complication; however, the Guide has final say in what minor complication the group receives. This card cannot be added to a Player's Branches during a Discovery. 
+When a **Bane Discovery** appears in a Challenge, the Adventurers facing the Challenge encounter a minor complication. Anybody in the group can propose a minor complication; however, the Guide has final say in what minor complication the group receives. This card cannot be added to a Player's Branches during a Discovery. 
 
 Some example minor complications include: 
 - Drawing a Doubt or Injury;

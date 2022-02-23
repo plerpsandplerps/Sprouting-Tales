@@ -12,17 +12,11 @@ nav_exclude: true
 
 Welcome! 
 
-Sprouting Tales is a card based tabletop roleplaying game about how characters grow, change, and decay.
-
-<div markdown="1">
-More Coming soon
-{: .label .label-yellow }
-</div>
+Sprouting Tales is a card based tabletop role playing game about how characters grow, change, and decay.
 
 ---
 
 Join us on Social Media:
 
-[Discord](https://discord.com/invite/tJjGUNJAZP){: .btn .btn-purple }
-
-[Twitter](https://twitter.com/plerpsandplerps){: .btn .btn-blue }
+[Discord](https://discord.com/invite/tJjGUNJAZP)
+[Twitter](https://twitter.com/plerpsandplerps)

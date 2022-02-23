@@ -14,14 +14,14 @@ nav_order: 2
 
 ## Playing Paths
 
-Players may put Paths into Play from their Hand at any time. When they do, they choose whether they want it to enter Play faceup or facedown. 
+Players may put Paths into Play from their Hand at any time. When they do, they choose whether they want it to enter Play face up or face down. 
 
-Players may put Paths into Play facedown from on top of their Roots at any time. 
+Players may put Paths into Play face down from on top of their Roots at any time. 
 
 Players may move Paths from Play to their Roots at any time. 
 
 ## Kindling Cost
 
-On the faceup side of Path cards there is a Kindling Cost listed in the bottom right. The **Kindling Cost** is the number of cards the Player must move from their Branches to their Kindling to activate the effect on their faceup Path. 
+On the face up side of Path cards, there is a Kindling Cost listed in the bottom right. The **Kindling Cost** is the number of cards the Player must move from their Branches to their Kindling to activate the effect on their face up Path. 
 
 Players may pay this cost and activate the effect at any time. 

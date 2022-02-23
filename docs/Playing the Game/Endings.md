@@ -13,11 +13,11 @@ nav_order: 2
 
 ---
 
-At any point a Player may choose to have their Adventurer's Ending. 
+At any point, a Player may choose to have their Adventurer's Ending. 
 
-An Ending can take many different forms: 
+An Ending can take many forms: 
 1. The Adventurer has died; 
-2. The Adventurer is assumed to be dead;
+2. The Party assumes the Adventurer is dead;
 3. The Adventurer no longer has an interest in Adventuring; or, 
 4. Any other ending the Player thinks is appropriate for their Adventurer.
 
@@ -27,7 +27,7 @@ If the Player wants to continue playing, they may create a new Adventurer the ne
 
 After an Adventurer has an Ending, all other Players and Adventurers have a **Goodbye**. 
 
-During a Goodbye the Players talks about what aspects of the Ending Adventurer they enjoyed. Then Players speak as their own Adventurer saying goodbye to the Ending Adventurer. 
+During a Goodbye, the Players talks about what aspects of the Ending Adventurer they enjoyed. Then Players speak as their own Adventurer, saying goodbye to the Ending Adventurer. 
 
 After the Goodbye, return all cards in the zones of the Ending Adventurer's Player.
 

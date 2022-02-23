@@ -9,7 +9,7 @@ nav_order: 2
 
 ## Player Card Zones
 
-The set of cards a Player has are a physical representation of their fictional Adventurer. These cards always exist in a **Zone**, a space with defined characteristics. The zones and their various characteristics are listed below:
+The set of cards a Player has are a physical representation of their fictional Adventurer. These cards always exist in a **Zone**, a space with defined characteristics. The zones are :
 
 <!--
 

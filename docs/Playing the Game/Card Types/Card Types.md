@@ -10,4 +10,4 @@ nav_order: 2
 
 Every card has a **Card Type**, a category of cards it belongs to. 
 
-The card types are listed below: 
+The card types are: 

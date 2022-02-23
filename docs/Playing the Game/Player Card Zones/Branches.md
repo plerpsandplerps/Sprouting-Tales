@@ -11,7 +11,7 @@ nav_order: 2
 
 ---
 
-**Branches** are a pile of faceup cards. Each Player has their own Branch.  
+**Branches** are a pile of face up cards. Each Player has their own Branch.  
 
 A Player can look through the cards in their Branches, but they cannot change the order of the cards in their Branches.
 

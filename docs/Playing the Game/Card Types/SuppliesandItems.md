@@ -39,7 +39,7 @@ The Player can only announce the Supply as an object that costs one Supply. The 
 - Chalk
 - Crafting Tools
 
-The Player returns the Declared Supply if the object is lost, consumed, or significantly damaged in the fiction. 
+The Player returns the Declared Supply if the Adventurer consumes, loses, or significantly damages the object in the fiction. 
 
 ## Resupply
 
@@ -49,7 +49,7 @@ When the Party spends some time at a well-supplied town, they **Resupply**. The 
 
 While Resupplying, the Adventurers browse the local wares. 
 
-The Guide places five Supplies facedown then turns these cards faceup to become Items. The Adventurers may return Supplies equal to an Item's cost to gain that Item. 
+The Guide places five Supplies face down, then turns these cards face up to become Items. The Adventurers may return Supplies equal to an Item's cost to gain that Item. 
 
 If multiple Adventurers want the same Item, use Order. The Adventurer who acts first may purchase the Item first, the Adventurer who acts second may purchase the Item second, and so on. 
 
@@ -57,7 +57,7 @@ If multiple Adventurers want the same Item, use Order. The Adventurer who acts f
 
 While the Adventurers Resupply, the Guide places one Rare Item with its recipe side up. The Adventurers may return Supplies equal to that card's Rumor cost to learn a Rumor about the Rare Item's location. 
 
-The Guide decides what the Rumor is and where the Item is located.
+The Guide decides what the Rumor is and where the Rare Item is.
 
 # Items
 
@@ -88,8 +88,8 @@ The Party then uses Order to take turns exchanging their Supplies for any number
 
 When an Adventurer finds loot while exploring, the Guide asks the Player if their Adventurer found an Item or a Supply.
 
-1. If they choose to find a Supply, they gain a Supply facedown. 
-2. If they choose to find an Item, they gain a Supply facedown. Then turn that Supply faceup, making it an Item.
+1. If they choose to find a Supply, they gain a Supply face down. 
+2. If they decide to find an Item, they gain a Supply face down. Then turn that Supply face up, making it an Item.
 
 <!-- 
 
