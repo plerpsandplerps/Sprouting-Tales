@@ -46,7 +46,7 @@ To Share Discoveries all Players move all Discoveries from their Roots into thei
 2. **Far;** or,
 3. **Kindling**
 
-#### Close
+#### **Close**
 
 When a Player declares a Discovery as **Close**, they take the following steps in order: 
 
@@ -60,7 +60,7 @@ When a Player declares a Discovery as **Close**, they take the following steps i
 
 If a Player is unable to take one of these steps, they cannot declare their Discovery as Close. 
 
-#### Far
+#### **Far**
 
 When a Player declares a Discovery as **Far**, they take the following steps in order:
 
@@ -74,7 +74,7 @@ When a Player declares a Discovery as **Far**, they take the following steps in 
 
 If a Player is unable to take one of these steps, they cannot declare their Discovery as Far. 
 
-#### Kindling
+#### **Kindling**
 
 When a Player declares a Discovery as **Kindling**, they take the following steps in order: 
 
@@ -86,7 +86,7 @@ When a Player declares a Discovery as **Kindling**, they take the following step
 
 If a Player is unable to take one of these steps, they cannot declare their Discovery as Burning. 
 
-#### The World Tree Grows
+#### **The World Tree Grows**
 
 Whenever it is the Guide's turn in the Order, the Guide **Grows the World Tree**, by taking the following steps in order: 
 
@@ -96,7 +96,7 @@ Whenever it is the Guide's turn in the Order, the Guide **Grows the World Tree**
 
 If the Guide is unable to take any of these steps, then the Guide takes none of these steps and advances their Order one instead.
 
-#### The Inferno Spreads
+#### **The Inferno Spreads**
 
 After everyone finishes Sharing Discoveries, the Guide **Spreads the Inferno**. To Spread the Inferno the Guide places one Kindling on one Discovery in the World Tree for each Discovery in their Kindling zone. Then returns all Discoveries in their Kindling zone.  
 
