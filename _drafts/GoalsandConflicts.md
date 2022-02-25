@@ -2,8 +2,7 @@
 layout: default
 title: Goals and Conflicts
 parent: Playing the Game
-nav_order: 1
-nav_exclude: true
+nav_order: 2
 --- 
 
 # Goals and Conflicts
