@@ -17,6 +17,8 @@ A **Goal** is a simple one sentence description of what a character wants.
 
 Whenever a Character takes an action in the narrative, they may choose to have that action **Advance a Goal**. 
 
+If they are no existing Goals they would like to advance, they may set a new Goal. 
+
 ### Obstructing a Goal 
 
 
