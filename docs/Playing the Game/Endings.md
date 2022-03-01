@@ -27,7 +27,7 @@ If the Player wants to continue playing, they may create a new Adventurer the ne
 
 After an Adventurer has an Ending, all other Players and Adventurers have a **Goodbye**. 
 
-During a Goodbye, the Players talks about what aspects of the Ending Adventurer they enjoyed. Then Players speak as their own Adventurer, saying goodbye to the Ending Adventurer. 
+During a Goodbye, the Players talk about what aspects of the Ending Adventurer they enjoyed. Then Players speak, as their Adventurer, saying goodbye to the Ending Adventurer. 
 
 After the Goodbye, return all cards in the zones of the Ending Adventurer's Player.
 

@@ -40,7 +40,7 @@ Discoveries connect to other Discoveries along the black lines on their card fac
 
 When an Adventurer Rests and their Player has Discoveries in their Deck, then that Player **Shares Discoveries**. When any Player Shares Discoveries use Order to determine who acts when.
 
-To Share Discoveries, all Players move all Discoveries from their Deck into their Hand. Whenever it is a Player's turn in the Order, they declare a Discovery from their hand as:
+To Share Discoveries, all Players move all Discoveries from their Decks into their Hands. Whenever it is a Player's turn in the Order, they declare a Discovery from their hand as:
 
 1. **Close;**
 2. **Far;** or,

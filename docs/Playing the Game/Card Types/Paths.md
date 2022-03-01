@@ -10,7 +10,7 @@ nav_order: 2
 
 --- 
 
-**Paths** allow Adventurers to tap into the magics of the Inferno for their own purposes. 
+**Paths** allow Adventurers to tap into the magic of the Inferno for their purposes. 
 
 ## Playing Paths
 

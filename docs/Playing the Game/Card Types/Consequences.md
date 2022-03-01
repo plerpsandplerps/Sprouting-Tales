@@ -8,7 +8,7 @@ nav_order: 2
 
 # Consequences
 
-As an Adventurer adventures, they may suffer Consequences. **Consequences** are a type of card that affects an Adventurer while it is in Play. Consequences can be beneficial or harmful. When an Adventurer gains a Consequence, that Player puts it into their Play. 
+As Adventurers adventure, they may suffer Consequences. **Consequences** are a type of card that affects an Adventurer while it is in Play. Consequences can be beneficial or harmful. When an Adventurer gains a Consequence, that Player puts it into their Play. 
 
 Every Consequence belongs to one of two categories:  
 1. **Ongoing**; or,

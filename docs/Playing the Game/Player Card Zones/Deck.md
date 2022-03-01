@@ -10,7 +10,7 @@ nav_order: 2
 
 ---
 
-**Deck** are a pile of face-down cards. Each Player has their own Deck. 
+The **Deck** is a pile of face-down cards. Each Player has their own Deck. 
 
 <!-- insert example here -->
 

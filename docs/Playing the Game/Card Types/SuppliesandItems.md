@@ -6,7 +6,7 @@ parent: Card Types
 nav_order: 2
 ---
 
-# Supplies
+# Supplies and Items
 
 ---
 
@@ -20,7 +20,7 @@ Supplies cannot be used until they are Declared.
 
 A player can **Declare** a Supply by turning a Supply ninety degrees clockwise, and announcing out loud to the group what object the Supply is. A Declared Supply cannot be Declared again, until the Adventurer Resupplies. 
 
-The Player can only announce the Supply as an object that costs one Supply. The Guide ultimately decides whether the object costs one Supply, but at a minimum this would include:
+The Player can only announce the Supply as an object that costs one Supply. The Guide ultimately decides whether the object costs one Supply, but at a minimum, this includes:
 - Torch
 - Rope
 - Empty Vial
@@ -59,6 +59,8 @@ While the Adventurers Resupply, the Guide places one Rare Item with its recipe s
 
 The Guide decides what the Rumor is and where the Rare Item is.
 
+---
+
 # Items
 
 ---
@@ -72,7 +74,7 @@ Every Item has one of three rarities:
 2. Uncommon; or,
 3. Rare;
 
-Common and Uncommon Items located are on the back of Supplies, while Rare Items are on Rare Item cards with their own face and back. There are three copies of every Common Item, two copies of every Uncommon Item, and one copy of every Rare Item.
+Common and Uncommon Items located are on the back of Supplies, while Rare Items are on Rare Item cards. There are three copies of every Common Item, two copies of every Uncommon Item, and one copy of every Rare Item.
 
 ## Slots
 

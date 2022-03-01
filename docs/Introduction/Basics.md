@@ -40,13 +40,13 @@ The **Guide** describes the environments and the characters the Party interacts 
 
 ### Player and Adventurer
 
-The participants other than the Guide are **Players** taking on the role of **Adventurers**. An Adventurer is a main character in the fictional story. Together, the Adventurers form a **Party**, a group of allies journeying together through the fictional narrative.
+The participants other than the Guide are **Players** taking on the role of **Adventurers**. An Adventurer is the main character in the fictional story. Together, the Adventurers form a **Party**, a group of allies journeying together through the fictional narrative.
 
 ## How to Play a Tabletop Role-playing Game
 
-When you are playing any Tabletop Role-playing Game, including Sprouting Tales, you are having a conversation. You are listening intently on the fictional story other people are creating and contributing your thoughts to this shared fiction.
+When you are playing any Tabletop Role-playing Game, including Sprouting Tales, you are having a conversation. You are listening intently to the fictional story other people are creating and contributing your thoughts to this shared fiction.
 
-Participants build on the contributions of others and share in this experience, where the ultimate goal is entertainment. Therefore, each participant serves as a steward of each other participant's fun. This responsibility begins and ends with respect and communication.
+Participants build on the contributions of others and share in this experience, where the ultimate goal is entertainment. Therefore, each participant serves as a steward of the other participants' fun. This responsibility begins and ends with respect and communication.
 
 ### Core Loop
 
@@ -60,4 +60,4 @@ The Guide describes what happens as a result of the Adventurers' actions, and th
 
 The rules presented exist only as tools to facilitate the fun of the participants.
 
-If certain rules are a barrier to your group's fun, discuss these issues. Then work in tandem with one another to create possible solutions and enact those agreed upon changes.
+If certain rules are a barrier to your group's fun, discuss these issues. Then work in tandem with one another to create possible solutions and enact those agreed-upon changes.
