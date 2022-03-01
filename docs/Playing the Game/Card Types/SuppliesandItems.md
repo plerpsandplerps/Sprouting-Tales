@@ -18,7 +18,7 @@ Players keep their Supplies in their Play zone.
 
 Supplies cannot be used until they are Declared.
 
-A player can **Declare** a Supply by turning a Supply ninety degrees clockwise, and announcing out loud to the group what object the Supply is. A Declared Supply cannot be Declared again, until the Adventurer Refreshes Supplies. 
+A player can **Declare** a Supply by turning a Supply ninety degrees clockwise, and announcing out loud to the group what object the Supply is. A Declared Supply cannot be Declared again, until the Adventurer Resupplies. 
 
 The Player can only announce the Supply as an object that costs one Supply. The Guide ultimately decides whether the object costs one Supply, but at a minimum this would include:
 - Torch
@@ -49,7 +49,7 @@ When the Party spends some time at a well-supplied town, they **Resupply**. The 
 
 While Resupplying, the Adventurers browse the local wares. 
 
-The Guide places five Supplies face down, then turns these cards face up to become Items. The Adventurers may return Supplies equal to an Item's cost to gain that Item. 
+The Guide places five Supplies face-down, then turns these cards face-up to become Items. The Adventurers may return Supplies equal to an Item's cost to gain that Item. 
 
 If multiple Adventurers want the same Item, use Order. The Adventurer who acts first may purchase the Item first, the Adventurer who acts second may purchase the Item second, and so on. 
 
@@ -88,8 +88,8 @@ The Party then uses Order to take turns exchanging their Supplies for any number
 
 When an Adventurer finds loot while exploring, the Guide asks the Player if their Adventurer found an Item or a Supply.
 
-1. If they choose to find a Supply, they gain a Supply face down. 
-2. If they decide to find an Item, they gain a Supply face down. Then turn that Supply face up, making it an Item.
+1. If they choose to find a Supply, they gain a Supply face-down. 
+2. If they decide to find an Item, they gain a Supply face-down. Then turn that Supply face-up, making it an Item.
 
 <!-- 
 

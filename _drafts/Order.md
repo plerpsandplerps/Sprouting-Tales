@@ -13,7 +13,7 @@ Use **Order** to decide which Character and/or Player acts first. The group shou
 
 Every Order is a pair of two cards with the same text and icon. At the beginning of each session or at the beginning of a campaign, each person in the group chooses one pair of Orders. 
 
-Whenever Order is important shuffle one card from each person's pair of Orders together facedown, then flip the deck of cards faceup. 
+Whenever Order is important shuffle one card from each person's pair of Orders together face-down, then flip the deck of cards face-up. 
 
 ## Turn
 

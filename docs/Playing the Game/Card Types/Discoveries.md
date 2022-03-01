@@ -32,15 +32,15 @@ A **Discovery** is a card type used to create Challenges, advance Adventurers, a
 ---
 ## The World Tree
 
-**The World Tree** is a card zone that represents the World the Adventurers are exploring. The World Tree can only have face up Discoveries in it. 
+**The World Tree** is a card zone that represents the World the Adventurers are exploring. The World Tree can only have face-up Discoveries in it. 
 
-Discoveries are connected to other Discoveries by the black lines on their card faces. Connected Discoveries are in the same region of the World, while disconnected Discoveries represent different regions of the World.
+Discoveries connect to other Discoveries along the black lines on their card faces. Connected Discoveries are in the same region of the World, while disconnected Discoveries represent different regions of the World.
 
 ### Sharing Discoveries
 
-When an Adventurer Rests and their Player has Discoveries in their Roots, then that Player **Shares Discoveries**. When any Player Shares Discoveries use Order to determine who acts when.
+When an Adventurer Rests and their Player has Discoveries in their Deck, then that Player **Shares Discoveries**. When any Player Shares Discoveries use Order to determine who acts when.
 
-To Share Discoveries, all Players move all Discoveries from their Roots into their Hand. Whenever it is a Player's turn in the Order, they declare a Discovery from their hand as:
+To Share Discoveries, all Players move all Discoveries from their Deck into their Hand. Whenever it is a Player's turn in the Order, they declare a Discovery from their hand as:
 
 1. **Close;**
 2. **Far;** or,
@@ -50,11 +50,11 @@ To Share Discoveries, all Players move all Discoveries from their Roots into the
 
 When a Player declares a Discovery as **Close**, they take the following steps in order: 
 
-1. Connect the Discovery face up to the World Tree;
+1. Connect the Discovery face-up to the World Tree;
 2. Advance the Player's Order one;
 3. Tell a Tale about this Discovery;
 4. Draw six Level one Traits;
-5. Pick two of the drawn Traits to add to their Roots; 
+5. Pick two of the drawn Traits to add to their Deck; 
 6. Tell a Tale about how their Adventurer gained the chosen Traits; and, 
 7. Return the remaining Traits in their Hand. 
 
@@ -64,11 +64,11 @@ If a Player is unable to take one of these steps, they cannot declare their Disc
 
 When a Player declares a Discovery as **Far**, they take the following steps in order:
 
-1. Place the Discovery face up in the Far zone;
+1. Place the Discovery face-up in the Far zone;
 2. Advance the Player's Order two;
-3. Return two Traits of the same Level from their Roots;
+3. Return two Traits of the same Level from their Deck;
 4. Draw three Traits one level higher than the returned cards;
-5. Pick one of the drawn Traits to add to their Roots;
+5. Pick one of the drawn Traits to add to their Deck;
 6. Tell a Tale about how their Adventurer lost their Traits and gained the new chosen Trait; and,
 7. Return the remaining Traits in their Hand.
 
@@ -78,10 +78,10 @@ If a Player is unable to take one of these steps, they cannot declare their Disc
 
 When a Player declares a Discovery as **Kindling**, they take the following steps in order: 
 
-1. Place the Discovery face up in the Guide's Kindling zone;
+1. Place the Discovery face-up in the Guide's Kindling zone;
 2. Advance the Player's Order three;
-3. Return two Traits of the same Level from their Roots; 
-4. Choose an available Path of the same Level to add to their Roots; and,
+3. Return two Traits of the same Level from their Deck; 
+4. Choose an available Path of the same Level to add to their Deck; and,
 5. Tell a Tale about how their Adventurer lost their Traits and gained this new chosen Path. 
 
 If a Player is unable to take one of these steps, they cannot declare their Discovery as Burning. 
@@ -104,7 +104,7 @@ When the Guide would turn a Discovery horizontal, but that Discovery is already 
 
 ### Creating Adventurers
 
-If any Player is creating an Adventurer, they place seven random Discoveries into their Roots. The Player Shares Discoveries as usual, except for two things: 
+If any Player is creating an Adventurer, they place seven random Discoveries into their Deck. The Player Shares Discoveries as usual, except for two things: 
 
 1. Players draw two random Discoveries whenever they advance their Order; and
 2. Players return two Discoveries of their choice from their hand at the start of their turn in the Order. 
