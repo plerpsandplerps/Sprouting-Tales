@@ -8,10 +8,6 @@ has_toc: true
 permalink: /docs/Introduction
 ---
 
-<div markdown="1">
-More Coming soon
-{: .label .label-yellow }
-</div>
 
 # Introduction
 
@@ -23,3 +19,8 @@ Sprouting Tales is a card-based tabletop role-playing game about how characters 
 
 Start with the basics below:
 
+
+<div markdown="1">
+More Coming soon
+{: .label .label-yellow }
+</div>

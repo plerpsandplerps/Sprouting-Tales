@@ -31,7 +31,7 @@ Occasionally, Adventurers face tasks that are difficult for them to complete. Th
 ## Resolving a Challenge
 
 To resolve a Challenge the Adventurers are facing:
-1. The [Guide](Guide.md) chooses the Difficulty and sets that many Discoveries in a face-down pile for the Challenge. 
+1. The [Guide](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#guide) chooses the Difficulty and sets that many Discoveries in a face-down pile for the Challenge. 
 2. Any Player whose Adventurer is facing the Challenge may put a Trait from their Hand on top of their Discard or their Deck.
 2. Any Player whose Adventurer is facing the Challenge may decide to increase the Difficulty of the Challenge by one to Discover. If they do, that Player adds another face-down Discovery to the face-down pile for the Challenge.
 3. The Guide turns all Discoveries in the face-down pile face-up.
@@ -43,7 +43,7 @@ To resolve a Challenge the Adventurers are facing:
 
 ## Difficulty
 
-Challenges have a **Difficulty**, a number picked by the Guide between one and ten. Once the Guide chooses the Difficulty, the Guide places that many Discoveries in a face-down pile. 
+Challenges have a **Difficulty**, a number picked by the [Guide](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#guide) between one and ten. Once the Guide chooses the Difficulty, the Guide places that many Discoveries in a face-down pile. 
 
 ## Adventurer Score
 
@@ -65,7 +65,7 @@ If multiple Players decided to Discover, then deal Order Cards to decide the ord
 
 ### Boons
 
-When a **Boon Discovery** appears in a Challenge, the Adventurers facing the Challenge gain a minor benefit. Anybody in the group can suggest a minor benefit; however, the Guide has final say in what minor benefit the group receives. This card cannot be added to a Player's Discard during a Discovery. 
+When a **Boon Discovery** appears in a Challenge, the Adventurers facing the Challenge gain a minor benefit. Anybody in the group can suggest a minor benefit; however, the [Guide](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#guide) has final say in what minor benefit the group receives. This card cannot be added to a Player's Discard during a Discovery. 
 
 Some example minor benefits include:
 - Lose a Doubt or Injury; 
@@ -75,18 +75,13 @@ Some example minor benefits include:
 
 ### Banes
 
-When a **Bane Discovery** appears in a Challenge, the Adventurers facing the Challenge encounter a minor complication. Anybody in the group can propose a minor complication; however, the Guide has final say in what minor complication the group receives. This card cannot be added to a Player's Discard during a Discovery. 
+When a **Bane Discovery** appears in a Challenge, the Adventurers facing the Challenge encounter a minor complication. Anybody in the group can propose a minor complication; however, the [Guide](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#guide) has final say in what minor complication the group receives. This card cannot be added to a Player's Discard during a Discovery. 
 
 Some example minor complications include: 
 - Drawing a Doubt or Injury;
 - Nearby characters are alerted to your presence;
 - The cover the Adventurers are hiding behind is destroyed; or
 - The Adventurers return a Supply. 
-
-<div markdown="1">
-More Coming soon
-{: .label .label-yellow }
-</div>
 
 <!-- 
 
