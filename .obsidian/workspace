@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Playing the Game/Card Types/Discoveries.md",
+            "file": "docs/Playing the Game/Player Card Zones/Play.md",
             "mode": "source",
             "backlinks": true,
             "source": true
@@ -25,7 +25,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Playing the Game/Card Types/Discoveries.md",
+            "file": "docs/Playing the Game/Player Card Zones/Play.md",
             "mode": "preview",
             "backlinks": true,
             "source": true
@@ -58,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "trait",
+                "query": "Consequence",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Playing the Game/Card Types/Discoveries.md",
+                "file": "docs/Playing the Game/Player Card Zones/Play.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Playing the Game/Card Types/Discoveries.md"
+                "file": "docs/Playing the Game/Player Card Zones/Play.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Playing the Game/Card Types/Discoveries.md",
+                "file": "docs/Playing the Game/Player Card Zones/Play.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,6 +130,8 @@
   },
   "active": "53740c691fbf4af8",
   "lastOpenFiles": [
+    "docs/Playing the Game/Player Card Zones/Play.md",
+    "docs/Playing the Game/Card Types/Consequences.md",
     "docs/Playing the Game/Card Types/Discoveries.md",
     "docs/Playing the Game/Challenges/Challenges.md",
     "docs/Playing the Game/Challenges/AssistingChallenge.md",
@@ -137,8 +139,6 @@
     "docs/Playing the Game/Card Types/Card Types.md",
     "docs/Playing the Game/Tales.md",
     "docs/Playing the Game/Card Types/SuppliesandItems.md",
-    "docs/Playing the Game/Player Card Zones/PlayerCardZones.md",
-    "docs/Playing the Game/Player Card Zones/Play.md",
-    "docs/Playing the Game/Card Types/Paths.md"
+    "docs/Playing the Game/Player Card Zones/PlayerCardZones.md"
   ]
 }
