@@ -32,7 +32,7 @@ Occasionally, [Adventurer](https://plerpsandplerps.github.io/Sprouting-Tales/doc
 
 To resolve a Challenge the [Adventurer](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#player-and-adventurer)s are facing:
 1. The [Guide](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#guide) chooses the Difficulty and sets that many Discoveries in a face-down pile for the Challenge. 
-2. Any [Player](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#player-and-adventurer) whose Adventurer is facing the Challenge may put a Trait from their Hand on top of their Discard or their Deck.
+2. Any [Player](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#player-and-adventurer) whose Adventurer is facing the Challenge may put a [Trait](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Playing%20the%20Game/Card%20Types/Traits.html) from their Hand on top of their Discard or their Deck.
 2. Any Player whose Adventurer is facing the Challenge may decide to increase the Difficulty of the Challenge by one to Discover. If they do, that Player adds another face-down Discovery to the face-down pile for the Challenge.
 3. The Guide turns all Discoveries in the face-down pile face-up.
 4. Calculate an Adventurer's Score. 
