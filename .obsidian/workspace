@@ -6,11 +6,11 @@
       {
         "id": "53740c691fbf4af8",
         "type": "leaf",
-        "dimension": 56.33293124246079,
+        "dimension": 56.3329312424608,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Introduction/Basics.md",
+            "file": "_drafts/GoalsandConflicts.md",
             "mode": "source",
             "backlinks": true,
             "source": true
@@ -21,11 +21,11 @@
       {
         "id": "214363aef0735a90",
         "type": "leaf",
-        "dimension": 43.6670687575392,
+        "dimension": 43.667068757539205,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Introduction/Basics.md",
+            "file": "_drafts/GoalsandConflicts.md",
             "mode": "preview",
             "backlinks": true,
             "source": true
@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -88,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Introduction/Basics.md",
+                "file": "_drafts/GoalsandConflicts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Introduction/Basics.md"
+                "file": "_drafts/GoalsandConflicts.md"
               }
             }
           },
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Introduction/Basics.md",
+                "file": "_drafts/GoalsandConflicts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,6 +129,8 @@
   },
   "active": "53740c691fbf4af8",
   "lastOpenFiles": [
+    "_drafts/GoalsandConflicts.md",
+    "_drafts/Order.md",
     "docs/Introduction/Basics.md",
     "index.md",
     "Quickstart.md",
@@ -137,8 +138,6 @@
     "docs/Playing the Game/Endings.md",
     "docs/Playing the Game/Tales.md",
     "docs/Playing the Game/Player Card Zones/PlayerCardZones.md",
-    "docs/Playing the Game/Player Card Zones/Kindling.md",
-    "docs/Playing the Game/Player Card Zones/Hand.md",
-    "docs/Playing the Game/Player Card Zones/Play.md"
+    "docs/Playing the Game/Player Card Zones/Kindling.md"
   ]
 }

@@ -25,5 +25,7 @@ If there are no existing Goals they would like to advance, they may set a new Go
 
 ## Conflicts
 
-When two or more Characters have Goals that cannot coexist, then it is a **Conflict**. If all the Goals can come to fruition, then there is no Conflict.
+When two or more Characters have Goals that cannot coexist and these characters are in each others' presence, then it is a **Conflict**.  Conflicts should be resolved when they occur
+
+### Resolving Conflicts
 
