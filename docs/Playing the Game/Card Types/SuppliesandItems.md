@@ -18,9 +18,9 @@ Players keep their Supplies in their Play zone.
 
 Supplies cannot be used until they are Declared.
 
-A player can **Declare** a Supply by turning a Supply ninety degrees clockwise, and announcing out loud to the group what object the Supply is. A Declared Supply cannot be Declared again, until the Adventurer Resupplies. 
+A player can **Declare** a Supply by turning a Supply ninety degrees clockwise, and announcing out loud to the group what object the Supply is. A Declared Supply cannot be Declared again, until the [Adventurer](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#player-and-adventurer) Resupplies. 
 
-The Player can only announce the Supply as an object that costs one Supply. The Guide ultimately decides whether the object costs one Supply, but at a minimum, this includes:
+The Player can only announce the Supply as an object that costs one Supply. The [Guide](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#guide) ultimately decides whether the object costs one Supply, but at a minimum, this includes:
 - Torch
 - Rope
 - Empty Vial
@@ -43,19 +43,19 @@ The Player returns the Declared Supply if the Adventurer consumes, loses, or sig
 
 ## Resupply
 
-When the Party spends some time at a well-supplied town, they **Resupply**. The Players may turn all of their horizontal Declared Supplies vertical. This represents the Adventurers bartering and exchanging their existing supplies for new ones. 
+When the Party spends some time at a well-supplied town, they **Resupply**. The Players may turn all of their horizontal Declared Supplies vertical. This represents the [Adventurer](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#player-and-adventurer)s bartering and exchanging their existing supplies for new ones. 
 
 ### Purchasing Items
 
-While Resupplying, the Adventurers browse the local wares. 
+While Resupplying, the [Adventurer](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#player-and-adventurer)s browse the local wares. 
 
-The Guide places five Supplies face-down, then turns these cards face-up to become Items. The Adventurers may return Supplies equal to an Item's cost to gain that Item. 
+The [Guide](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#guide) places five Supplies face-down, then turns these cards face-up to become Items. The Adventurers may return Supplies equal to an Item's cost to gain that Item. 
 
 If multiple Adventurers want the same Item, use Order. The Adventurer who acts first may purchase the Item first, the Adventurer who acts second may purchase the Item second, and so on. 
 
 ### Purchasing Information
 
-While the Adventurers Resupply, the Guide places one Rare Item with its recipe side up. The Adventurers may return Supplies equal to that card's Rumor cost to learn a Rumor about the Rare Item's location. 
+While the [Adventurer](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#player-and-adventurer)s Resupply, the [Guide](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#guide) places one Rare Item with its recipe side up. The Adventurers may return Supplies equal to that card's Rumor cost to learn a Rumor about the Rare Item's location. 
 
 The Guide decides what the Rumor is and where the Rare Item is.
 
@@ -65,7 +65,7 @@ The Guide decides what the Rumor is and where the Rare Item is.
 
 ---
 
-**Items** are the weapons, trinkets, and armor that Adventurers rely upon regularly. 
+**Items** are the weapons, trinkets, and armor that [Adventurer](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#player-and-adventurer)s rely upon regularly. 
 
 ## Rarity
 
@@ -78,17 +78,17 @@ Common and Uncommon Items located are on the back of Supplies, while Rare Items 
 
 ## Slots
 
-Each Adventurer has four **Slots**, zones where they keep Supplies and Items. Each Slot can hold up to one Item or up to four Supplies. If an Adventurer does not have any Slots available to hold an Item or Supply, they cannot pick up that Item or Supply.
+Each [Adventurer](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#player-and-adventurer) has four **Slots**, zones where they keep Supplies and Items. Each Slot can hold up to one Item or up to four Supplies. If an Adventurer does not have any Slots available to hold an Item or Supply, they cannot pick up that Item or Supply.
 
 ## Starting Items
 
-Newly created Adventurers begin with seven Supplies. 
+Newly created [Adventurer](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#player-and-adventurer)s begin with seven Supplies. 
 
 The Party then uses Order to take turns exchanging their Supplies for any number of Common Items they can afford and up to one Uncommon Item they can afford.  
 
 ## Finding Items 
 
-When an Adventurer finds loot while exploring, the Guide asks the Player if their Adventurer found an Item or a Supply.
+When an [Adventurer](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#player-and-adventurer) finds loot while exploring, the [Guide](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#guide) asks the Player if their Adventurer found an Item or a Supply.
 
 1. If they choose to find a Supply, they gain a Supply face-down. 
 2. If they decide to find an Item, they gain a Supply face-down. Then turn that Supply face-up, making it an Item.

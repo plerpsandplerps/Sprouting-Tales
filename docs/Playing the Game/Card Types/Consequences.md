@@ -8,7 +8,7 @@ nav_order: 2
 
 # Consequences
 
-As Adventurers adventure, they may suffer Consequences. **Consequences** are a type of card that affects an Adventurer while it is in Play. Consequences can be beneficial or harmful. When an Adventurer gains a Consequence, that Player puts it into their Play. 
+As [Adventurer](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#player-and-adventurer)s adventure, they may suffer Consequences. **Consequences** are a type of card that affects an Adventurer while it is in Play. Consequences can be beneficial or harmful. When an Adventurer gains a Consequence, that Player puts it into their Play. 
 
 Every Consequence belongs to one of two categories:  
 1. **Ongoing**; or,
@@ -28,7 +28,7 @@ Most Ongoing Consequences offer the Player the opportunity to return them, for a
 
 **Conditions** are temporary Consequences, when a Player Rests they return all of their Conditions from Play. 
 
-The first Condition an Adventurer gains has no effect outside its Score. When a Player would put a copy beyond the first of a Condition into play, the Player instead resolves the effect listed on the card.
+The first Condition an [Adventurer](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#player-and-adventurer) gains has no effect outside its Score. When a Player would put a copy beyond the first of a Condition into play, the Player instead resolves the effect listed on the card.
 
 Some Conditions have an opposite. When a Player would put a Condition into Play that is the opposite of one of the Conditions the Player already has in Play, the Player returns both Conditions instead.  
 

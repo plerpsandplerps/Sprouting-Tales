@@ -9,7 +9,7 @@ nav_order: 2
 
 ---
 
-Occasionally, the shared narrative demands more attention than a simple Challenge resolution. In these cases, the Guide calls for the group to use Goals.
+Occasionally, the shared narrative demands more attention than a simple Challenge resolution. In these cases, the [Guide](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#guide) calls for the group to use Goals.
 
 A **Goal** is a simple one-sentence description of what a character wants. 
 

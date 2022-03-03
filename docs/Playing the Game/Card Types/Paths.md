@@ -10,7 +10,7 @@ nav_order: 2
 
 --- 
 
-**Paths** allow Adventurers to tap into the magic of the Inferno for their purposes. 
+**Paths** allow [Adventurer](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#player-and-adventurer)s to tap into the magic of the Inferno for their purposes. 
 
 ## Playing Paths
 

@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Playing the Game/Challenges/Challenges.md",
+            "file": "docs/Playing the Game/Card Types/Traits.md",
             "mode": "source",
             "backlinks": true,
             "source": true
@@ -25,7 +25,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Playing the Game/Challenges/Challenges.md",
+            "file": "docs/Playing the Game/Card Types/Traits.md",
             "mode": "preview",
             "backlinks": true,
             "source": true
@@ -58,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "guide",
+                "query": "adventurer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -87,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Playing the Game/Challenges/Challenges.md",
+                "file": "docs/Playing the Game/Card Types/Traits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Playing the Game/Challenges/Challenges.md"
+                "file": "docs/Playing the Game/Card Types/Traits.md"
               }
             }
           },
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Playing the Game/Challenges/Challenges.md",
+                "file": "docs/Playing the Game/Card Types/Traits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,15 +130,15 @@
   },
   "active": "53740c691fbf4af8",
   "lastOpenFiles": [
-    "docs/Playing the Game/Challenges/Challenges.md",
-    "docs/introduction/basics/Guide.md",
+    "docs/Playing the Game/Card Types/Traits.md",
+    "docs/Playing the Game/Card Types/SuppliesandItems.md",
+    "docs/Playing the Game/Player Card Zones/PlayerCardZones.md",
+    "docs/Playing the Game/Card Types/Paths.md",
     "docs/Introduction/Introduction.md",
-    "docs/Introduction/Basics.md",
-    "_drafts/GoalsandConflicts.md",
-    "_drafts/Order.md",
-    "index.md",
-    "Quickstart.md",
-    "docs/Playing the Game/PlayingtheGame.md",
-    "docs/Playing the Game/Endings.md"
+    "docs/Playing the Game/Player Card Zones/Hand.md",
+    "docs/Playing the Game/Endings.md",
+    "docs/Playing the Game/Card Types/Discoveries.md",
+    "docs/Playing the Game/Player Card Zones/Deck.md",
+    "docs/Playing the Game/Card Types/Consequences.md"
   ]
 }
