@@ -53,7 +53,7 @@ When a [Player](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduct
 1. Connect the Discovery face-up to the World Tree;
 2. Advance the Player's Order one;
 3. Tell a Tale about this Discovery;
-4. Draw six Level one Traits;
+4. Draw six Level one [Traits](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Playing%20the%20Game/Card%20Types/Traits.html);
 5. Pick two of the drawn Traits to add to their Deck; 
 6. Tell a Tale about how their [Adventurer](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#player-and-adventurer) gained the chosen Traits; and, 
 7. Return the remaining Traits in their Hand. 
@@ -66,7 +66,7 @@ When a [Player](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduct
 
 1. Place the Discovery face-up in the Far zone;
 2. Advance the Player's Order two;
-3. Return two Traits of the same Level from their Deck;
+3. Return two [Traits](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Playing%20the%20Game/Card%20Types/Traits.html) of the same Level from their Deck;
 4. Draw three Traits one level higher than the returned cards;
 5. Pick one of the drawn Traits to add to their Deck;
 6. Tell a Tale about how their [Adventurer](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#player-and-adventurer) lost their Traits and gained the new chosen Trait; and,
@@ -80,7 +80,7 @@ When a [Player](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduct
 
 1. Place the Discovery face-up in the [Guide](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#guide)'s Kindling zone;
 2. Advance the Player's Order three;
-3. Return two Traits of the same Level from their Deck; 
+3. Return two [Traits](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Playing%20the%20Game/Card%20Types/Traits.html) of the same Level from their Deck; 
 4. Choose an available Path of the same Level to add to their Deck; and,
 5. Tell a Tale about how their [Adventurer](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#player-and-adventurer) lost their Traits and gained this new chosen Path. 
 
