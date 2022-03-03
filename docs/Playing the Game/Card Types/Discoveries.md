@@ -30,13 +30,11 @@ A **Discovery** is a card type used to create Challenges, advance [Adventurer](h
 </details>
 
 ---
-## The World Tree
+## The World Tree and Sharing Discoveries
 
 **The World Tree** is a card zone that represents the World the [Adventurer](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#player-and-adventurer)s are exploring. The World Tree can only have face-up Discoveries in it. 
 
 Discoveries connect to other Discoveries along the black lines on their card faces. Connected Discoveries are in the same region of the World, while disconnected Discoveries represent different regions of the World.
-
-### Sharing Discoveries
 
 When an [Adventurer](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#player-and-adventurer) Rests and their [Player](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#player-and-adventurer) has Discoveries in their Deck, then that Player **Shares Discoveries**. When any Player Shares Discoveries use Order to determine who acts when.
 
@@ -46,7 +44,7 @@ To Share Discoveries, all Players move all Discoveries from their Decks into the
 2. **Far;** or,
 3. **Kindling**
 
-#### **Close**
+### Close
 
 When a [Player](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#player-and-adventurer) declares a Discovery as **Close**, they take the following steps in order: 
 
@@ -60,7 +58,7 @@ When a [Player](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduct
 
 If a Player is unable to take one of these steps, they cannot declare their Discovery as Close. 
 
-#### **Far**
+### Far
 
 When a [Player](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#player-and-adventurer) declares a Discovery as **Far**, they take the following steps in order:
 
@@ -74,7 +72,7 @@ When a [Player](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduct
 
 If a Player is unable to take one of these steps, they cannot declare their Discovery as Far. 
 
-#### **Kindling**
+### Kindling
 
 When a [Player](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#player-and-adventurer) declares a Discovery as **Kindling**, they take the following steps in order: 
 
@@ -86,7 +84,7 @@ When a [Player](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduct
 
 If a Player is unable to take one of these steps, they cannot declare their Discovery as Burning. 
 
-#### **The World Tree Grows**
+### The World Tree Grows
 
 Whenever it is the [Guide](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#guide)'s turn in the Order, the Guide **Grows the World Tree**, by taking the following steps in order: 
 
@@ -96,7 +94,7 @@ Whenever it is the [Guide](https://plerpsandplerps.github.io/Sprouting-Tales/doc
 
 If the Guide is unable to take any of these steps, then the Guide takes none of these steps and advances their Order one instead.
 
-#### **The Inferno Spreads**
+### The Inferno Spreads
 
 After everyone finishes Sharing Discoveries, the [Guide](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#guide) **Spreads the Inferno**. To Spread the Inferno, the Guide turns one Discovery on the World Tree horizontal for each Discovery in their Kindling zone. Then returns all Discoveries in their Kindling zone.  
 
