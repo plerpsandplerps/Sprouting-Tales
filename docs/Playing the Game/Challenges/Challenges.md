@@ -31,7 +31,7 @@ Occasionally, [Adventurer](https://plerpsandplerps.github.io/Sprouting-Tales/doc
 ## Resolving a Challenge
 
 To resolve a Challenge the [Adventurer](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#player-and-adventurer)s are facing:
-1. The [Guide](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#guide) chooses the Difficulty and sets that many Discoveries in a face-down pile for the Challenge. 
+1. The [Guide](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#guide) chooses the Difficulty and sets that many [Discoveries](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Playing%20the%20Game/Card%20Types/Discoveries.html) in a face-down pile for the Challenge. 
 2. Any [Player](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#player-and-adventurer) whose Adventurer is facing the Challenge may put a [Trait](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Playing%20the%20Game/Card%20Types/Traits.html) from their Hand on top of their Discard or their Deck.
 2. Any Player whose Adventurer is facing the Challenge may decide to increase the Difficulty of the Challenge by one to Discover. If they do, that Player adds another face-down Discovery to the face-down pile for the Challenge.
 3. The Guide turns all Discoveries in the face-down pile face-up.
@@ -43,7 +43,7 @@ To resolve a Challenge the [Adventurer](https://plerpsandplerps.github.io/Sprout
 
 ## Difficulty
 
-Challenges have a **Difficulty**, a number picked by the [Guide](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#guide) between one and ten. Once the Guide chooses the Difficulty, the Guide places that many Discoveries in a face-down pile. 
+Challenges have a **Difficulty**, a number picked by the [Guide](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#guide) between one and ten. Once the Guide chooses the Difficulty, the Guide places that many [Discoveries](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Playing%20the%20Game/Card%20Types/Discoveries.html) in a face-down pile. 
 
 ## Adventurer Score
 
@@ -51,13 +51,13 @@ An **Adventurer's Score** is equal to the score of the top card of their [Player
 
 ## Challenge Score
 
-A **Challenge's Score** is equal to the sum of the score of all face-up Discoveries.
+A **Challenge's Score** is equal to the sum of the score of all face-up [Discoveries](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Playing%20the%20Game/Card%20Types/Discoveries.html).
 
-## Discover
+## Discovering
 
 When a [Player](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#player-and-adventurer) whose [Adventurer](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#player-and-adventurer) is facing a Challenge decides to **Discover,** they increase the Difficulty of the Challenge to gain the opportunity to learn something about the environment. 
 
-After completing the eight steps above, any Player who decided to Discover may choose one Discovery from the Discoveries in the Challenge. That Player places the chosen Discovery face-up on top of their Discard. 
+After completing the eight steps above, any Player who decided to Discover may choose one [Discovery](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Playing%20the%20Game/Card%20Types/Discoveries.html) from the Discoveries in the Challenge. That Player places the chosen Discovery face-up on top of their Discard. 
 
 If multiple Players decided to Discover, then deal Order Cards to decide the order in which Players pick Discoveries to add to their Discard. 
 
@@ -65,7 +65,7 @@ If multiple Players decided to Discover, then deal Order Cards to decide the ord
 
 ### Boons
 
-When a **Boon Discovery** appears in a Challenge, the [Adventurer](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#player-and-adventurer)s facing the Challenge gain a minor benefit. Anybody in the group can suggest a minor benefit; however, the [Guide](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#guide) has final say in what minor benefit the group receives. This card cannot be added to a [Player](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#player-and-adventurer)'s Discard during a Discovery. 
+When a **Boon Discovery** appears in a Challenge, the [Adventurer](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#player-and-adventurer)s facing the Challenge gain a minor benefit. Anybody in the group can suggest a minor benefit; however, the [Guide](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#guide) has final say in what minor benefit the group receives. This card cannot be added to a [Player](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#player-and-adventurer)'s Discard when Discovering. 
 
 Some example minor benefits include:
 - Lose a Doubt or Injury; 
@@ -75,7 +75,7 @@ Some example minor benefits include:
 
 ### Banes
 
-When a **Bane Discovery** appears in a Challenge, the [Adventurer](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#player-and-adventurer)s facing the Challenge encounter a minor complication. Anybody in the group can propose a minor complication; however, the [Guide](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#guide) has final say in what minor complication the group receives. This card cannot be added to a [Player](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#player-and-adventurer)'s Discard during a Discovery. 
+When a **Bane Discovery** appears in a Challenge, the [Adventurer](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#player-and-adventurer)s facing the Challenge encounter a minor complication. Anybody in the group can propose a minor complication; however, the [Guide](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#guide) has final say in what minor complication the group receives. This card cannot be added to a [Player](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#player-and-adventurer)'s Discard when Discovering. 
 
 Some example minor complications include: 
 - Drawing a Doubt or Injury;

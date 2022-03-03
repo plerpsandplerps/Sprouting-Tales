@@ -21,7 +21,7 @@ An Ending can take many forms:
 3. The Adventurer no longer has an interest in Adventuring; or, 
 4. Any other ending the Player thinks is appropriate for their Adventurer.
 
-If the Player wants to continue playing, they may create a new Adventurer the next time Players Share Discoveries. 
+If the Player wants to continue playing, they may create a new Adventurer the next time Players [Share Discoveries](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Playing%20the%20Game/Card%20Types/Discoveries.html#the-world-tree-and-sharing-discoveries). 
 
 ## Goodbye
 

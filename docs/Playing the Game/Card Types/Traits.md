@@ -24,7 +24,7 @@ Traits have the following characteristics:
 
 1. **Name:** The Name of a Trait describes the [Adventurer](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#player-and-adventurer). [Player](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#player-and-adventurer)s should rely on a Trait's name to decide how to role-play that Trait. 
 2. **Type:** The type of Trait it is. 
-3. **Level:** The Level of a Trait represents how powerful it is and is used when Players Share Discoveries. 
+3. **Level:** The Level of a Trait represents how powerful it is and is used when Players [Share Discoveries](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Playing%20the%20Game/Card%20Types/Discoveries.html#the-world-tree-and-sharing-discoveries). 
 4. **Scores:** Every Trait has one Score listed on the front and another listed on the back. The Scores determine if an Adventurer is successful in overcoming a Challenge.   
 5. **Trigger:** The Trigger on the front of a Trait states when the Effect occurs. Most Traits trigger when the Trait becomes the top of a Player's Discard.
 6. **Effect:** The Effect of a Trait is resolved when the Trigger condition becomes true.
