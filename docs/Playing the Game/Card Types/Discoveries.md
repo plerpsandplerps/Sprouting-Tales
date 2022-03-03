@@ -10,13 +10,11 @@ nav_order: 2
 
 ---
 
+<img src="https://plerpsandplerps.github.io/Sprouting-Tales/artwork/Art_Inferno.png" >
+
 Fires spread throughout the World Tree and leave the World in disarray. Adventurers are continuously discovering and exploring this world. 
 
-A **Discovery** is a card type used to create Challenges, advance [Adventurer](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#player-and-adventurer)s, and shape the World Tree.
-
----
-
-<img src="https://plerpsandplerps.github.io/Sprouting-Tales/artwork/Art_Inferno.png" >
+A **Discovery** is a card type used to create Challenges, advance [Adventurers](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#player-and-adventurer), and shape the World Tree.
 
 ---
 
