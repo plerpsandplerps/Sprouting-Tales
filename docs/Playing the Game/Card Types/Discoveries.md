@@ -38,7 +38,7 @@ Discoveries connect to other Discoveries along the black lines on their card fac
 
 ### Sharing Discoveries
 
-When an [Adventurer](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#player-and-adventurer) Rests and their Player has Discoveries in their Deck, then that Player **Shares Discoveries**. When any Player Shares Discoveries use Order to determine who acts when.
+When an [Adventurer](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#player-and-adventurer) Rests and their [Player](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#player-and-adventurer) has Discoveries in their Deck, then that Player **Shares Discoveries**. When any Player Shares Discoveries use Order to determine who acts when.
 
 To Share Discoveries, all Players move all Discoveries from their Decks into their Hands. Whenever it is a Player's turn in the Order, they declare a Discovery from their hand as:
 
@@ -48,7 +48,7 @@ To Share Discoveries, all Players move all Discoveries from their Decks into the
 
 #### **Close**
 
-When a Player declares a Discovery as **Close**, they take the following steps in order: 
+When a [Player](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#player-and-adventurer) declares a Discovery as **Close**, they take the following steps in order: 
 
 1. Connect the Discovery face-up to the World Tree;
 2. Advance the Player's Order one;
@@ -62,7 +62,7 @@ If a Player is unable to take one of these steps, they cannot declare their Disc
 
 #### **Far**
 
-When a Player declares a Discovery as **Far**, they take the following steps in order:
+When a [Player](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#player-and-adventurer) declares a Discovery as **Far**, they take the following steps in order:
 
 1. Place the Discovery face-up in the Far zone;
 2. Advance the Player's Order two;
@@ -76,7 +76,7 @@ If a Player is unable to take one of these steps, they cannot declare their Disc
 
 #### **Kindling**
 
-When a Player declares a Discovery as **Kindling**, they take the following steps in order: 
+When a [Player](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#player-and-adventurer) declares a Discovery as **Kindling**, they take the following steps in order: 
 
 1. Place the Discovery face-up in the [Guide](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#guide)'s Kindling zone;
 2. Advance the Player's Order three;
@@ -104,7 +104,7 @@ When the Guide would turn a Discovery horizontal, but that Discovery is already 
 
 ### Creating Adventurers
 
-If any Player is creating an [Adventurer](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#player-and-adventurer), they place seven random Discoveries into their Deck. The Player Shares Discoveries as usual, except for two things: 
+If any [Player](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#player-and-adventurer) is creating an [Adventurer](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#player-and-adventurer), they place seven random Discoveries into their Deck. The Player Shares Discoveries as usual, except for two things: 
 
 1. Players draw two random Discoveries whenever they advance their Order; and
 2. Players return two Discoveries of their choice from their hand at the start of their turn in the Order. 

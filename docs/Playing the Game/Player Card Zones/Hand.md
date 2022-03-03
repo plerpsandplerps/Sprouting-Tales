@@ -10,7 +10,7 @@ nav_order: 2
 
 ---
 
-A **Hand** refers to the cards a Player holds in their hands and keeps hidden from the rest of the group. Each Player has their own Hand.
+A **Hand** refers to the cards a [Player](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#player-and-adventurer) holds in their hands and keeps hidden from the rest of the group. Each Player has their own Hand.
 
 When a Player has fewer than two cards in their Hand, they draw cards from the top of their Deck until they have two cards in Hand.
 

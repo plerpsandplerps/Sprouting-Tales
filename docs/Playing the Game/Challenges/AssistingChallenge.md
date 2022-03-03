@@ -8,7 +8,7 @@ nav_order: 2
 
 # Assisting in a Challenge
 
-To assist in a Challenge, a Player must meet the following criteria: 
+To assist in a Challenge, a [Player](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#player-and-adventurer) must meet the following criteria: 
 
 1. Have a Trait on top of their Deck;
 2. Their [Adventurer](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#player-and-adventurer) cannot be facing the same Challenge; and

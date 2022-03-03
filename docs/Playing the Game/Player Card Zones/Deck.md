@@ -10,7 +10,7 @@ nav_order: 2
 
 ---
 
-The **Deck** is a pile of face-down cards. Each Player has their own Deck. 
+The **Deck** is a pile of face-down cards. Each [Player](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#player-and-adventurer) has their own Deck. 
 
 <!-- insert example here -->
 

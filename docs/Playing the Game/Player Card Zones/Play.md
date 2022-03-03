@@ -11,4 +11,4 @@ nav_order: 2
 
 ---
 
-The **Play** zone is a space in front of a Player where they keep certain cards. Each player has their own Play zone. Typically, the Play zone holds Paths or Consequences.
+The **Play** zone is a space in front of a [Player](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#player-and-adventurer) where they keep certain cards. Each player has their own Play zone. Typically, the Play zone holds Paths or Consequences.

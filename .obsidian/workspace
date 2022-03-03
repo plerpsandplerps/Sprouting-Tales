@@ -58,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "adventurer",
+                "query": "Player",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,14 +131,14 @@
   "active": "53740c691fbf4af8",
   "lastOpenFiles": [
     "docs/Playing the Game/Card Types/Traits.md",
+    "docs/Playing the Game/Tales.md",
     "docs/Playing the Game/Card Types/SuppliesandItems.md",
     "docs/Playing the Game/Player Card Zones/PlayerCardZones.md",
+    "docs/Playing the Game/Player Card Zones/Play.md",
     "docs/Playing the Game/Card Types/Paths.md",
-    "docs/Introduction/Introduction.md",
+    "_drafts/Order.md",
+    "docs/Playing the Game/Player Card Zones/Kindling.md",
     "docs/Playing the Game/Player Card Zones/Hand.md",
-    "docs/Playing the Game/Endings.md",
-    "docs/Playing the Game/Card Types/Discoveries.md",
-    "docs/Playing the Game/Player Card Zones/Deck.md",
-    "docs/Playing the Game/Card Types/Consequences.md"
+    "docs/Playing the Game/Endings.md"
   ]
 }

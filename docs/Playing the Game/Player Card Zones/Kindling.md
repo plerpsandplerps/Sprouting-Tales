@@ -10,7 +10,7 @@ nav_order: 2
 
 ---
 
-The **Kindling** is a pile of face-up cards. Each Player has their own Kindling. 
+The **Kindling** is a pile of face-up cards. Each [Player](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#player-and-adventurer) has their own Kindling. 
 
 Kindling does not contribute to a Player's Score. 
 

@@ -8,7 +8,7 @@ nav_order: 2
 
 # Consequences
 
-As [Adventurer](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#player-and-adventurer)s adventure, they may suffer Consequences. **Consequences** are a type of card that affects an Adventurer while it is in Play. Consequences can be beneficial or harmful. When an Adventurer gains a Consequence, that Player puts it into their Play. 
+As [Adventurer](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#player-and-adventurer)s adventure, they may suffer Consequences. **Consequences** are a type of card that affects an Adventurer while it is in Play. Consequences can be beneficial or harmful. When an Adventurer gains a Consequence, that [Player](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#player-and-adventurer) puts it into their Play. 
 
 Every Consequence belongs to one of two categories:  
 1. **Ongoing**; or,
@@ -16,7 +16,7 @@ Every Consequence belongs to one of two categories:
 
 ## Ongoing
 
-**Ongoing** Consequences are just that, ongoing. They are not returned when a Player Rests, and instead must be returned by a different effect. 
+**Ongoing** Consequences are just that, ongoing. They are not returned when a [Player](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#player-and-adventurer) Rests, and instead must be returned by a different effect. 
 
 <img src="https://plerpsandplerps.github.io/Sprouting-Tales/artwork/InjuryExp.png" alt="Injury Ongoing Consequence Card Explanation">
 
@@ -26,7 +26,7 @@ Most Ongoing Consequences offer the Player the opportunity to return them, for a
 
 ## Conditions
 
-**Conditions** are temporary Consequences, when a Player Rests they return all of their Conditions from Play. 
+**Conditions** are temporary Consequences, when a [Player](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#player-and-adventurer) Rests they return all of their Conditions from Play. 
 
 The first Condition an [Adventurer](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#player-and-adventurer) gains has no effect outside its Score. When a Player would put a copy beyond the first of a Condition into play, the Player instead resolves the effect listed on the card.
 

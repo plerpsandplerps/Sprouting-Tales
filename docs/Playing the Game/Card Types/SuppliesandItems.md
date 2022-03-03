@@ -12,13 +12,13 @@ nav_order: 2
 
 **Supplies** are the ordinary adventuring tools and simple items found while exploring. The common nature of these items lends them to be used as currency in the barter economy. 
 
-Players keep their Supplies in their Play zone.
+[Player](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#player-and-adventurer)s keep their Supplies in their Play zone.
 
 ## Declaring Supplies
 
 Supplies cannot be used until they are Declared.
 
-A player can **Declare** a Supply by turning a Supply ninety degrees clockwise, and announcing out loud to the group what object the Supply is. A Declared Supply cannot be Declared again, until the [Adventurer](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#player-and-adventurer) Resupplies. 
+A [Player](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#player-and-adventurer) can **Declare** a Supply by turning a Supply ninety degrees clockwise, and announcing out loud to the group what object the Supply is. A Declared Supply cannot be Declared again, until the [Adventurer](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#player-and-adventurer) Resupplies. 
 
 The Player can only announce the Supply as an object that costs one Supply. The [Guide](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#guide) ultimately decides whether the object costs one Supply, but at a minimum, this includes:
 - Torch
@@ -43,7 +43,7 @@ The Player returns the Declared Supply if the Adventurer consumes, loses, or sig
 
 ## Resupply
 
-When the Party spends some time at a well-supplied town, they **Resupply**. The Players may turn all of their horizontal Declared Supplies vertical. This represents the [Adventurer](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#player-and-adventurer)s bartering and exchanging their existing supplies for new ones. 
+When the Party spends some time at a well-supplied town, they **Resupply**. The [Player](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#player-and-adventurer)s may turn all of their horizontal Declared Supplies vertical. This represents the [Adventurer](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#player-and-adventurer)s bartering and exchanging their existing supplies for new ones. 
 
 ### Purchasing Items
 

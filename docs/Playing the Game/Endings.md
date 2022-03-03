@@ -13,7 +13,7 @@ nav_order: 2
 
 ---
 
-At any point, a Player may choose to have their [Adventurer](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#player-and-adventurer)'s Ending. 
+At any point, a [Player](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#player-and-adventurer) may choose to have their [Adventurer](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#player-and-adventurer)'s Ending. 
 
 An Ending can take many forms: 
 1. The Adventurer has died; 
@@ -25,7 +25,7 @@ If the Player wants to continue playing, they may create a new Adventurer the ne
 
 ## Goodbye
 
-After an [Adventurer](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#player-and-adventurer) has an Ending, all other Players and Adventurers have a **Goodbye**. 
+After an [Adventurer](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#player-and-adventurer) has an Ending, all other [Player](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#player-and-adventurer)s and Adventurers have a **Goodbye**. 
 
 During a Goodbye, the Players talk about what aspects of the Ending Adventurer they enjoyed. Then Players speak, as their Adventurer, saying goodbye to the Ending Adventurer. 
 
@@ -33,6 +33,6 @@ After the Goodbye, return all cards in the zones of the Ending Adventurer's Play
 
 ## Dignity
 
-The point of Endings is for [Adventurer](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#player-and-adventurer)s, and Players, to be able to exit games with dignity. 
+The point of Endings is for [Adventurer](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#player-and-adventurer)s, and [Player](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#player-and-adventurer)s, to be able to exit games with dignity. 
 
 Every other person in the group should react positively to an Ending and should not take it as an opportunity to belittle another Adventurer or another Player.
