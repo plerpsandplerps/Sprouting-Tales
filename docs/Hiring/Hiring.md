@@ -2,7 +2,7 @@
 layout: default
 title:  Hiring Artists
 author: Plerps
-nav_order: 1
+nav_order: 3
 permalink: /docs/Hiring
 ---
 
@@ -19,10 +19,9 @@ I have a [Pinterest board ](https://pin.it/4oBMQXQ) with some style ideas I am c
 - Magical Fires (Magic is fueled by burning off bits of yourself)
 
 If you think you might be a good fit, DM me a link to your portfolio and some of your work below!
-
-The rate is negotiable. $20-$40 per piece.
-
 (or feel free to share details with friends you think might fit!)
+
+**The rate is negotiable. $30-$50 per piece.**
 
 More about the game:
 
