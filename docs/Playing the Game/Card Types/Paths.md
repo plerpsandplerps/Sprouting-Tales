@@ -22,6 +22,6 @@ Players may move Paths from Play to their Deck at any time.
 
 ## Kindling Cost
 
-On the face-up side of Path cards, there is a Kindling Cost listed in the bottom right. The **Kindling Cost** is the number of cards the [Player](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#player-and-adventurer) must move from their Discard to their Kindling to activate the effect on their face-up Path. 
+On the face-up side of Path cards, a Kindling Cost is listed in the bottom right. The **Kindling Cost** is the number of cards the [Player](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#player-and-adventurer) must move from their Discard to their Kindling to activate the effect on their face-up Path. 
 
 Players may pay this cost and activate the effect at any time. 

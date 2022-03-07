@@ -12,22 +12,12 @@ nav_order: 2
 
 <img src="https://plerpsandplerps.github.io/Sprouting-Tales/artwork/Art_Inferno.png" >
 
+---
+
 Fires spread throughout the World Tree and leave the World in disarray. Adventurers are continuously discovering and exploring this world. 
 
 A **Discovery** is a card type used to create Challenges, advance [Adventurers](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#player-and-adventurer), and shape the World Tree.
 
----
-
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
-1. TOC
-{:toc}
-</details>
-
----
 ## The World Tree and Sharing Discoveries
 
 **The World Tree** is a card zone that represents the World the [Adventurer](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#player-and-adventurer)s are exploring. The World Tree can only have face-up Discoveries in it. 

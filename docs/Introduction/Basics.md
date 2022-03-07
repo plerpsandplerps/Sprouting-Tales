@@ -15,17 +15,6 @@ This page details the basics of playing a Tabletop Role-playing Game and the rol
 
 ---
 
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
-1. TOC
-{:toc}
-</details>
-
----
-
 ## Roles
 
 Sprouting Tales is best played with 3-5 people. 

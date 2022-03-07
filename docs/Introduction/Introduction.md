@@ -17,6 +17,6 @@ Sprouting Tales is a card-based tabletop role-playing game about how characters 
 
 <img src="https://plerpsandplerps.github.io/Sprouting-Tales/artwork/Art_Tavern.png" alt="Adventurers in a Tavern">
 
-**Disclaimer: This is very much a work in progress. It is currently playable in a play-test form.**
+**Disclaimer: It is currently playable in a play-test form, but it is a work in progress.**
 
 Start with the basics below:
