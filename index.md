@@ -19,4 +19,5 @@ Sprouting Tales is a card-based tabletop role-playing game about how characters 
 Join us on Social Media:
 
 [Discord](https://discord.com/invite/tJjGUNJAZP)
+
 [Twitter](https://twitter.com/plerpsandplerps)

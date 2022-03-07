@@ -4,34 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "53740c691fbf4af8",
+        "id": "335aa34c0d286b8b",
         "type": "leaf",
-        "dimension": 56.33293124246079,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_drafts/GoalsandConflicts.md",
+            "file": "index.md",
             "mode": "source",
             "backlinks": true,
             "source": true
           }
-        },
-        "group": "5565691fc61a6651"
-      },
-      {
-        "id": "214363aef0735a90",
-        "type": "leaf",
-        "dimension": 43.66706875753921,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "_drafts/GoalsandConflicts.md",
-            "mode": "preview",
-            "backlinks": true,
-            "source": true
-          }
-        },
-        "group": "5565691fc61a6651"
+        }
       }
     ],
     "direction": "vertical"
@@ -87,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_drafts/GoalsandConflicts.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_drafts/GoalsandConflicts.md"
+                "file": "index.md"
               }
             }
           },
@@ -114,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_drafts/GoalsandConflicts.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,17 +110,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "53740c691fbf4af8",
+  "active": "335aa34c0d286b8b",
   "lastOpenFiles": [
-    "_drafts/GoalsandConflicts.md",
-    "_drafts/Order.md",
-    "_drafts/upload.md",
-    "docs/Playing the Game/Card Types/Paths.md",
-    "docs/Playing the Game/Card Types/Discoveries.md",
-    "docs/Introduction/Introduction.md",
+    "index.md",
     "docs/Introduction/Basics.md",
-    "docs/Playing the Game/Endings.md",
-    "docs/Playing the Game/Card Types/Traits.md",
-    "docs/Playing the Game/Challenges/Challenges.md"
+    "docs/Introduction/Introduction.md",
+    "docs/Hiring/Hiring.md",
+    "_drafts/Order.md",
+    "_drafts/StyleGuide.md",
+    "_drafts/upload.md",
+    "_drafts/Quickstart.md",
+    "_drafts/GroupChallenges.md",
+    "_drafts/GoalsandConflicts.md"
   ]
 }

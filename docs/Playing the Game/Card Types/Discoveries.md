@@ -14,7 +14,7 @@ nav_order: 2
 
 ---
 
-Fires spread throughout the World Tree and leave the World in disarray. Adventurers are continuously discovering and exploring this world. 
+The World of Sprouting Tales is in complete disarray. Entire regions disappear into the Inferno in a single night, only to spring up again days later. The Adventurers continuously discover and explore this ever-changing landscape. 
 
 A **Discovery** is a card type used to create Challenges, advance [Adventurers](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#player-and-adventurer), and shape the World Tree.
 
