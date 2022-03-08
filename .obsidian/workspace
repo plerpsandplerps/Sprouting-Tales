@@ -9,11 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Hiring/Hiring.md",
+            "file": "_drafts/Updates.md",
             "mode": "source",
             "backlinks": true,
             "source": true
           }
+        }
+      },
+      {
+        "id": "7454d73c6afee50a",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -70,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Hiring/Hiring.md",
+                "file": "_drafts/Updates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Hiring/Hiring.md"
+                "file": "_drafts/Updates.md"
               }
             }
           },
@@ -97,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Hiring/Hiring.md",
+                "file": "_drafts/Updates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,15 +120,15 @@
   },
   "active": "335aa34c0d286b8b",
   "lastOpenFiles": [
+    "_drafts/Updates.md",
+    "_drafts/Links.md",
+    "_drafts/upload.md",
+    "_drafts/Order.md",
+    "_drafts/desires.md",
     "docs/Hiring/Hiring.md",
     "index.md",
     "docs/Introduction/Basics.md",
     "docs/Introduction/Introduction.md",
-    "_drafts/Order.md",
-    "_drafts/StyleGuide.md",
-    "_drafts/upload.md",
-    "_drafts/Quickstart.md",
-    "_drafts/GroupChallenges.md",
-    "_drafts/GoalsandConflicts.md"
+    "_drafts/StyleGuide.md"
   ]
 }
