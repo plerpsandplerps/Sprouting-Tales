@@ -23,8 +23,6 @@ The **Deck** is a pile of face-down cards. Each [Player](https://plerpsandplerps
 
 <!-- insert example here -->
 
-When there are no more cards in a Player's Deck, that Player shuffles their Discard into their Deck. Then they gain Exhausted.  
-
 A Player cannot look through the cards in their Deck nor change the order of the cards in their Deck.
 
 ## Discard
