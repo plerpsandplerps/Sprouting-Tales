@@ -59,11 +59,7 @@ While the [Adventurer](https://plerpsandplerps.github.io/Sprouting-Tales/docs/In
 
 The Guide decides what the Rumor is and where the Rare Item is.
 
----
-
 # Items
-
----
 
 **Items** are the weapons, trinkets, and armor that [Adventurer](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#player-and-adventurer)s rely upon regularly. 
 

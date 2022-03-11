@@ -1,0 +1,10 @@
+- The printer needs 300dpi images for the card images
+- All pieces color
+- I have some card frames I am using that support:
+- - 1 piece (possibly a second piece for the backs) at most 2.25in width and 1.875in height for all Trait cards
+- - Several pieces at most 2.25in W and 1.875in H for the Path cards
+- - One piece for the back of all Supply cards at most 1.35in W and 2.35 H (mini-cards that represent gear)
+- - One piece for all Discovery cards (possibly a second piece for the backs) at most 2.25in W and 1.875in H (shared cards that represent the World)
+- - Twelve pieces for the Order Cards at most 1.575in W and 1.25in H (mini-cards that determine the turn order players act)
+- - Several pieces for the Rare Items 1.575in W and 1.25in H (mini-cards that represent rare items)
+- - Several pieces for conditions 2.3 in W and 0.725 in H (mini-cards that represent conditions the characters have)
