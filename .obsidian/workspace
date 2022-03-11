@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Playing the Game/Player Card Zones/PlayerCardZones.md",
+            "file": "_drafts/Hiring/Hiring.md",
             "mode": "source",
             "backlinks": true,
             "source": true
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Playing the Game/Player Card Zones/PlayerCardZones.md",
+                "file": "_drafts/Hiring/Hiring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Playing the Game/Player Card Zones/PlayerCardZones.md"
+                "file": "_drafts/Hiring/Hiring.md"
               }
             }
           },
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Playing the Game/Player Card Zones/PlayerCardZones.md",
+                "file": "_drafts/Hiring/Hiring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,6 +112,7 @@
   },
   "active": "06a045bb1dcfb9e0",
   "lastOpenFiles": [
+    "_drafts/Hiring/Hiring.md",
     "docs/Playing the Game/Player Card Zones/PlayerCardZones.md",
     "docs/Playing the Game/Card Types/SuppliesandItems.md",
     "docs/Playing the Game/Player Card Zones/Hand.md",
@@ -120,7 +121,6 @@
     "docs/Playing the Game/Player Card Zones/Discard.md",
     "docs/Playing the Game/Player Card Zones/Deck.md",
     "docs/Introduction/Basics.md",
-    "docs/Introduction/Introduction.md",
-    "_drafts/Updates.md"
+    "docs/Introduction/Introduction.md"
   ]
 }
