@@ -15,7 +15,7 @@ permalink: /docs/Introduction
 
 Sprouting Tales is a card-based tabletop role-playing game about how characters grow, change, and decay. This category covers the basics of playing the game. 
 
-<img src="https://plerpsandplerps.github.io/Sprouting-Tales/artwork/Art_Tavern.png" alt="Adventurers in a Tavern">
+<img src="https://plerpsandplerps.github.io/Sprouting-Tales/artwork/Discovery_card.tif" alt="The World Tree">
 
 **Disclaimer: It is currently playable in a play-test form, but it is a work in progress.**
 

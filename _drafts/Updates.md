@@ -67,3 +67,10 @@
 10. Keeper
 11. Commoner
 12. Fool
+
+
+roleplay roleplay roleplay
+
+roleplay to draw the top card of your deck. roleplay to play the card from your hand. 
+
+mage 20th anniversary
