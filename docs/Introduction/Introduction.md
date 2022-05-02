@@ -17,6 +17,6 @@ Sprouting Tales is a card-based tabletop role-playing game about how characters 
 
 <img src="https://plerpsandplerps.github.io/Sprouting-Tales/artwork/Discovery_card.png" alt="The World Tree">
 
-**Disclaimer: It is currently playable in a play-test form, but it is a work in progress.**
+**Disclaimer: It is currently playable in a play-test form.**
 
 Start with the basics below:

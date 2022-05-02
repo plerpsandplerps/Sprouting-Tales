@@ -19,7 +19,7 @@ The set of cards a [Player](https://plerpsandplerps.github.io/Sprouting-Tales/do
 
 ## Deck
 
-The **Deck** is a pile of face-down cards. Each [Player](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#player-and-adventurer) has their own Deck. 
+The **Deck** is a pile of face-down cards. Each [Player](https://plerpsandplerps.github.io/Sprouting-Tales/docs/Introduction/Basics.html#player-and-adventurer) has their own Deck. When a Player's Deck is empty, they shuffle their Discard into their Deck and gain Exhausted.
 
 <!-- insert example here -->
 
@@ -43,7 +43,7 @@ Kindling does not contribute to a Player's Score.
 
 <!-- insert example here -->
 
-When there are no cards in a Player's Deck and Discard, that Player shuffles their Kindling into their Deck.
+When there are no cards in a Player's Deck and Discard, that Player shuffles their Kindling into their Deck and gains Exhausted.
 
 A Player can freely look through cards in their Kindling and change the order of those cards.
 
